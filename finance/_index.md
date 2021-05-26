@@ -10,20 +10,11 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Finance On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Finance for " title=".NET" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png" >}}
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title=".NET" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png" productLink="https://products.aspose.com/finance/net" >}}
 On Premise APIs for XBRL and iXBRL format processing in Windows Forms, ASP.NET using .NET Framework as well as in Mono.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family" innerText="View All On Premise APIs" >}}
-
-{{< /blocks/products/pf/product-card-row >}}
-
-{{< blocks/products/pf/product-card-row title="" >}}
-
-{{< blocks/products/pf/product pfName="" title="" imgSrc="" >}}
-{{< /blocks/products/pf/product >}}
-
-{{< blocks/products/pf/center-button href="" innerText="" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
