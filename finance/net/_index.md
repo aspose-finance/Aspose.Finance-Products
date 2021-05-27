@@ -330,10 +330,5 @@ List units = fle.Units;</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/finance/net" pricingInformationLink="https://purchase.aspose.com/pricing/finance/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" description="" >}}
-
-    {{< blocks/products/pf/offers-section-item link="" imgSrc="" sdkName="" >}}
-
-{{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
