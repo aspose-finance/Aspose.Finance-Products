@@ -5,13 +5,17 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Parse Finance Documents" h2="Create, Read and Validate XBRL and iXBRL Finance-Related Formats within any Business Processes Management, Financial Analysis and Reporting Software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/header/aspose_finance-for-net.png" pfName="Aspose.Finance" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Parse Finance Documents" h2="Create, Read and Validate XBRL and iXBRL Finance-Related Formats within any Business Processes Management, Financial Analysis and Reporting Software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/header/aspose_finance-for-net.png" pfName="Aspose.Financefor .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/finance/net/release-notes/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p align="justify">
+ Aspose.Finance for .NET is a flexible library for finance-related formats processing. API can easily create, read, and validate eXtensible Business Reporting Language XBRL and iXBRL formats. Developers can develop XBRL enabled software with ease or can use within any existing digital financial reporting system to create reports with XBRL. It is an extensible, easy to use and standalone API independent of any other software.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -301,12 +305,6 @@ List units = fle.Units;</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -331,7 +329,7 @@ List units = fle.Units;</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/finance/net" pricingInformationLink="https://purchase.aspose.com/pricing/finance/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="" >}}
+{{< blocks/products/pf/offers-section pfName="" description="" >}}
 
     {{< blocks/products/pf/offers-section-item link="" imgSrc="" sdkName="" >}}
 
