@@ -6,7 +6,7 @@ description: Library to manipulate finance-related formats used in filing for co
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="APIs to ProcessВ XBRL, iXBRL Formats" h2="Native .NET APIs to manipulate finance-related formats like XBRL, iXBRL withoutВ any softwareВ dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/header/aspose_finance.png" pfName="Aspose.FinanceВ" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="APIs to Process XBRL, iXBRL Formats" h2="Native .NET APIs to manipulate finance-related formats like XBRL, iXBRL without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/header/aspose_finance.png" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Finance On Premise APIs Include" >}}

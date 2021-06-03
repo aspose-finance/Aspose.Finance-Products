@@ -1,6 +1,6 @@
 ---
 title: Finance Solutions -  APIs for XBRL and iXBRL Related Software 
-weight: 20
+weight: 30
 url: /
 description: On Premise APIs and Free Apps to process eXtensible business reporting language XBRL and iXBRL  formats to create consolidated financial statements and more
 ---

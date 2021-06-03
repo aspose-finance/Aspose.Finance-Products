@@ -1,6 +1,6 @@
 ---
 title: C# .NET APIs for Financial Digital Reporting Systems - Aspose 
-weight: 30
+weight: 20
 url: /net/ 
 description: C# ASP.NET VB.NET library for conversion of financial statements to eXtensible Business Reporting Language XBRL and iXBRL for analysis to generate XBRL taxonomies and reports
 ---
