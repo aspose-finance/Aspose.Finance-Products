@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Parse Finance Documents" h2="Create, Read and Validate XBRL and iXBRL Finance-Related Formats within any Business Processes Management, Financial Analysis and Reporting Software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/header/aspose_finance-for-net.png" pfName="Aspose.Financefor .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Parse Finance Documents" h2="Create, Read and Validate XBRL and iXBRL Finance-Related Formats within any Business Processes Management, Financial Analysis and Reporting Software." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/header/aspose_finance-for-net.png" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Finance" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/finance/net/release-notes/" instalationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/pricing/finance/net" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
