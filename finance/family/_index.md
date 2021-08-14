@@ -6,12 +6,12 @@ description: Library to manipulate finance-related formats used in filing for co
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="APIs to Process XBRL, iXBRL Formats" h2="Native .NET APIs to manipulate finance-related formats like XBRL, iXBRL without any software dependencies." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/header/aspose_finance.png" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="APIs to Process XBRL, iXBRL Formats" h2="Native .NET APIs to manipulate finance-related formats like XBRL, iXBRL without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Finance On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Finance for" title=".NET" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png" productLink="/finance/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Finance for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="/finance/net/" >}}
 Target Windows Forms, ASP.NET or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 

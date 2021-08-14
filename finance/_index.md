@@ -11,7 +11,7 @@ description: On Premise APIs and Free Apps to process eXtensible business report
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Finance On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Finance for " title=".NET" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/finance/272x272/aspose_finance-for-net.png" productLink="https://products.aspose.com/finance/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="https://products.aspose.com/finance/net" >}}
 On Premise APIs for XBRL and iXBRL format processing in Windows Forms, ASP.NET using .NET Framework as well as in Mono.
 {{< /blocks/products/pf/product >}}
 
