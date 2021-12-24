@@ -6,14 +6,14 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET Library to Parse Finance Documents" h2="Create, Read and Validate XBRL and iXBRL Finance-Related Formats within any Business Processes Management, Financial Analysis and Reporting Software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET Library to Parse Finance Documents" h2="Create, Read and Validate XBRL and iXBRL Finance-Related Formats within any Business Processes Management, Financial Analysis and Reporting Software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET is a flexible library for finance-related formats processing. API can easily create, read, and validate eXtensible Business Reporting Language XBRL and iXBRL formats. Developers can develop XBRL enabled software with ease or can use within any existing digital financial reporting system to create reports with XBRL. It is an extensible, easy to use and standalone API independent of any other software.</p>
+<p align="justify"> Aspose.Finance for .NET is a flexible library for finance-related formats processing. API can easily create, read, and validate eXtensible Business Reporting Language XBRL and iXBRL formats. Developers can develop XBRL enabled software with ease or can use within any existing digital financial reporting system to create reports with XBRL. It is an extensible, easy to use and standalone API independent of any other software.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -49,7 +49,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa fa-cogs"> </i>General Features</header>
+   <!--<header><i class="fa fa-cogs"> </i>General Features</header>
 
 <ul>
 
@@ -150,7 +150,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+   <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
 
 <ul>
 
@@ -198,7 +198,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create XBRL instance from scratch
+     Create XBRL instance from scratch
     </p>
    </div>
    <div class="col-lg-4">
@@ -215,37 +215,37 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
      Validate XBRL and iXBRL
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Validate XBRL</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-plus ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-plus ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Validate iXRL</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-edit ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-edit ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Change the node properties</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-cog ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Content navigation using XPath Query</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-recycle ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-recycle ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Navigate via CSS Selectors, Element and Document Traversal</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-cogs ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">DOM Tree manipulation of official SVG specifications</p>
 
@@ -272,7 +272,7 @@ doc.Save(XbrlFilePath + @"output\document1.xbrl");</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Read iXBRL File
+     Read iXBRL File
     </h2>
     <p>
      Reading Inline eXtensible Business Reporting Language iXBRL instance documents also supported.
