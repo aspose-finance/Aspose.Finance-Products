@@ -61,7 +61,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Finance Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Finance Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg"/>
   <header>
    Aspose.Finance
   </header>
@@ -112,7 +112,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Finance Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg"/>
+  <img width="70" height="75" alt="Finance Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg"/>
   <header>
    Aspose.Finance
   </header>
@@ -162,7 +162,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Finance API" src="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Finance API" src="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg"/>
   <header>
    Aspose.Finance
   </header>
