@@ -34,7 +34,7 @@ Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloa
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows how to convert XBRL to XLSX file via C#" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "1e7ebb667a6dca37fc30292c0b41da72" "convert-xbrl-to-xlsx.cs" >}}
+{{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-xlsx.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
