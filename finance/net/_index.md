@@ -262,7 +262,13 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
       Create XBRL Instance - C#
      </h3>
      <pre><code class="cs">
-{{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}} 
+XbrlDocument  doc = new XbrlDocument();
+
+XbrlInstanceCollection xbrlInstances = doc.XbrlInstances;
+
+XbrlInstance xbrlInstance = xbrlInstances[xbrlInstances.Add()];
+
+doc.Save(XbrlFilePath + @"output\document1.xbrl");
 </code></pre>
     </div>
    </div>
@@ -278,7 +284,13 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
       Read iXBRL instance documents - C#
      </h3>
      <pre><code class="cs">
-{{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}} 
+InlineXbrlDocument fle = new InlineXbrlDocument(XbrlFilePath + @"account_1.html");
+
+List inlineFacts = fle.Facts;
+
+List contexts = fle.Contexts;
+
+List units = fle.Units;
 </code></pre>
     </div>
    </div>
