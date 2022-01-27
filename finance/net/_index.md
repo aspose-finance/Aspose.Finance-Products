@@ -135,7 +135,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    <i class="fa fa-long-arrow-down">
+    <i class="fa fa-arrows-v">
     </i>
     Input/Output
    </header>
