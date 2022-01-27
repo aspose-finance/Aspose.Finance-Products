@@ -137,7 +137,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
    <header>
     <i class="fa fa-long-arrow-down">
     </i>
-    Input Only
+    Input/Output
    </header>
    <ul>
     <li>
@@ -146,17 +146,23 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
     <li>
      iXBRL
     </li>
+    <li>
+     OFX
+    </li>
+    <li>
+     OFX Version 1
+    </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <!--<header><i class="fa  fa-mail-forward"> </i> Output Only</header>
+   <header><i class="fa  fa-mail-forward"> </i> Output Only</header>
 
 <ul>
 
-<li><b>Fixed Layout: </b>PDF, XPS</li>
+<li>XLSX</li>
 
-</ul></header>-->
+</ul>
   </div>
   <!--/right-->
  </div>
