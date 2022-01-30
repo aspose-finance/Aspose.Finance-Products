@@ -4,7 +4,7 @@ url: /net/read/
 description:  C# code to read financial reports in XBRL and iXBRL files via .NET library.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Read Financial Report Files via C#" h2="Reading financial report formats including XBRL and iXBRL within .NET based applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Read Financial Reporting Files via C#" h2="Reading financial report formats including XBRL and iXBRL within .NET based applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -23,7 +23,7 @@ Reading XBRL file is needed to load the existing file for viewing and analysis. 
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section  h2="Read iXBLR Document" %}}
+{{% blocks/products/pf/feature-page-section  h2="Read iXBRL Document" %}}
 
 As mentioned above, when there is need of viewing, analysing or editing existing data then there is need of reading the iXBRL file. To read it, API provides InlineXbrlDocument class having a valid iXBRL file as parameter. Programmers can utilize classes like [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Context](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Unit](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) viewing its data and structure. 
 

@@ -4,7 +4,7 @@ url: /net/create/
 description:  C# code to create Financial Reports in XBRL, and OFX request or response files via .NET library.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Create Financial Report Files via C#" h2="Financial report formats creation including XBRL and OFX request or response file in 1.03 or 2.2 format within .NET based applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Create Financial Reporting Files via C#" h2="Financial report formats creation including XBRL and OFX request or response file in 1.03 or 2.2 format within .NET based applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

@@ -1,6 +1,6 @@
 ---
-title: Read XBRL File via C#
-description: Sample code for XBRL file reading. Use API example code to read batch XBRL files within .NET based applications. 
+title: Read iXBRL File via C#
+description: Sample code for iXBRL file reading. Use API example code to read batch iXBRL files within .NET based applications. 
 url: /net/read/ixbrl/
 family: finance
 platformtag: net
