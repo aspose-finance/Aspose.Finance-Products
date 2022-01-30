@@ -13,7 +13,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET is a flexible library for finance-related formats processing. API can easily create, read, and validate eXtensible Business Reporting Language XBRL and iXBRL formats. Developers can develop XBRL enabled software with ease or can use within any existing digital financial reporting system to create reports with XBRL. It is an extensible, easy to use and standalone API independent of any other software.</p>
+<p align="justify"> Aspose.Finance for .NET is a flexible library for finance-related formats processing. API can easily create, read, and validate eXtensible Business Reporting Language XBRL and iXBRL formats as well as create OFX Request and Response files in different formats. Developers can develop XBRL enabled software with ease or can use within any existing digital financial reporting system to create reports with XBRL. It is an extensible, easy to use and standalone API independent of any other software.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -211,7 +211,7 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read XBRL and iXBRL Format
+     Read XBRL and iXBRL Formats
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,6 +219,49 @@ description: C# ASP.NET VB.NET library for conversion of financial statements to
     </em>
     <p class="col-lg-10">
      Validate XBRL and iXBRL
+    </p>
+   </div>
+ <div class="col-lg-4">
+    <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert XBRL to iXBRL
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert XBRL to XLSX
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create OFX Request File
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Create OFX Response File
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert OFX Request File from 1.03 to 2.2 format
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Convert OFX Response File from 1.03 to 2.2 format
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
