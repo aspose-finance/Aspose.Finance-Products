@@ -24,7 +24,7 @@ Follow the steps in code snippet or enhance it as of your application needs for 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Validating Requirement" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Validation Requirement" %}}
 To proceed for validating XBRL documents, .NET Finance API is the main requirement to be included within application. 
 - Install it via command line as ```nuget install Aspose.Finance``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Finance```.
 
