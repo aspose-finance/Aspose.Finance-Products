@@ -19,7 +19,7 @@ otherformats: OFX Response
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="How to OFX Response File from 1.03 to 2.2" %}}
+{{% blocks/products/pf/agp/feature-section-col title="How to Convert OFX Response File from 1.03 to 2.2 Format" %}}
 1. Load input file using [OfxResponseDocument class](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument).
 1. Use the ofxVersion V2x from [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) as parameter in Save method.
 1. Call the [Save method](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) by providing the target file and ofxVersion.
