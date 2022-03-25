@@ -1,0 +1,55 @@
+﻿---
+title: Chuyển đổi XBRL để XLSX Excel thông qua C#
+description: Mẫu mã cho XBRL để Excel XLSX C# chuyển đổi. Sử dụng API Ví dụ mã cho hàng loạt XBRL các tập tin để XLSX chuyển đổi trong vòng .NET dựa trên các ứng dụng. 
+url: /vi/net/conversion/xbrl-to-xlsx/
+family: finance
+platformtag: net
+feature: conversion
+informat: XBRL
+outformat: XLSX
+otherformats: iXBRL
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi XBRL để XLSX qua C#" h2="XBRL để Microsoft<sup>®</sup> Excel XLSX chuyển đổi định dạng mà không cần phải Microsoft văn phòng cài đặt." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Là một API để quá trình XBRL, iXBRL các định dạng và các nhà phát triển có thể dễ dàng xây dựng quy trình kinh doanh quản lý, tài Chính phân tích và báo cáo các ứng dụng phần mềm để chuyển đổi, tạo ra, đọc, xem và xác nhận XBRL và iXBRL Tài Chính liên quan đến các tập tin. 
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Làm thế nào để Chuyển Đổi XBRL để XLSX" %}}
+1. Tải Đầu vào XBRL tập tin sử dụng [XbrlDocument lớp](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument).2. Set [SaveOptions](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) Cho các đầu ra tập tin bằng cách chọn các có liên quan [SaveFormat](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat).
+3. cuộc gọi các [Tiết kiệm phương pháp](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/2) Bằng cách cung cấp các tập tin mục tiêu và có liên quan SaveOptions như các thông số.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Chuyển đổi Yêu Cầu" %}}
+Để tiến hành cho XBRL để XLSX chuyển đổi, .NET Finance API là chính yêu cầu. Cài đặt nó thông qua dòng lệnh như '''nuget cài đặt Aspose.Finance'' 'hoặc thông qua Gói Quản Lý Giao Diện Điều Khiển của Visual Studio với '''Install-Gói Aspose.Finance' ''.
+
+Ngoài ra, có được các ẩn MSI cài đặt hoặc DLL trong một ZIP tập tin từ [Tải](https://downloads.aspose.com/finance/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="C# mã nguồn để chuyển đổi XBRL để XLSX tập tin" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-xlsx.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-supported-section title="Khác Chuyển Đổi Tùy Chọn" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL để iXBRL" description="Inline Mở Rộng Kinh Doanh Báo Cáo Ngôn Ngữ" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX đáp ứng" description="Từ 1.03-2.2 Định Dạng" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX yêu cầu" description="Từ 1.03-2.2 Định Dạng" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,0 +1,49 @@
+﻿---
+title: 通過 C# 創建 OFX 請求文件
+description: OFX 請求文件創建的示例代碼。 使用 API 示例代碼在基於 .NET 的應用程序中生成批處理 OFX 請求文件。 
+url: /zh-hant/net/create/ofx-request/
+family: finance
+platformtag: net
+feature: create
+informat: OFX Request
+outformat: 
+otherformats: OFX Response
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="通過 C# 創建 OFX 請求文件" h2="OFX 無需安裝Microsoft Office或任何其他軟件即可請求創建文件。" >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="如何創建 OFX 請求文件" %}}
+
+在應用程序中具有 OFX 請求文件創建要求後,請按照代碼段中的步驟操作或根據您的要求對其進行增強。
+
+1. 創建 [OfxRequestDocument類](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 對象。1. 使用 API 提供的不同類分配相關屬性,如 [簽名請求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [金融機構](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution), [StatementTransactionRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest)1. 將ofxVersion V2x或V1x分別用於xml和sgml文件 [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) 作為保存方法中的參數。1. 打電話給 [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) 通過提供目標文件和ofxVersion。
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="創建要求" %}}
+要繼續創建 OFX 請求文件,.NET Finance API 是要包含在報告生成應用程序中的主要要求。 
+- 通過命令行將其安裝為 '''nuget Install Aspose.Finance''' 或通過Visual studio的軟件包管理器控制台安裝為 '''install-Package Aspose.Finance'''。
+- 或者,從以下位置獲取ZIP文件中的脫機MSI安裝程序或dll [下載](https://downloads.aspose.com/finance/net)。{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="C# 創建請求文件的代碼" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-request-files.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-supported-section title="其他創建選項" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-response/" name="OFX 響應文件" description="1.03或2.2格式" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL 文件" description="可擴展業務報告語言" >}}
+
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

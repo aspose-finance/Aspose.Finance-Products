@@ -1,0 +1,55 @@
+﻿---
+title: Convertire XBRL in XLSX Excel tramite C#
+description: Codice di esempio per la conversione da XBRL a Excel XLSX C#. Utilizza il codice di esempio API per i file batch XBRL per la conversione XLSX all'interno di applicazioni basate su .NET. 
+url: /it/net/conversion/xbrl-to-xlsx/
+family: finance
+platformtag: net
+feature: conversion
+informat: XBRL
+outformat: XLSX
+otherformats: iXBRL
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convertire XBRL in XLSX tramite C#" h2="XBRL alla conversione del formato Microsoft<sup>®</sup> Excel XLSX senza bisogno dell\'installazione di Microsoft Office." >}}
+
+{{% blocks/products/pf/feature-page-summary %}}
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) È un API per elaborare XBRL, iXBRL formati e gli sviluppatori possono creare facilmente applicazioni software di gestione dei processi aziendali, analisi finanziaria e reporting per convertire, creare, leggere, visualizzare e convalidare XBRL e iXBRL file relativi alla finanza. 
+
+{{% /blocks/products/pf/feature-page-summary %}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Come convertire XBRL in XLSX" %}}
+1. Carica il file XBRL di input usando [Classe XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument).2. Set [Opzioni di salvataggio](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) Per il file di output scegliendo il pertinente [Formato di salvataggio](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat).
+3. Chiama il [Metodo di salvataggio](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/2) Fornendo il file di destinazione e SaveOptions pertinenti come parametri.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisito di conversione" %}}
+Per procedere per la conversione da XBRL a XLSX, .NET Finance API è il requisito principale. Installalo tramite riga di comando come '''nugget install Aspose.Finance''' o tramite Package Manager Console di Visual Studio con ''Installa-Package Aspose.Finance'''.
+
+In alternativa, ottenere il programma di installazione MSI offline o le DLL in un file ZIP da [Download](https://downloads.aspose.com/finance/net).
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="C# codice sorgente per convertire XBRL in file XLSX" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-xlsx.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-supported-section title="Altre opzioni di conversione" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="Da XBRL a iXBRL" description="Linguaggio di reporting aziendale estensibile in linea" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX Risposta" description="Formato da 1.03 a 2.2" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX Richiesta" description="Formato da 1.03 a 2.2" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

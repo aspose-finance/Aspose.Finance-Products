@@ -1,0 +1,46 @@
+﻿---
+title: Convalidare XBRL file tramite C#
+description: Codice di esempio per la convalida del file XBRL. Utilizza API codice di esempio per convalidare XBRL file batch all'interno di .NET applicazioni basate su. 
+url: /it/net/validate/xbrl/
+family: finance
+platformtag: net
+feature: validate
+informat: XBRL
+outformat: 
+otherformats: 
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convalidare XBRL file tramite C#" h2="Convalida dei rapporti finanziari in formato XBRL senza bisogno di Microsoft Office installato o di qualsiasi altro software." >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Come convalidare XBRL file" %}}
+
+Segui i passaggi nello snippet di codice o miglioralo in base alle esigenze della tua applicazione per convalidare i documenti XBRL del linguaggio di reporting aziendale estensibile. Assicurati di avere requisiti di convalida all'interno della tua applicazione.
+
+1. Carica XBRL file usando [Classe XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Istanza.1. Per verificare la validità del file caricato, in modo che corrisponda a [Specificazione XBRL](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Per controllare la validità, usa [Convalidare ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Metodo di [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Classe.
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Requisito di convalida" %}}
+Per procedere alla convalida di XBRL documenti, .NET Finance API è il requisito principale da includere nell'applicazione. 
+- Installalo tramite riga di comando come '''nugget install Aspose.Finance''' o tramite Package Manager Console di Visual Studio con ''Installa-Package Aspose.Finance'''.
+- In alternativa, ottenere il programma di installazione MSI offline o le DLL in un file ZIP da [Download](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="C# codice per convalidare XBRL file" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "1272da1f804f8cef122600269db09fbb" "validate-xbrl-instance-file.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-supported-section title="Altre opzioni di convalida" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/ixbrl/" name="XBRL" description="Linguaggio di reporting aziendale estensibile in linea" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
