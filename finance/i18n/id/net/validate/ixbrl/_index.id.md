@@ -1,6 +1,6 @@
 ﻿---
-title: Validasi iXBRL File melalui C#
-description: Kode sampel untuk validasi berkas iXBRL. Gunakan kode contoh API untuk memvalidasi file batch iXBRL dalam aplikasi berbasis .NET. 
+title: Validasi iXBRL Berkas melalui C#
+description: Contoh kode untuk iXBRL validasi file. Gunakan kode contoh API untuk memvalidasi berkas iXBRL kumpulan dalam aplikasi berbasis .NET. 
 url: /id/net/validate/ixbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="{Validasi 0} file melalui C#" h2="Memvalidasi laporan keuangan dalam format iXBRL tanpa perlu Microsoft Office diinstal atau perangkat lunak lainnya." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Validasi iXBRL Berkas melalui C#" h2="Memvalidasi laporan keuangan dalam format iXBRL tanpa perlu menginstal Microsoft Office atau perangkat lunak lainnya." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Cara memvalidasi berkas iXBRL" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cara Memvalidasi iXBRL File" %}}
 
-Ikuti langkah-langkah dalam cuplikan kode atau Sempurnakan sebagai kebutuhan aplikasi Anda untuk memvalidasi bahasa pelaporan bisnis yang dapat diperpanjang iXBRL dokumen. Pastikan memiliki persyaratan validasi dalam aplikasi Anda.
+Ikuti langkah-langkah dalam cuplikan kode atau tingkatkan sesuai kebutuhan aplikasi Anda untuk memvalidasi dokumen iXBRL bahasa pelaporan bisnis yang dapat diperluas. Pastikan memiliki persyaratan validasi dalam aplikasi Anda.
 
-1. Muat file iXBRL menggunakan [Kelas dokumen inlinexbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Contoh.1. Untuk memeriksa validitas file yang dimuat, sehingga harus sesuai dengan [iXBRL spesifikasi](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Gunakan [Validasi ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) Metode untuk validitas berkas.
+1. Muat iXBRL file menggunakan [Kelas Dokumen InlineXbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Contoh.1. Untuk memeriksa validitas file yang dimuat, sehingga harus cocok dengan [iXBRL spesifikasi](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Menggunakan [Mengesahkan()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) metode untuk validitas file.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Persyaratan validasi" %}}
-Untuk melanjutkan validasi dokumen iXBRL, .NET Finance API adalah persyaratan utama yang harus disertakan dalam aplikasi. 
-- Menginstalnya melalui baris perintah sebagai "nuget instal Aspose.Finance" "atau melalui konsol manajer paket Studio Visual dengan" menginstal-paket Aspose.Finance ".
-- Atau, dapatkan pemasang MSI offline atau DLLs dalam file ZIP dari [Unduhan](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Validasi" %}}
+Untuk melanjutkan validasi iXBRL dokumen, .NET Finance API adalah persyaratan utama untuk disertakan dalam aplikasi. 
+- Instal melalui baris perintah sebagai ```nuget install Aspose.Finance``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Finance```.
+- Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [unduhan](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kode untuk memvalidasi file iXBRL" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kode untuk memvalidasi iXBRL file" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "1272da1f804f8cef122600269db09fbb" "validate-ixbrl-file.cs" >}}
 
@@ -36,9 +36,9 @@ Untuk melanjutkan validasi dokumen iXBRL, .NET Finance API adalah persyaratan ut
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
-{{< blocks/products/pf/agp/other-supported-section title="Opsi validasi lainnya" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Opsi Validasi Lainnya" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/xbrl/" name="XBRL" description="Bahasa pelaporan bisnis yang dapat diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/xbrl/" name="XBRL" description="Bahasa Pelaporan Bisnis yang Dapat Diperluas" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

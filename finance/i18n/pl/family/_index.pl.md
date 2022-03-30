@@ -1,17 +1,17 @@
 ﻿---
-title: Globalne interfejsy API cyfrowej sprawozdawczości finansowej- Aspose 
+title: Globalne interfejsy API do cyfrowej sprawozdawczości finansowej — Aspose 
 weight: 10
 url: /pl/family
-description: Biblioteka do manipulowania formatami finansowymi używanymi do składania wniosków dla firm i generowania raportów dla funduszy i dźwigni na dowolnej Platformie
+description: Biblioteka do manipulowania formatami związanymi z finansami używanymi przy składaniu wniosków dla firm i generowania raportów dotyczących funduszy i dźwigni na dowolnej platformie
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API do przetwarzania formatów XBRL, iXBRL" h2="Native .NET API do manipulowania formatami finansowymi, takimi jak XBRL, iXBRL, bez żadnych zależności oprogramowania." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Interfejsy API do przetwarzania XBRL, iXBRL formaty" h2="Natywne interfejsy API .NET do manipulowania formatami związanymi z finansami, takimi jak XBRL, iXBRL, bez żadnych zależności programowych." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Finance interfejsy API wysokiego kodu obejmują" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Finance Interfejsy API wysokiego kodu obejmują" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Finance for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="/finance/net/" >}}
-Docelowe formularze systemu Windows, ASP.NET lub dowolny typ aplikacji oparty na .NET Framework 2.0 lub nowszym.
+Docelowe formularze Windows, ASP.NET lub dowolny typ aplikacji opartej na .NET Framework 2.0 lub nowszym.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
@@ -26,14 +26,14 @@ Docelowe formularze systemu Windows, ASP.NET lub dowolny typ aplikacji oparty na
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Wsparcie produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Darmowe wsparcie" href="https://forum.aspose.com/c/finance" >}}
+{{< blocks/products/pf/slr-element name="Bezpłatne wsparcie" href="https://forum.aspose.com/c/finance" >}}
 {{< blocks/products/pf/slr-element name="Płatne wsparcie" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Rodzina produktów Aspose.Finance?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Dlaczego Aspose.Finance Rodzina produktów?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Lista klientów" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Historie sukcesu" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Historie sukcesów" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

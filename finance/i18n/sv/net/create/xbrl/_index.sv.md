@@ -1,6 +1,6 @@
 ﻿---
-title: Skapa XBRL fil via C#
-description: Samplingskod för att skapa XBRL filer. Använd API exempel kod för generering av sats XBRL filer inom .NET baserade program. 
+title: Skapa XBRL-fil via C#
+description: Exempelkod för att skapa XBRL-fil. Använd API exempelkod för generering av batch-XBRL-filer inom .NET-baserade applikationer. 
 url: /sv/net/create/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Skapa XBRL filer via C#" h2="XBRL filer skapande utan att behöva Microsoft Office installeras eller någon annan programvara." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Skapa XBRL filer via C#" h2="Skapa XBRL filer utan att behöva installera Microsoft Office eller någon annan programvara." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Hur man skapar XBRL filer" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Hur man skapar XBRL-filer" %}}
 
-Följ stegen i kod snippet eller förbättra det som av din applikations behov för att skapa utökad affärsrapportering språk XBRL filer .. Var säker på att du har skapande krav inom din ansökan.
+Följ stegen i kodavsnittet eller förbättra det utifrån dina programbehov för att skapa utökningsbara filer för affärsrapporteringsspråket XBRL. Var säker på att ha skapande krav i din ansökan.
 
-1. Skapa [XbrlDokumentklass](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Till exempel.1. Så här skapar du ett nytt XBRL instansdokument [XbrlInstance-samlingComment](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) Och och [XbrlInstans](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. Lägg till schemareferens med användare [SchemaRef-samlingComment](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Beroende på tillämpning naturen lägga till sammanhang, enhet, objekt, länk fotnot och mycket mer.1. Ring. [Spara metoden](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) Genom att tillhandahålla sökvägen för målfiler.
+1. Skapa [XbrlDocument-klass](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Exempel.1. För att skapa ett nytt XBRL-instansdokument [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) och [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. Lägg till schemareferens med hjälp av [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Lägg till kontext, enhet, artikel, fotnotslänk och mer beroende på applikationens karaktär.1. Ring [Spara metod](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) genom att tillhandahålla målfilens sökväg.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Skapandekrav" %}}
-För att fortsätta för att generera XBRL dokument är .NET Finance API det viktigaste kravet att inkluderas i ansökan. 
-- Installera den via kommandorad som ''nuget install Aspose.Finance''' eller via Package Manager Console i Visual Studio med'' 'Install-Package Aspose.Finance'''.
-- Alternativt, få offline MSI installerare eller DLLs i en ZIP-fil från [Nerladdningar](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Skapande krav" %}}
+För att fortsätta för generering av XBRL dokument är .NET Finance API huvudkravet för att inkluderas i ansökan. 
+- Installera den via kommandoraden som ```nuget install Aspose.Finance``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Finance```.
+- Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [Nedladdningar](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kod för skapande av XBRL filer" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kod för att skapa XBRL filer" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-xbrl-file-and-add-schema-reference.cs" >}}
 
@@ -36,11 +36,11 @@ För att fortsätta för att generera XBRL dokument är .NET Finance API det vik
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
-{{< blocks/products/pf/agp/other-supported-section title="Andra skapandealternativ" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Andra skapande alternativ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX Begära" description="1.03 eller 2.2 Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX Begäran" description="1.03 eller 2.2 format" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-response/" name="OFX Svar" description="1.03 eller 2.2 Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-response/" name="OFX Svar" description="1.03 eller 2.2 format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,6 +1,6 @@
 ﻿---
-title: Convert XBRL to xlsx excel via C#
-description: Vzorový kód konverzace XBRL do excel xlsx C#. Použijte API příklad kódu pro konverzaci batch XBRL souborů na xlsx v rámci aplikací založených na .NET. 
+title: Převést XBRL na XLSX Excel prostřednictvím C#
+description: Ukázkový kód pro převod XBRL na Excel XLSX C#. Použijte API ukázkový kód pro dávkový převod souborů XBRL na XLSX v aplikacích založených na .NET. 
 url: /cs/net/conversion/xbrl-to-xlsx/
 family: finance
 platformtag: net
@@ -10,28 +10,28 @@ outformat: XLSX
 otherformats: iXBRL
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convert XBRL to xlsx via C#" h2="XBRL to microsoft <sup>®</sup> excel xlsx formát konverzace bez instalace microsoft office." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést XBRL na XLSX přes C#" h2="Převod formátu XBRL do formátu Microsoft<sup>&reg;</sup> Excel XLSX bez nutnosti instalace sady Microsoft Office." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Is an API to process XBRL, iXBRL formats and developers can easily build business processes management, financial analysis and reporting software applications to convert, create, read, zobrazit a validovat soubory XBRL a iXBRL související s finančními soubory. 
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) je API pro zpracování XBRL, formátů iXBRL a vývojáři mohou snadno vytvářet softwarové aplikace pro správu obchodních procesů, finanční analýzu a výkaznictví, aby mohli převádět, vytvářet, číst, zobrazovat a ověřovat XBRL a iXBRL související s financemi soubory. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Jak převést XBRL na xlsx" %}}
-1. Načíst vstupní soubor XBRL pomocí [Třída xbrldocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument)A.2. set [Možnosti uložení](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) Pro výstupní soubor zvolením příslušného [Uložit formát](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat)A.
-3. call the [Uložit metodu](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/2) Poskytnutím cílového souboru a relevantních možnosti uložení jako parametrů.
+{{% blocks/products/pf/agp/feature-section-col title="Jak převést XBRL na XLSX" %}}
+1. Načíst vstupní soubor XBRL pomocí [Třída XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument).2. Nastavte [UložitMožnosti](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) pro výstupní soubor výběrem příslušného [UložitFormát](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat).
+3. Zavolejte na [Uložit metodu](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/2) poskytnutím cílového souboru a příslušných SaveOptions jako parametrů.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Požadavek na přeměnu" %}}
-Chcete-li přejít k konverzaci XBRL na xlsx, je hlavní požadavek .NET Finance API. Nainstalujte ji na příkazovém řádku jako "nuget install Aspose.Finance" nebo přes konzolu správce balíků visual studio s "" install-package Aspose.Finance "".
+{{% blocks/products/pf/agp/feature-section-col title="Požadavek na konverzi" %}}
+Chcete-li pokračovat v převodu XBRL na XLSX, je hlavním požadavkem .NET Finance API. Nainstalujte jej pomocí příkazového řádku jako ```nuget install Aspose.Finance``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Finance```.
 
-Alternativně získejte offline instalační program msi nebo dll v souboru zip z [Stahování](https://downloads.aspose.com/finance/net)A.
+Případně získejte offline instalační program MSI nebo knihovny DLL v souboru ZIP [stahování](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# zdrojový kód pro převod souboru XBRL do xlsx" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Zdrojový kód C# pro převod souboru XBRL na soubor XLSX" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-xlsx.cs" >}}
 
@@ -41,13 +41,13 @@ Alternativně získejte offline instalační program msi nebo dll v souboru zip 
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
-{{< blocks/products/pf/agp/other-supported-section title="Další možnosti konverze" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Další možnosti převodu" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL až iXBRL" description="Inline extensible business reporting language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL až iXBRL" description="Inline Extensible Business Reporting Language" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX odpověď" description="Od 1.03 do 2.2 formátu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX Odpověď" description="Od 1.03 do 2.2 Formát" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX požadavek" description="Od 1.03 do 2.2 formátu" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="Žádost OFX" description="Od 1.03 do 2.2 Formát" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

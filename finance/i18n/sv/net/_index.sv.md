@@ -1,48 +1,48 @@
 ﻿---
-title: C# .NET API för finansiella digitala rapporteringssystem - Aspose 
+title: "C# .NET API:er för finansiella digitala rapporteringssystem - Aspose "
 weight: 20
 url: /sv/net/ 
-description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rapporter till eXtensible Business Reporting Språk XBRL och iXBRL för analys för att generera XBRL taxonomier och rapporter
+description: C# ASP.NET VB.NET-bibliotek för konvertering av bokslut till eXtensible Business Reporting Language XBRL och iXBRL för analys för att generera XBRL taxonomier och rapporter
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Bibliotek att tolka Finance dokument" h2="Skapa, läsa och validera XBRL och iXBRL Finance Finansiell analys och rapportering programvara." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Bibliotek för att analysera Finance dokument" h2="Skapa, läs och validera XBRL och iXBRL Finance-relaterade format inom alla program för affärsprocesshantering, finansiell analys och rapportering." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET är ett flexibelt bibliotek för finansieringsrelaterade format behandling. API kan enkelt skapa, läsa, och validera eXtensible Business Reporting Language XBRL och iXBRL såväl som skapa OFX Begär och svarsfil. i olika format. Utvecklare kan utveckla XBRL aktiverad programvara med lätthet eller kan använda inom alla befintliga digitala finansiella rapporteringssystem för att skapa rapporter med XBRL. Det är en extensibel, lätt att använda och fristående API oberoende av någon annan programvara.</p>
+<p align="justify"> Aspose.Finance for .NET är ett flexibelt bibliotek för ekonomirelaterade formatbehandlingar. API kan enkelt skapa, läsa och validera formaten eXtensible Business Reporting Language XBRL och iXBRL samt skapa OFX förfrågnings- och svarsfiler i olika format. Utvecklare kan utveckla XBRL-aktiverad programvara med lätthet eller kan använda inom alla befintliga digitala finansiella rapporteringssystem för att skapa rapporter med XBRL. Det är en utökningsbar, lättanvänd och fristående API oberoende av annan programvara.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Vid en öga" description="En översikt av Aspose.Finance for .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="En överblick" description="En översikt över Aspose.Finance for .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Huvuddrager
+    Viktigaste egenskaper
    </header>
    <ul>
     <li>
      Skapa XBRL instans
     </li>
     <li>
-     Läs XBRL format
+     Läs formatet XBRL
     </li>
     <li>
-     Läs iXBRL format
+     Läs formatet iXBRL
     </li>
     <li>
-     Validering av XBRL
+     XBRL validering
     </li>
     <li>
-     Validering av iXBRL
+     iXBRL validering
     </li>
    </ul>
   </div>
@@ -67,7 +67,7 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
   <footer>
    <small>
     <em>
-     För
+     för
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Plattform Oberoendet" description="Aspose.Finance for .NET stöder alla större plattformar inklusive." >}}
+{{< blocks/products/pf/carousel-item h3="Plattformsoberoende" description="Aspose.Finance for .NET stöder alla större plattformar inklusive." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -93,17 +93,17 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET ram
+    .NET Ram
    </header>
    <ul>
     <li>
-     ASP.NET program
+     ASP.NET-applikation
     </li>
     <li>
-     Windows- program
+     Windows-applikation
     </li>
     <li>
-     Webbtjänster
+     Webbservice
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
   <footer>
    <small>
     <em>
-     För
+     för
     </em>
     .NET
    </small>
@@ -136,7 +136,7 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Inmatning/Utmatning
+    Ingång/utgång
    </header>
    <ul>
     <li>
@@ -155,7 +155,7 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header><i class="fa  fa-mail-forward"> </i> Endast utmatning</header>
+   <header><i class="fa  fa-mail-forward"> </i> Endast utgång</header>
 
 <ul>
 
@@ -174,7 +174,7 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
   <footer>
    <small>
     <em>
-     För
+     för
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Avancerad .NET Finance Tolkning av API funktioner
+    Avancerade .NET Finance Parsing API funktioner
    </h2>
    <p>
    </p>
@@ -203,14 +203,14 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa XBRL instans från grunden
+     Skapa XBRL-instans från början
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Läs XBRL och iXBRL Formata
+     Läs formaten XBRL och iXBRL
     </p>
    </div>
    <div class="col-lg-4">
@@ -238,7 +238,7 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Skapa OFX Begär fil
+     Skapa OFX begäranfil
     </p>
    </div>
    <div class="col-lg-4">
@@ -253,14 +253,14 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertera OFX Begär fil från 1.03 till 2.2 format.
+     Konvertera OFX Request File från formatet 1.03 till 2.2
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertera OFX Svarsfil från 1. 03 till 2. 2
+     Konvertera OFX svarsfil från formatet 1.03 till 2.2
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -303,21 +303,21 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
      Skapa XBRL instansdokument
     </h2>
     <p>
-     Aspose.Finance for .NET stöder att skapa XBRL dokument. Med följande bara få kodrader för att skapa ett nytt XBRL instansdokument.
+     Aspose.Finance for .NET stöder generering av XBRL dokument. Med följande bara några rader kod för att skapa ett nytt XBRL-instansdokument
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Skapa XBRL Instans - C#
+      Skapa XBRL-instans - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Läs iXBRL fil
+     Läs filen iXBRL
     </h2>
     <p>
-     Läsning Inline eXtensible Business Reporting Språk iXBRL instansdokument stöds också.
+     Läsa Inline eXtensible Business Reporting Language iXBRL-instansdokument stöds också.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -342,22 +342,22 @@ description: C# ASP.NET VB.NET bibliotek för konvertering av finansiella rappor
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Inlärningsresurser" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/finance/net/" >}}
-{{< blocks/products/pf/slr-element name="Källkod:" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API Referenser" href="https://apireference.aspose.com/finance/net" >}}
 {{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Produktstöd" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis stöd" href="https://forum.aspose.com/c/finance" >}}
-{{< blocks/products/pf/slr-element name="Betalt stöd" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/finance" >}}
+{{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Finance for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlistan" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Framgångshistoriar" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

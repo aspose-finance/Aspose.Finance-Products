@@ -1,6 +1,6 @@
 ﻿---
-title: XBRL 'i C# ile iXBRL 'ye dönüştürün
-description: XBRL ila iXBRL C# dönüşümü için örnek kod. .NET tabanlı uygulamalarda toplu XBRL dosyaları için iXBRL dönüşüm için API örnek kodu kullanın. 
+title: C# aracılığıyla XBRL'i iXBRL'ye dönüştürün
+description: XBRL - iXBRL C# dönüşümü için örnek kod. .NET tabanlı uygulamalarda toplu XBRL dosyaları iXBRL dönüştürme için API örnek kodunu kullanın. 
 url: /tr/net/conversion/xbrl-to-ixbrl/
 family: finance
 platformtag: net
@@ -10,28 +10,28 @@ outformat: iXBRL
 otherformats: XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="XBRL \'i C# ile iXBRL \'ye dönüştürün" h2=".NET tabanlı uygulamalarda başka bir yazılıma ihtiyaç duymadan XBRL ila iXBRL dönüşüm." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# aracılığıyla XBRL\'i iXBRL\'ye dönüştürün" h2=".NET tabanlı uygulamalarda başka bir yazılıma ihtiyaç duymadan XBRL\'den iXBRL\'ye dönüşüm." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) XBRL, iXBRL formatlarını işlemek için bir API ve geliştiriciler, XBRL ve iXBRL finansmanı dönüştürmek, oluşturmak, okumak, görüntülemek ve doğrulamak için kolayca iş süreçleri yönetimi, finansal analiz ve raporlama yazılım uygulamalarını oluşturabilir. dosyalar. 
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) XBRL, iXBRL biçimlerini işlemek için bir API'dir ve geliştiriciler, iş süreçleri yönetimi, finansal analiz ve raporlama yazılım uygulamalarını kolayca oluşturabilir, dönüştürmek, oluşturmak, okumak, görüntülemek ve XBRL ve iXBRL finansla ilgili iXBRL Dosyalar. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XBRL \'i iXBRL \'ye Dönüştürme" %}}
-1. Kullanarak XBRL dosyasını yükleyin [XbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument).2. Set [Tasarruf Seçenekleri](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) Seçerek çıkış dosyası için [SaveFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat).
-3. arayın [Kaydet yöntemi](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/2) Hedef dosyayı ve ilgili SaveOptions parametreleri olarak sağlayarak.
+{{% blocks/products/pf/agp/feature-section-col title="XBRL - iXBRL Nasıl Dönüştürülür" %}}
+1. kullanarak giriş XBRL dosyasını yükleyin [XbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument).2. Ayarla [SaveOptions](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) seçerek çıktı dosyası için [SaveFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat).
+3. Arayın [Yöntemi kaydet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/2) hedef dosyayı ve ilgili SaveOptions'ı parametre olarak sağlayarak.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimleri" %}}
-XBRL ila iXBRL dönüşümüne devam etmek için, .NET Finance API ana gerekliliktir. Komut satırı aracılığıyla ''nuget install Aspose.Finance'' olarak veya ''Install-Package Aspose.Finance'' ile Visual Studio Paket Yöneticisi Konsolu aracılığıyla yükleyin.
+XBRL - iXBRL dönüşümüne devam etmek için .NET Finance API ana gereksinimdir. Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
 
-Alternatif olarak, bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DLL'leri alın [Indirmeler](https://downloads.aspose.com/finance/net).
+Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="XBRL iXBRL dosyasına dönüştürmek için C# kaynak kodu" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XBRL dosyasını iXBRL dosyasına dönüştürmek için C# kaynak kodu" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-ixbrl.cs" >}}
 
@@ -43,11 +43,11 @@ Alternatif olarak, bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DL
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Dönüşüm Seçenekleri" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL için XLSX" description="Microsoft Excel Açık XML elektronik tablo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL\'den XLSX\'e" description="Microsoft Excel Açık XML Elektronik Tablosu" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX Yanıt" description="1. 03\'ten 2.2 Formatına" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX Yanıt" description="1.03\'ten 2.2 Formatına" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX Talep" description="1. 03\'ten 2.2 Formatına" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX İstek" description="1.03\'ten 2.2 Formatına" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

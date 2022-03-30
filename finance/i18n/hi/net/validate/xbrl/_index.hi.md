@@ -1,6 +1,6 @@
 ﻿---
-title: Validate XBRL फ़ाइल के माध्यम से C#
-description: नमूना कोड के लिए XBRL फ़ाइल सत्यापन. उपयोग API उदाहरण कोड validate करने के लिए बैच XBRL फ़ाइलें भीतर .NET आधारित अनुप्रयोगों. 
+title: XBRL फ़ाइल को C# के माध्यम से सत्यापित करें
+description: XBRL फ़ाइल सत्यापन के लिए नमूना कोड। .NET आधारित एप्लिकेशन में बैच XBRL फाइलों को मान्य करने के लिए API उदाहरण कोड का उपयोग करें। 
 url: /hi/net/validate/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Validate XBRL फ़ाइलें के माध्यम से C#" h2="वैधीकरण वित्तीय रिपोर्ट में XBRL प्रारूप की जरूरत के बिना माइक्रोसॉफ्ट कार्यालय स्थापित या किसी भी अन्य सॉफ्टवेयर है।" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# के माध्यम से XBRL फ़ाइलें सत्यापित करें" h2="वित्तीय रिपोर्ट को XBRL स्वरूप में Microsoft Office स्थापित या किसी अन्य सॉफ़्टवेयर की आवश्यकता के बिना मान्य करना।" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Validate करने के लिए कैसे XBRL फ़ाइलें" %}}
+{{% blocks/products/pf/agp/feature-section-col title="कैसे सत्यापित करें XBRL फ़ाइलें" %}}
 
-कोड snippet या बढ़ाने में यह चरणों का पालन के रूप में अपने आवेदन जरूरतों वैधीकरण के लिए एक्स्टेंसिबल व्यापार रिपोर्टिंग भाषा XBRL दस्तावेजों अपने भीतर आवेदन आवश्यकताओं वैधीकरण होने के बारे में सुनिश्चित किया जा सकता है।
+कोड स्निपेट में दिए गए चरणों का पालन करें या एक्स्टेंसिबल व्यावसायिक रिपोर्टिंग भाषा XBRL दस्तावेज़ों को मान्य करने के लिए आपके आवेदन की आवश्यकता के अनुसार इसे बेहतर बनाएं। सुनिश्चित करें कि आपके आवेदन में मान्य आवश्यकताएं हैं।
 
-1. लोड XBRL फ़ाइल का उपयोग [XbrlDocument वर्ग](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) उदाहरण है।1. लोड फ़ाइल की वैधता की जांच करने के लिए, इतना है कि यह के साथ मेल खाना चाहिए [XBRL विशिष्टता](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Validatity की जांच करने के लिए, उपयोग [Validate()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) की विधि [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) वर्ग है।
+1. XBRL फ़ाइल का उपयोग करके लोड करें [XbrlDocument वर्ग](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) उदाहरण।1. लोड की गई फ़ाइल की वैधता की जांच करने के लिए, ताकि यह मेल खाना चाहिए [XBRL विनिर्देश](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. वैधता की जांच करने के लिए, उपयोग करें [मान्य करें ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) उसकि विधि [एक्सबीआरएल इंस्टेंस](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) कक्षा।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="सत्यापन आवश्यकता" %}}
-वैधीकरण के लिए आगे बढ़ने के लिए XBRL दस्तावेजों, .NET Finance API मुख्य आवश्यकता है करने के लिए आवेदन के भीतर शामिल किया है। 
-- के माध्यम से इसे स्थापित कमांड लाइन के रूप में '''nuget स्थापित Aspose.Finance विजुअल स्टूडियो के लिए '''या के माध्यम से पैकेज प्रबंधक की कंसोल '''Install-पैकेज के साथ Aspose.Finance के लिए'''.
-- वैकल्पिक रूप से, ऑफ़लाइन प्राप्त एमएसआई संस्थापक या DLLs में से एक ज़िप फ़ाइल [डाउनलोड](https://downloads.aspose.com/finance/net)है।{{% /blocks/products/pf/agp/feature-section-col %}}
+XBRL दस्तावेज़ों के सत्यापन के लिए आगे बढ़ने के लिए, .NET Finance API आवेदन में शामिल करने की मुख्य आवश्यकता है। 
+- इसे कमांड लाइन के माध्यम से ``nuget install Aspose.Finance``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से ```इंस्टॉल-पैकेज Aspose.Finance``` के साथ इंस्टॉल करें।
+- वैकल्पिक रूप से, एक ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें [डाउनलोड](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# validate करने के लिए कोड XBRL फ़ाइलें" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XBRL फाइलों को सत्यापित करने के लिए C# कोड" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "1272da1f804f8cef122600269db09fbb" "validate-xbrl-instance-file.cs" >}}
 
@@ -36,9 +36,9 @@ otherformats:
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
-{{< blocks/products/pf/agp/other-supported-section title="अन्य वैधीकरण विकल्प" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="अन्य मान्य विकल्प" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/ixbrl/" name="XBRL" description="इनलाइन एक्स्टेंसिबल व्यापार रिपोर्टिंग भाषा" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/ixbrl/" name="XBRL" description="इनलाइन एक्स्टेंसिबल बिजनेस रिपोर्टिंग लैंग्वेज" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

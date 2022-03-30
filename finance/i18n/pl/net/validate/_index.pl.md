@@ -1,21 +1,21 @@
 ﻿---
-title: Potwierdź raporty finansowe za pośrednictwem .NET
+title: Weryfikuj raporty finansowe za pomocą .NET
 url: /pl/net/validate/
-description:  Kod C# do weryfikacji raportów finansowych w XBRL i iXBRL plikach za pośrednictwem biblioteki .NET.
+description:  C# kod do weryfikacji raportów finansowych w plikach XBRL i iXBRL za pośrednictwem biblioteki .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Potwierdź pliki sprawozdawczości finansowej za pośrednictwem C#" h2="Sprawdzanie formatu raportów finansowych, w tym XBRL i iXBRL w aplikacjach opartych na .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Sprawdź poprawność plików raportów finansowych za pomocą C#" h2="Sprawdzanie formatów raportów finansowych, w tym XBRL i iXBRL w aplikacjach opartych na .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) To bogate w funkcje, rozszerzalne i łatwe w użyciu przetwarzanie raportów finansowych API. Programiści mogą łatwo ładować, sprawdzać, przeglądać lub tworzyć formaty XBRL i iXBRL dla rozwiązań finansowych i biznesowych. API zapewnia [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Klasa i  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Klasy do ładowania plików XBRL i iXBRL.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) to bogate w funkcje, rozszerzalne i łatwe w użyciu narzędzie do przetwarzania raportów finansowych API. Programiści mogą łatwo ładować, sprawdzać, wyświetlać lub tworzyć formaty XBRL i iXBRL dla rozwiązań finansowych i biznesowych. API zapewnia [Dokument Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) klasa i  [Wbudowany dokument Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) klasa do ładowania plików XBRL i iXBRL.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Zweryfikuj dokument XBRL" %}}
+{{% blocks/products/pf/feature-page-section h2="Sprawdź poprawność XBRL dokumentu" %}}
 
-Walidacja pliku XBRL jest potrzebna w wielu przypadkach, na przykład w celu sprawdzenia, czy dane mają odpowiednią strukturę i format. Aby zweryfikować dokumenty XBLR, najpierw użyj klasy XbrlDocument, aby załadować plik XBRL. Aby skorzystać z [Walidacja ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Metoda [XbrlInstancja](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Klasa, najpierw intializuj [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) Z obiektem XbrlDocument XbrlInstances. Iteruj przez każdy [XbrlInstance. Błędy walidacjowe](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) Aby uzyskać właściwy kod błędu i działać odpowiednio, drukując niestandardowe komunikaty o błędach na konsoli lub pisząc w pliku.
+Walidacja pliku XBRL jest wymagana w wielu przypadkach, takich jak sprawdzenie, czy dane mają odpowiednią strukturę i format. Aby sprawdzić poprawność dokumentów XBLR, najpierw użyj klasy XbrlDocument, aby załadować plik XBRL. Aby użyć [uprawomocnić()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) metoda [XbrlInstancja](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) klasy, najpierw zainicjuj [Kolekcja XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) z obiektem XbrlDocument XbrlInstances. Iteruj przez każdą z nich [XbrlInstance.ValidationErrors](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) aby uzyskać właściwy kod błędu i podjąć odpowiednie działania, drukując dostosowane komunikaty o błędach na konsoli lub zapisując w pliku.
 
-{{% blocks/products/pf/feature-page-code h3="C# kod do weryfikacji pliku XBRL" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kod do weryfikacji XBRL pliku" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-xbrl-file.cs" >}} 
 
@@ -23,11 +23,11 @@ Walidacja pliku XBRL jest potrzebna w wielu przypadkach, na przykład w celu spr
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="Zweryfikuj dokument iXBRL" %}}
+{{% blocks/products/pf/feature-page-section h2="Sprawdź poprawność iXBRL dokumentu" %}}
 
-W przypadku walidacji iXLRB załaduj go przez [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Klasy i użyj jej metody Validate(). W [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) Wyliczenie, kody błędów walidacji są zdefiniowane dla każdej reguły walidacji. Niewiele kodów to ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenterNoTime, ContextInstantNoSubstitutionGroup itp. Programiści mogą debugować i wyświetlać kody jako użytkownicy końcowi lub mogą pokazywać kierunek rozwiązania problemu.
+Aby uzyskać walidację iXLRB, załaduj go przez [Wbudowany dokument Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) klasy i użyj jej metody Validate(). w [Kod błędu weryfikacji](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) wyliczenia, kody błędów walidacji są zdefiniowane dla każdej reguły walidacji. Niewiele kodów to ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup itp. Deweloperzy mogą debugować i wyświetlać kody jako użytkownicy końcowi lub mogą wskazać kierunek rozwiązania problemu.
 
-{{% blocks/products/pf/feature-page-code h3="C# kod do weryfikacji iXBRL dokumentu" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kod do weryfikacji iXBRL dokumentu" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-ixbrl-file.cs" >}}
 

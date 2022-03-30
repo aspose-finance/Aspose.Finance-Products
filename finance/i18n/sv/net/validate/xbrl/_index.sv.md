@@ -1,6 +1,6 @@
 ﻿---
-title: Validera XBRL fil via C#
-description: Samplingskod för filens XBRL validering. Använd API exempelkod för att validera sats XBRL filer inom .NET baserade program. 
+title: Validera filen XBRL via C#
+description: Exempelkod för XBRL-filvalidering. Använd API exempelkod för att validera batch-XBRL-filer i .NET-baserade applikationer. 
 url: /sv/net/validate/xbrl/
 family: finance
 platformtag: net
@@ -14,19 +14,19 @@ otherformats:
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Hur du kontrollerar XBRL filer" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Så här validerar du XBRL-filer" %}}
 
-Följ stegen i kod snippet eller förbättra den som av din applikationsbehov för att validera utökad affärsrapportering språk XBRL dokument. s. Var säker på att du har valideringskrav i din ansökan.
+Följ stegen i kodavsnittet eller förbättra det i enlighet med dina applikationsbehov för att validera utökningsbara dokument för affärsrapporteringsspråk XBRL. Se till att ha valideringskrav i din ansökan.
 
-1. Ladda XBRL-fil med användande [XbrlDokumentklass](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Till exempel.1. För att kontrollera den laddade filens giltighet, så att den måste matcha med [XBRL specifikationer](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. För att kontrollera validiteten, använd [Validera ()Name](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Metod [XbrlInstans](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Klass.
+1. Ladda XBRL fil med [XbrlDocument-klass](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Exempel.1. För att kontrollera giltigheten av den laddade filen, så att den måste matcha med [XBRL specifikation](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. För att kontrollera validiteten, använd [Bekräfta()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) metod av [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) klass.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Valideringskrav" %}}
-För att fortsätta att validera XBRL dokument är .NET Finance API det huvudsakliga kravet att inkluderas i ansökan. 
-- Installera den via kommandorad som ''nuget install Aspose.Finance''' eller via Package Manager Console i Visual Studio med'' 'Install-Package Aspose.Finance'''.
-- Alternativt, få offline MSI installerare eller DLLs i en ZIP-fil från [Nerladdningar](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+För att fortsätta för att validera XBRL dokument är .NET Finance API huvudkravet för att inkluderas i ansökan. 
+- Installera den via kommandoraden som ```nuget install Aspose.Finance``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Finance```.
+- Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [Nedladdningar](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kod för att validera XBRL filer" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C#-kod för att validera XBRL filer" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "1272da1f804f8cef122600269db09fbb" "validate-xbrl-instance-file.cs" >}}
 
@@ -38,7 +38,7 @@ För att fortsätta att validera XBRL dokument är .NET Finance API det huvudsak
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra valideringsalternativ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/ixbrl/" name="XBRL" description="Inline Extensible Business Reporting Språk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/ixbrl/" name="XBRL" description="Inline Extensible Business Reporting Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

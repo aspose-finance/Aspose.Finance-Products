@@ -1,48 +1,48 @@
 ﻿---
-title: C# .NET api pro systémy finančního digitálního vykazování- Aspose 
+title: C# .NET API pro systémy finančního digitálního výkaznictví – Aspose 
 weight: 20
 url: /cs/net/ 
-description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na rozšiřovatelný jazyk obchodního vykazování XBRL a iXBRL pro analýzu pro generování XBRL taxonomií a sestav
+description: Knihovna C# ASP.NET VB.NET pro převod finančních výkazů do jazyka eXtensible Business Reporting Language XBRL a iXBRL pro analýzu za účelem generování XBRL taxonomií a sestav
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET knihovna pro analýzu dokumentů Finance" h2="Vytvořit, přečíst a validovat formáty XBRL a iXBRL Finance ve všech programech pro správu obchodních procesů, finanční analýzy a vykazování." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Knihovna k analýze Finance dokumentů" h2="Vytvářejte, čtěte a ověřujte formáty související s XBRL a iXBRL Finance v rámci jakéhokoli softwaru pro správu obchodních procesů, finanční analýzu a výkaznictví." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET je flexibilní knihovna pro zpracování formátů souvisejících s finančními prostředky. API může snadno vytvářet, číst a validovat rozšiřovatelný formát obchodního vykazování XBRL a iXBRL, jakož i vytvářet OFX soubory požadavků a odpovědí v různých formátech. Vývojáři mohou snadno vyvinout software s povolením XBRL nebo mohou použít v rámci jakéhokoli stávajícího systému digitálního finančního výkaznictví k vytváření zpráv pomocí XBRL. It is an extensible, easy to use and standalone API independent of any other software.</p>
+<p align="justify"> Aspose.Finance for .NET je flexibilní knihovna pro zpracování formátů souvisejících s financemi. API může snadno vytvářet, číst a ověřovat formáty eXtensible Business Reporting Language XBRL a iXBRL a také vytvářet OFX soubory požadavků a odpovědí v různých formátech. Vývojáři mohou snadno vyvíjet software podporující XBRL nebo jej mohou použít v rámci jakéhokoli existujícího systému digitálního finančního výkaznictví k vytváření přehledů pomocí XBRL. Jedná se o rozšiřitelný, snadno použitelný a samostatný API nezávislý na jakémkoli jiném softwaru.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Na pohled" description="Přehled Aspose.Finance for .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="Na první pohled" description="Přehled Aspose.Finance for .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Hlavní vlastnosti
+    Hlavní rysy
    </header>
    <ul>
     <li>
      Vytvořit instanci XBRL
     </li>
     <li>
-     Read XBRL format
+     Přečíst formát XBRL
     </li>
     <li>
-     Read iXBRL format
+     Přečíst formát iXBRL
     </li>
     <li>
-     XBRL validace
+     XBRL ověření
     </li>
     <li>
-     iXBRL validace
+     iXBRL ověření
     </li>
    </ul>
   </div>
@@ -67,7 +67,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nezávislost platformy" description="Aspose.Finance for .NET podporuje všechny hlavní platformy včetně." >}}
+{{< blocks/products/pf/carousel-item h3="Nezávislost na platformě" description="Aspose.Finance for .NET podporuje všechny hlavní platformy včetně." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -93,17 +93,17 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET framework
+    .NET Rámec
    </header>
    <ul>
     <li>
-     Aplikace asp .NET
+     Aplikace ASP.NET
     </li>
     <li>
-     Aplikace windows
+     Aplikace pro Windows
     </li>
     <li>
-     Web services
+     Webové služby
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Finance for .NET podporuje formáty související s finančními prostředky." >}}
+{{< blocks/products/pf/carousel-item h3="Podporované formáty souborů" description="Aspose.Finance for .NET podporuje formáty související s financemi." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Vstup/výstup
+    Vstup výstup
    </header>
    <ul>
     <li>
@@ -149,7 +149,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
      OFX
     </li>
     <li>
-     OFX verze 1
+     OFX Verze 1
     </li>
    </ul>
   </div>
@@ -159,7 +159,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
 
 <ul>
 
-<li>Xlsx</li>
+<li>XLSX</li>
 
 </ul>
   </div>
@@ -174,7 +174,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
   <footer>
    <small>
     <em>
-     Pro
+     pro
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Rozšířená funkce .NET Finance analýza API
+    Pokročilé funkce .NET Finance analýzy API
    </h2>
    <p>
    </p>
@@ -203,14 +203,14 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit instanci XBRL od nuly
+     Vytvořte instanci XBRL od začátku
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Číst formáty XBRL a iXBRL
+     Přečtěte si formáty XBRL a iXBRL
     </p>
    </div>
    <div class="col-lg-4">
@@ -231,7 +231,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Převést XBRL na xlsx
+     Převést XBRL na XLSX
     </p>
    </div>
    <div class="col-lg-4">
@@ -245,7 +245,7 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vytvořit soubor odezvy OFX
+     Vytvořte soubor odpovědí OFX
     </p>
    </div>
 
@@ -253,14 +253,14 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convert OFX request file from 1.03 to 2.2 format
+     Převést soubor požadavku OFX z formátu 1.03 na formát 2.2
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Převést soubor odezvy OFX z 1.03 do 2.2 formátu
+     Převést soubor odpovědí OFX z formátu 1.03 na formát 2.2
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -300,28 +300,28 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Vytvořit dokumenty instance XBRL
+     Vytvořte dokumenty instance XBRL
     </h2>
     <p>
-     Aspose.Finance for .NET podporuje vytváření dokumentů XBRL. S následujícími několika řádky kódu pro vytvoření nového dokumentu XBRL instance
+     Aspose.Finance for .NET podporuje generování XBRL dokumentů. Pomocí následujících několika řádků kódu vytvořte nový dokument instance XBRL
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Vytvořit instance XBRL- C#
+      Vytvořit instanci XBRL – C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Číst soubor iXBRL
+     Přečtěte si soubor iXBRL
     </h2>
     <p>
-     Četba inline extensible business reporting language iXBRL instance documents also supported.
+     Podporováno je také čtení dokumentů instance Inline eXtensible Business Reporting Language iXBRL.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Read iXBRL instance documents - C#
+      Přečíst dokumenty instancí iXBRL – C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -342,16 +342,16 @@ description: C# asp .NET vb .NET knihovna pro přeměnu účetní závěrky na r
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Zdroje učení" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API odkazy" href="https://apireference.aspose.com/finance/net" >}}
-{{< blocks/products/pf/slr-element name="Výukové videa" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Reference" href="https://apireference.aspose.com/finance/net" >}}
+{{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free support" href="https://forum.aspose.com/c/finance" >}}
-{{< blocks/products/pf/slr-element name="Platná podpora" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/finance" >}}
+{{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

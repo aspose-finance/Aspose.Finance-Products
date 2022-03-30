@@ -1,39 +1,39 @@
 ﻿---
-title: Api pelaporan keuangan Digital Global- Aspose 
+title: API Pelaporan Keuangan Digital Global - Aspose 
 weight: 10
 url: /id/family
-description: Perpustakaan untuk memanipulasi format terkait keuangan yang digunakan dalam pengajuan Perusahaan dan menghasilkan laporan untuk dana dan memanfaatkan pada Platform apa pun
+description: Perpustakaan untuk memanipulasi format terkait keuangan yang digunakan dalam pengarsipan untuk perusahaan dan menghasilkan laporan untuk dana dan leverage di Platform apa pun
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Api Untuk memproses XBRL, iXBRL Format" h2="Api asli .NET untuk memanipulasi format terkait keuangan seperti XBRL, iXBRL tanpa dependensi perangkat lunak apa pun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API untuk Memproses XBRL, iXBRL Format" h2=".NET API asli untuk memanipulasi format terkait keuangan seperti XBRL, iXBRL tanpa ketergantungan perangkat lunak apa pun." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Finance api kode tinggi termasuk" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Finance API Kode Tinggi Termasuk" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Finance for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="/finance/net/" >}}
-Menargetkan Formulir Windows, ASP.NET atau jenis aplikasi apa pun berdasarkan .NET kerangka 2.0 atau yang lebih baru.
+Targetkan Windows Forms, ASP.NET atau semua jenis aplikasi berdasarkan .NET Framework 2.0 atau yang lebih baru.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Sumber daya pembelajaran" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/finance/" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-finance" >}}
-{{< blocks/products/pf/slr-element name="API referensi" href="https://apireference.aspose.com/finance" >}}
+{{< blocks/products/pf/slr-element name="API Referensi" href="https://apireference.aspose.com/finance" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Dukungan gratis" href="https://forum.aspose.com/c/finance" >}}
-{{< blocks/products/pf/slr-element name="Dukungan berbayar" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/finance" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Mengapa keluarga produk Aspose.Finance?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Daftar pelanggan" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Kisah sukses" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Finance Kelompok Produk?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

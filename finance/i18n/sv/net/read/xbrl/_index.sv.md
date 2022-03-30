@@ -1,6 +1,6 @@
 ﻿---
-title: Läs XBRL Fil via C#
-description: Samplingskod för XBRL fileläsning. Använd API exempelkod för att läsa sats XBRL filer inom .NET baserade program. 
+title: Läs XBRL fil via C#
+description: Exempelkod för filläsning av XBRL. Använd API exempelkod för att läsa batch-XBRL-filer i .NET-baserade applikationer. 
 url: /sv/net/read/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Läs XBRL Filer via C#" h2="Läsa finansiella rapporter i XBRL-format utan att behöva installera Microsoft Office eller någon annan programvara." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Läs XBRL filer via C#" h2="Läser finansiella rapporter i XBRL-format utan att behöva installera Microsoft Office eller någon annan programvara." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Läs XBRL filer" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Så här läser du XBRL-filer" %}}
 
-Följ stegen i kod snippet eller förbättra det som av din applikations behov för att läsa utökade affärsrapportering språk XBRL fil XBRL s. Se till att du har läskrav i din ansökan.
+Följ stegen i kodavsnittet eller förbättra det i enlighet med ditt programs behov för att läsa utökningsbara filer för affärsrapporteringsspråket XBRL. Se till att ha läskrav i din ansökan.
 
-1. Skapa [XbrlDokumentklass](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Till exempel.1. Skicka namnet på en giltig XBRL- fil som en parameter.1. För att få fram filens inre detalj, använd de relevanta klasser som t.ex. [SchemaRef-samlingComment](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Sammanhanget](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enheter](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+1. Skapa [XbrlDocument-klass](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Exempel.1. Skicka namnet på en giltig XBRL-fil som en parameter.1. För att få den inre detaljen i filen, använd de relevanta klasserna som t.ex [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Sammanhang](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enhet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Läskrav" %}}
-För att fortsätta läsa XBRL dokument är .NET Finance API det huvudsakliga kravet att inkluderas i ansökan. 
-- Installera den via kommandorad som ''nuget install Aspose.Finance''' eller via Package Manager Console i Visual Studio med'' 'Install-Package Aspose.Finance'''.
-- Alternativt, få offline MSI installerare eller DLLs i en ZIP-fil från [Nerladdningar](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+För att fortsätta för att läsa XBRL dokument är .NET Finance API huvudkravet för att inkluderas i ansökan. 
+- Installera den via kommandoraden som ```nuget install Aspose.Finance``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Finance```.
+- Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [Nedladdningar](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kod att läsa XBRL filer" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kod för att läsa XBRL filer" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-xbrl-file.cs" >}}
 
@@ -38,7 +38,7 @@ För att fortsätta läsa XBRL dokument är .NET Finance API det huvudsakliga kr
 
 {{< blocks/products/pf/agp/other-supported-section title="Andra läsalternativ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="Inline Extensible Business Reporting Språk" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="Inline Extensible Business Reporting Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

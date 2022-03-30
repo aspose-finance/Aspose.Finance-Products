@@ -1,6 +1,6 @@
 ﻿---
-title: Converter OFX Arquivo de Resposta de 1.03 para 2.2 Formato via C#
-description: Código de amostra para OFX arquivo de solicitação de 1.03 a 2.2 C# conversão. Use API código de exemplo para conversão de solicitação em lote OFX em aplicativos baseados em .NET. 
+title: Converter arquivo de resposta OFX do formato 1.03 para 2.2 via C#
+description: Código de amostra para o arquivo de solicitação OFX de 1,03 para 2,2 conversão C#. Use o código de exemplo API para conversão de solicitação em lote OFX em aplicativos baseados em .NET. 
 url: /pt/net/conversion/ofx-response/
 family: finance
 platformtag: net
@@ -10,26 +10,26 @@ outformat: OFX Response 2.2
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter OFX Arquivo de Resposta de 1.03 para 2.2 Formato via C#" h2="OFX Arquivo de resposta de 1.03 a 2.2 conversão sem precisar de Microsoft Office instalado." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter arquivo de resposta OFX do formato 1.03 para 2.2 via C#" h2="OFX Arquivo de resposta de conversão de 1.03 para 2.2 sem precisar do Microsoft Office instalado." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) É um API para processar XBRL, iXBRL formatos e os desenvolvedores podem facilmente criar aplicativos de software de gerenciamento de processos de negócios, análise financeira e relatórios para converter, criar, ler, visualizar e validar XBRL, iXBRL e OFX arquivos relacionados a finanças. 
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) é um API para processar XBRL, iXBRL formatos e desenvolvedores podem facilmente criar aplicativos de software de gerenciamento de processos de negócios, análise financeira e relatórios para converter, criar, ler, visualizar e validar XBRL, iXBRL e {5 } arquivos relacionados a finanças. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Como converter OFX arquivo de resposta do formato 1.03 para 2.2" %}}
-1. Carregar arquivo de entrada usando [Classe OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument)...1. Use o ofxVersion V2x de [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Como parâmetro no método Salvar.1. Ligue para o [Salvar método](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) Fornecendo o arquivo de destino e ofxVersion.
+{{% blocks/products/pf/agp/feature-section-col title="Como converter o arquivo de resposta OFX do formato 1.03 para 2.2" %}}
+1. Carregar arquivo de entrada usando [Classe OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument).1. Use o ofxVersion V2x de [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) como parâmetro no método Save.1. Ligar para [Salvar método](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) fornecendo o arquivo de destino e ofxVersion.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Exigência de conversão" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Requisito de conversão" %}}
 
-Para prosseguir para OFX Arquivo de Resposta de 1.03 a 2.2 conversão, .NET Finance API é o principal requisito.
-- Instale-o via linha de comando como '''nogget install Aspose.Finance'' 'ou via Console do Package Manager do Visual Studio com '''Install-Package Aspose.Finance'''.
-- Como alternativa, obtenha o instalador MSI offline ou DLLs em um arquivo ZIP de [Downloads](https://downloads.aspose.com/finance/net)...{{% /blocks/products/pf/agp/feature-section-col %}}
+Para prosseguir para a conversão do OFX Arquivo de Resposta de 1,03 para 2,2, .NET Finance API é o principal requisito.
+- Instale-o via linha de comando como ```nuget install Aspose.Finance``` ou via Package Manager Console do Visual Studio com ```Install-Package Aspose.Finance```.
+- Como alternativa, obtenha o instalador MSI offline ou as DLLs em um arquivo ZIP de [Transferências](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# código para OFX arquivo de resposta de 1.03 a 2.2 conversão de formato" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# código para OFX arquivo de resposta de conversão de formato 1.03 para 2.2" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-ofx-response-from-1.03-to-2.2.cs" >}}
 
@@ -41,11 +41,11 @@ Para prosseguir para OFX Arquivo de Resposta de 1.03 a 2.2 conversão, .NET Fina
 
 {{< blocks/products/pf/agp/other-supported-section title="Outras opções de conversão" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX Pedido" description="De 1.03 a 2.2 Formato" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX Solicitar" description="De 1.03 a 2.2 Formato" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL para XLSX" description="Planilha Microsoft Excel Open XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL para XLSX" description="Planilha XML Aberta do Microsoft Excel" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL a iXBRL" description="Linguagem de relatórios de negócios extensível em linha" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL a iXBRL" description="Linguagem Extensível de Relatórios de Negócios Inline" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

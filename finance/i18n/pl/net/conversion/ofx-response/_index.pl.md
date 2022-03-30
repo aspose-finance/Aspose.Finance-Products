@@ -1,6 +1,6 @@
 ﻿---
-title: Konwertuj OFX Plik odpowiedzi z 1.03 na 2.2 Format za pośrednictwem C#
-description: Przykładowy kod dla pliku z żądaniem OFX od konwersji 1.03 do 2.2 C#. Użyj kodu przykładowego API dla konwersji żądania wsadowego OFX w aplikacjach opartych na .NET. 
+title: Konwertuj plik odpowiedzi OFX z formatu 1.03 na 2.2 za pomocą C#
+description: Przykładowy kod dla OFX pliku żądania od 1,03 do 2,2 C# konwersji. Użyj API przykładowego kodu do zbiorczej OFX konwersji żądań w .NET aplikacjach. 
 url: /pl/net/conversion/ofx-response/
 family: finance
 platformtag: net
@@ -10,26 +10,26 @@ outformat: OFX Response 2.2
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj OFX Plik odpowiedzi z 1.03 na 2.2 Format za pośrednictwem C#" h2="OFX Odpowiedź pliku od 1.03 do 2.2 konwersji bez konieczności instalowania pakietu Microsoft Office." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj plik odpowiedzi OFX z formatu 1.03 na 2.2 za pomocą C#" h2="OFX Konwersja pliku odpowiedzi z 1,03 na 2,2 bez konieczności instalowania pakietu Microsoft Office." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) To API do przetwarzania XBRL, iXBRL formatów, a programiści mogą łatwo tworzyć aplikacje do zarządzania procesami biznesowymi, analizy finansowej i raportowania w celu konwersji, tworzenia, odczytu, przeglądania i sprawdzania poprawności XBRL, iXBRL i OFX plików związanych z finansami. 
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) to API do przetwarzania XBRL, iXBRL formatów, a programiści mogą łatwo tworzyć aplikacje do zarządzania procesami biznesowymi, analizy finansowej i raportowania do konwertowania, tworzenia, czytania, przeglądania i weryfikowania XBRL, iXBRL i {5 } pliki związane z finansami. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować plik odpowiedzi OFX z formatu 1.03 do 2.2" %}}
-1. Załaduj plik wejściowy za pomocą [Klasa OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument).1. Użyj ofxVersion V2x z [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Jako parametr w metodzie Zapisz.1. Zadzwoń do [Zapisz metodę](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) Dostarczając plik docelowy i ofxVersion.
+{{% blocks/products/pf/agp/feature-section-col title="Jak przekonwertować OFX plik odpowiedzi z formatu 1.03 na 2.2" %}}
+1. Załaduj plik wejściowy za pomocą [Klasa OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument).1. Użyj ofxVersion V2x z [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) jako parametr w metodzie Save.1. Zadzwoń do [Zapisz metodę](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) dostarczając plik docelowy i ofxVersion.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymóg konwersji" %}}
 
-Aby przejść do OFX pliku odpowiedzi od 1.03 do 2.2 konwersji, .NET Finance API jest głównym wymaganiem.
-- Zainstaluj go za pomocą wiersza poleceń jako ''nuget install Aspose.Finance'' lub za pomocą konsoli menedżera pakietów w Visual Studio z ''Zainstaluj pakiet Aspose.Finance''.
-- Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [Pliki do pobrania](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+Aby kontynuować konwersję pliku odpowiedzi OFX z 1.03 na 2.2, głównym wymaganiem jest .NET Finance API.
+- Zainstaluj go za pomocą wiersza poleceń jako ```nuget install Aspose.Finance``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.Finance```.
+- Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [pliki do pobrania](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Kod C# dla pliku odpowiedzi OFX od konwersji formatu 1.03 do 2.2" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kod dla OFX pliku odpowiedzi z konwersji formatu 1.03 na 2.2" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-ofx-response-from-1.03-to-2.2.cs" >}}
 
@@ -41,11 +41,11 @@ Aby przejść do OFX pliku odpowiedzi od 1.03 do 2.2 konwersji, .NET Finance API
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne opcje konwersji" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX Prośba" description="Od 1.03 do 2.2 Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX Prośba" description="Od formatu 1.03 do 2.2" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL do XLSX" description="Microsoft Excel Otwarty arkusz kalkulacyjny XML" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL do XLSX" description="Arkusz kalkulacyjny Microsoft Excel Open XML" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL do iXBRL" description="Inline rozszerzalny język raportowania biznesowego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL do iXBRL" description="Wbudowany rozszerzalny język raportowania biznesowego" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

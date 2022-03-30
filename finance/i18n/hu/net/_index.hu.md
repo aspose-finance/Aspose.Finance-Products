@@ -1,42 +1,42 @@
 ﻿---
-title: C# .NET apis pénzügyi digitális jelentési rendszerekhez- Aspose 
+title: C# .NET API-k pénzügyi digitális jelentési rendszerekhez – Aspose 
 weight: 20
 url: /hu/net/ 
-description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszthető üzleti jelentési nyelvre történő átalakításához XBRL és iXBRL az elemzéshez XBRL rendszertanok és jelentések létrehozásához
+description: C# ASP.NET VB.NET könyvtár a pénzügyi kimutatások eXtensible Business Reporting Language XBRL nyelvre való konvertálásához és a iXBRL XBRL taxonómiák és jelentések létrehozásához szükséges elemzésekhez
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET könyvtár Finance dokumentumok elemzésére" h2="A XBRL és iXBRL Finance-hez kapcsolódó formátumok létrehozása, olvasása és validálása az üzleti folyamatok kezelésének, pénzügyi elemzésének és jelentési szoftvereinek keretében." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Könyvtár a Finance dokumentumok elemzéséhez" h2="Hozzon létre, olvasson és érvényesítsen XBRL és iXBRL Finance-kapcsolódó formátumokat bármely üzleti folyamatkezelő, pénzügyi elemző és jelentéskészítő szoftveren belül." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> A Aspose.Finance for .NET egy rugalmas könyvtár a pénzügyekkel kapcsolatos formátumok feldolgozásához. API könnyen létrehozhat, olvashat és validálhat kiterjeszthető üzleti jelentési nyelv XBRL és iXBRL formátumokat, valamint létrehozhat OFX kérelem-és válaszfájlokat különböző formátumokban. A fejlesztők a XBRL engedélyezett szoftvert könnyedén fejleszthetik, vagy bármely meglévő digitális pénzügyi jelentési rendszeren belül használhatják a XBRL-es jelentések létrehozásához. Ez egy kiterjeszthető, könnyen használható és önálló API független bármely más szoftver.</p>
+<p align="justify"> Aspose.Finance for .NET egy rugalmas könyvtár a pénzügyekkel kapcsolatos formátumok feldolgozásához. A API könnyen létrehozhat, elolvashat és ellenőrizhet eXtensible Business Reporting Language XBRL és iXBRL formátumokat, valamint OFX kérés- és válaszfájlokat hozhat létre különböző formátumokban. A fejlesztők könnyedén fejleszthetnek XBRL-kompatibilis szoftvereket, vagy bármely meglévő digitális pénzügyi jelentési rendszerben felhasználhatják jelentéseket a XBRL segítségével. Ez egy bővíthető, könnyen használható és önálló API, amely minden más szoftvertől független.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Egy pillantásra" description="Aspose.Finance for .NET API áttekintése." >}}
+{{< blocks/products/pf/carousel-item h3="Ránézésre" description="A(z) Aspose.Finance for .NET API áttekintése." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Főbb jellemzők
+    Főbb jellemzői
    </header>
    <ul>
     <li>
-     XBRL példány létrehozása
+     Hozzon létre XBRL példányt
     </li>
     <li>
-     XBRL formátum olvasása
+     Olvassa el a XBRL formátumot
     </li>
     <li>
-     iXBRL formátum olvasása
+     Olvassa el a iXBRL formátumot
     </li>
     <li>
      XBRL érvényesítés
@@ -67,7 +67,7 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform independence" description="Aspose.Finance for .NET támogatja az összes fő platformot beleértve." >}}
+{{< blocks/products/pf/carousel-item h3="Platformfüggetlenség" description="Aspose.Finance for .NET minden nagyobb platformot támogat, beleértve a következőket:" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -93,17 +93,17 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET keret
+    .NET Keretrendszer
    </header>
    <ul>
     <li>
-     Asp .NET alkalmazás
+     ASP.NET alkalmazás
     </li>
     <li>
      Windows alkalmazás
     </li>
     <li>
-     Web services
+     Webszolgáltatások
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="Aspose.Finance for .NET támogatja a pénzügyekkel kapcsolatos formátumokat." >}}
+{{< blocks/products/pf/carousel-item h3="Támogatott fájlformátumok" description="A Aspose.Finance for .NET támogatja a pénzügyekkel kapcsolatos formátumokat." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Bemenet/kimenet
+    Bemenet kimenet
    </header>
    <ul>
     <li>
@@ -159,7 +159,7 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
 
 <ul>
 
-<li>Xlsx</li>
+<li>XLSX</li>
 
 </ul>
   </div>
@@ -174,7 +174,7 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
   <footer>
    <small>
     <em>
-     For
+     számára
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Továbbfejlesztett .NET Finance API funkciók elemzése
+    Speciális .NET Finance Elemző API funkciók
    </h2>
    <p>
    </p>
@@ -203,14 +203,14 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL példány létrehozása a nulláról
+     Hozzon létre XBRL példányt a semmiből
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL és iXBRL formátumok olvasása
+     Olvassa el a XBRL és a iXBRL formátumokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -224,28 +224,28 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertálni XBRL iXBRL
+     XBRL konvertálása iXBRL-re
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL konvertálása xlsx-re
+     XBRL konvertálása XLSX-re
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX kérésfájl létrehozása
+     Hozzon létre OFX kérési fájlt
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX válaszfájl létrehozása
+     Hozzon létre OFX válaszfájlt
     </p>
    </div>
 
@@ -253,14 +253,14 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Konvertálja a OFX kérés fájlt 1.03-ból 2.2 formátumba
+     Konvertálja a OFX kérésfájlt 1.03-ról 2.2-es formátumra
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX válaszfájl átalakítása 1.03-ból 2.2 formátumba
+     Konvertálja a OFX válaszfájlt 1.03-ról 2.2-es formátumra
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -300,28 +300,28 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     XBRL példány dokumentumok létrehozása
+     Hozzon létre XBRL példánydokumentumot
     </h2>
     <p>
-     Aspose.Finance for .NET támogatja a XBRL dokumentumok generálását. A következő néhány sor kód, hogy hozzon létre egy új XBRL példány dokumentum
+     A Aspose.Finance for .NET XBRL dokumentum létrehozását támogatja. A következő néhány sornyi kóddal új XBRL példány dokumentumot hozhat létre
     </p>
     <div class="codeblock" id="code">
      <h3>
-      XBRL példány létrehozása- C#
+      XBRL példány létrehozása - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     iXBRL fájl olvasása
+     Olvassa el a iXBRL fájlt
     </h2>
     <p>
-     Olvasás inline kiterjeszthető üzleti jelentési nyelv iXBRL példány dokumentumok is támogatott.
+     Az Inline eXtensible Business Reporting Language iXBRL példánydokumentumainak olvasása szintén támogatott.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      iXBRL példányokiratok olvasása- C#
+      iXBRL példány dokumentum olvasása - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -342,14 +342,14 @@ description: C# asp .NET vb .NET könyvtár a pénzügyi kimutatások kiterjeszt
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Tanulási erőforrások" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tanulási források" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentáció" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="Forráskód" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API hivatkozások" href="https://apireference.aspose.com/finance/net" >}}
-{{< blocks/products/pf/slr-element name="Bemutató videók" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Hivatkozások" href="https://apireference.aspose.com/finance/net" >}}
+{{< blocks/products/pf/slr-element name="Oktatóvideók" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Termék támogatás" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Terméktámogatás" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Ingyenes támogatás" href="https://forum.aspose.com/c/finance" >}}
 {{< blocks/products/pf/slr-element name="Fizetett támogatás" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/finance/" >}}

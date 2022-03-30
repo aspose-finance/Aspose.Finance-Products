@@ -1,21 +1,21 @@
 ﻿---
-title: Διαβάστε οικονομικές εκθέσεις μέσω .NET
+title: Διαβάστε τις οικονομικές αναφορές μέσω .NET
 url: /el/net/read/
-description:  C# κωδικός για την ανάγνωση οικονομικών εκθέσεων σε αρχεία XBRL και iXBRL μέσω της βιβλιοθήκης .NET.
+description:  Κωδικός C# για ανάγνωση οικονομικών αναφορών σε αρχεία XBRL και iXBRL μέσω της βιβλιοθήκης .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Ανάγνωση αρχείων οικονομικής αναφοράς μέσω C#" h2="Ανάγνωση μορφών οικονομικής αναφοράς, συμπεριλαμβανομένων των XBRL και iXBRL εντός του .NET εφαρμογών βασισμένων." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Διαβάστε τα Αρχεία Οικονομικών Αναφορών μέσω C#" h2="Ανάγνωση μορφών οικονομικών αναφορών, συμπεριλαμβανομένων των XBRL και iXBRL σε εφαρμογές που βασίζονται σε .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Είναι ένα χαρακτηριστικό πλούσιο, εκτεταμένο και εύκολο στη χρήση επεξεργασία οικονομικών αναφορών API. Οι προγραμματιστές μπορούν εύκολα να φορτώσουν, να προβάλουν ή να δημιουργήσουν μορφές XBRL και iXBRL για επιχειρηματικές και οικονομικές λύσεις. Παρέχει το API [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Κλάση και κλάση  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Κατηγορία για τη φόρτωση έγκυρων αρχείων XBRL και iXBRL.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) είναι μια πλούσια, επεκτάσιμη και εύχρηστη επεξεργασία οικονομικών αναφορών API. Οι προγραμματιστές μπορούν εύκολα να φορτώσουν, να προβάλουν ή να δημιουργήσουν μορφές XBRL και iXBRL για επιχειρηματικές και οικονομικές λύσεις. Το API παρέχει [Έγγραφο Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) τάξη και  [Έγγραφο InlineXbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) τάξη για τη φόρτωση έγκυρων αρχείων XBRL και iXBRL.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Ανάγνωση XBRL Έγγραφο" %}}
+{{% blocks/products/pf/feature-page-section h2="Διαβάστε το έγγραφο XBRL" %}}
 
-Η ανάγνωση του αρχείου XBRL απαιτείται για να φορτώσει το υπάρχον αρχείο για την προβολή και την ανάλυση. Για να διαβάσετε έγγραφα XBLR, Το API παρέχει την κατηγορία XbrlDocument όπως αναφέρεται στην παραπάνω παράγραφο με έγκυρο αρχείο XBRL ως παραμέτρους εισόδου. Χρησιμοποιήστε άλλες τάξεις API, οι προγραμματιστές μπορούν εύκολα να αναλύσουν τη δομή και τα δεδομένα του. Λίγες από τις τάξεις είναι αρκετές. [Συλλογή SchemaRefComment](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Περιεχόμενο](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Μονάδα:](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
+Απαιτείται ανάγνωση του αρχείου XBRL για τη φόρτωση του υπάρχοντος αρχείου για προβολή και ανάλυση. Για την ανάγνωση εγγράφων XBLR, το API παρέχει την κλάση XbrlDocument όπως αναφέρεται στην παραπάνω παράγραφο με έγκυρο αρχείο XBRL ως παραμέτρους εισόδου. Χρησιμοποιήστε άλλες κλάσεις API, οι προγραμματιστές μπορούν εύκολα να αναλύσουν τη δομή και τα δεδομένα της. Λίγες από τις τάξεις είναι [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Συμφραζόμενα](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Μονάδα](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
-{{% blocks/products/pf/feature-page-code h3="C# Κωδικός για ανάγνωση XBRL αρχείου" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Κώδικας για ανάγνωση XBRL αρχείου" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-xbrl-file.cs" >}} 
 
@@ -23,11 +23,11 @@ description:  C# κωδικός για την ανάγνωση οικονομι�
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="Ανάγνωση iXBRL Έγγραφο" %}}
+{{% blocks/products/pf/feature-page-section h2="Διαβάστε το έγγραφο iXBRL" %}}
 
-Όπως αναφέρθηκε παραπάνω, όταν υπάρχει ανάγκη προβολής, ανάλυσης ή επεξεργασίας των υφιστάμενων δεδομένων τότε υπάρχει ανάγκη ανάγνωσης του αρχείου iXBRL. Για να το διαβάσετε, το API παρέχει την κατηγορία InlineXbrlDocument με ένα έγκυρο αρχείο iXBRL ως παράμετρο. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν μαθήματα όπως οι τάξεις. [InlineFactName](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Περιεχόμενο](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Μονάδα:](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) Βλέποντας τα δεδομένα και τη δομή του. 
+Όπως αναφέρθηκε παραπάνω, όταν χρειάζεται να δείτε, να αναλύσετε ή να επεξεργαστείτε υπάρχοντα δεδομένα, τότε χρειάζεται να διαβάσετε το αρχείο iXBRL. Για να το διαβάσετε, το API παρέχει κλάση InlineXbrlDocument με έγκυρο αρχείο iXBRL ως παράμετρο. Οι προγραμματιστές μπορούν να χρησιμοποιήσουν τάξεις όπως [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Συμφραζόμενα](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Μονάδα](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) προβολή των δεδομένων και της δομής του. 
 
-{{% blocks/products/pf/feature-page-code h3="C# Κωδικός για ανάγνωση iXBRL Έγγραφο" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Κώδικας για ανάγνωση iXBRL εγγράφου" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-ixbrl-file.cs" >}}
 

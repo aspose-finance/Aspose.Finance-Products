@@ -1,6 +1,6 @@
 ﻿---
-title: Utwórz plik odpowiedzi OFX za pomocą C#
-description: Przykładowy kod do tworzenia pliku odpowiedzi OFX. Użyj kodu przykładowego API dla generowania plików odpowiedzi wsadowych OFX w aplikacjach opartych na .NET. 
+title: Utwórz plik odpowiedzi OFX przez C#
+description: Przykładowy kod do tworzenia pliku odpowiedzi OFX. Użyj API przykładowego kodu do wsadowego OFX generowania plików odpowiedzi w aplikacjach opartych na .NET. 
 url: /pl/net/create/ofx-response/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Utwórz OFX plików odpowiedzi przez C#" h2="Tworzenie plików odpowiedzi OFX bez konieczności instalowania pakietu Microsoft Office lub innego oprogramowania." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Utwórz OFX pliki odpowiedzi przez C#" h2="OFX tworzenie plików odpowiedzi bez konieczności instalowania pakietu Microsoft Office lub innego oprogramowania." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Jak utworzyć pliki odpowiedzi OFX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Jak utworzyć OFX pliki odpowiedzi" %}}
 
-Postępuj zgodnie z krokami w fragorze kodu lub popraw go zgodnie z potrzebami aplikacji po spełnieniu wymagań dotyczących tworzenia w aplikacji.
+Wykonaj czynności opisane we fragmencie kodu lub ulepsz go zgodnie z potrzebami aplikacji po spełnieniu wymagań dotyczących tworzenia w aplikacji.
 
-1. Stwórz [Klasa OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Obiekt.1. Przypisywanie odpowiednich właściwości przy użyciu różnych klas podanych przez API jak [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [StatementTransactionResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse), [Zestawienie transakcji](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction)1. Użyj plików xxVersion V2x lub V1x dla plików xml i sgml odpowiednio z [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Jako parametr w metodzie Zapisz.1. Zadzwoń do [Zapisz metodę](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) Dostarczając plik docelowy i ofxVersion.
+1. Tworzyć [Klasa OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) obiekt.1. Przypisz odpowiednie właściwości, używając różnych klas dostarczonych przez API like [Zaloguj sięOdpowiedź](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [WyciągTransakcjaOdpowiedź](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse), [WyciągTransakcja](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction)1. Użyj ofxVersion V2x lub V1x odpowiednio dla plików xml i sgml z [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) jako parametr w metodzie Save.1. Zadzwoń do [Zapisz metodę](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) dostarczając plik docelowy i ofxVersion.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Wymóg stworzenia" %}}
-Aby kontynuować tworzenie pliku odpowiedzi OFX, .NET Finance API to główne wymaganie, które należy uwzględnić w aplikacji do generowania raportów. 
-- Zainstaluj go za pomocą wiersza poleceń jako ''nuget install Aspose.Finance'' lub za pomocą konsoli menedżera pakietów w Visual Studio z ''Zainstaluj pakiet Aspose.Finance''.
-- Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [Pliki do pobrania](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Wymóg tworzenia" %}}
+Aby przejść do OFX tworzenia pliku odpowiedzi, .NET Finance API jest głównym wymaganiem dołączenia do aplikacji do generowania raportów. 
+- Zainstaluj go za pomocą wiersza poleceń jako ```nuget install Aspose.Finance``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.Finance```.
+- Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [pliki do pobrania](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kod dla OFX tworzenia plików odpowiedzi" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kod do OFX tworzenia plików odpowiedzi" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}}
 
@@ -38,9 +38,9 @@ Aby kontynuować tworzenie pliku odpowiedzi OFX, .NET Finance API to główne wy
 
 {{< blocks/products/pf/agp/other-supported-section title="Inne opcje tworzenia" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="Plik wniosku OFX" description="Format 1.03 lub 2.2" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX Poproś o plik" description="Format 1.03 lub 2.2" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="Plik XBRL" description="Rozszerzalny język raportowania biznesowego" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL Plik" description="Rozszerzalny język raportowania biznesowego" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

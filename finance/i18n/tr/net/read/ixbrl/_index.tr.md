@@ -1,6 +1,6 @@
 ﻿---
-title: iXBRL Dosyasını C# aracılığıyla okuyun
-description: iXBRL dosya okuma için örnek kod. .NET tabanlı uygulamalarda toplu iXBRL dosyalarını okumak için API örnek kodu kullanın. 
+title: iXBRL Dosyayı C# aracılığıyla okuyun
+description: iXBRL dosya okuması için örnek kod. .NET tabanlı uygulamalarda toplu iXBRL dosyalarını okumak için API örnek kodunu kullanın. 
 url: /tr/net/read/ixbrl/
 family: finance
 platformtag: net
@@ -10,21 +10,21 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="iXBRL Dosyaları C# aracılığıyla okuyun" h2="Microsoft Office yüklü veya başka bir yazılıma ihtiyaç duymadan iXBRL biçiminde finansal raporları okumak." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# üzerinden iXBRL Dosyaları Okuyun" h2="Microsoft Office yüklü veya başka bir yazılıma ihtiyaç duymadan finansal raporları iXBRL formatında okuma." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="iXBRL Dosyaları Nasıl Okunur" %}}
+{{% blocks/products/pf/agp/feature-section-col title="iXBRL Dosya Nasıl Okunur" %}}
 
-Genişletilebilir işletme raporlama dili iXBRL belgelerini okumak için uygulama ihtiyaçlarınız itibariyle kod parçacıkındaki adımları izleyin veya geliştirin. Başvurunuzda okuma gereksinimlerine sahip olduğunuzdan emin olun.
+Kod parçacığındaki adımları izleyin veya genişletilebilir iş raporlama dili iXBRL belgelerini okumak için uygulama gereksinimlerinize göre geliştirin. Uygulamanızda okuma gereksinimleri olduğundan emin olun.
 
-1. Oluştur [InlineXbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Örnek.1. Geçerli bir iXBRL dosyasının adını parametre olarak iletin.1. Dosyanın iç detayını almak için, gibi ilgili sınıfları kullanın [InlineGerçek](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Bağlam](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Birim](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+1. Yaratmak [InlineXbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Misal.1. Geçerli bir iXBRL dosyasının adını parametre olarak iletin.1. Dosyanın iç detayını elde etmek için aşağıdaki gibi ilgili sınıfları kullanın. [satır içiGerçek](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Bağlam](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Birim](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Okuma Gereksinimi" %}}
-iXBRL belgelerini okumaya devam etmek için, .NET Finance API, uygulamaya dahil edilmesi gereken ana gerekliliktir. 
-- Komut satırı aracılığıyla ''nuget install Aspose.Finance'' olarak veya ''Install-Package Aspose.Finance'' ile Visual Studio Paket Yöneticisi Konsolu aracılığıyla yükleyin.
-- Alternatif olarak, bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DLL'leri alın [Indirmeler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+iXBRL dokümanı okumaya devam etmek için .NET Finance API, başvuruya dahil edilmesi gereken ana gereksinimdir. 
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="iXBRL dosyaları okumak için C# kodu" offSpacer="" %}}
 
@@ -38,7 +38,7 @@ iXBRL belgelerini okumaya devam etmek için, .NET Finance API, uygulamaya dahil 
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Okuma Seçenekleri" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/xbrl/" name="XBRL" description="Genişletilebilir İş Raporlama Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/xbrl/" name="XBRL" description="Genişletilebilir İşletme Raporlama Dili" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,24 +1,24 @@
 ﻿---
 title: إنشاء تقارير مالية عبر .NET
 url: /ar/net/create/
-description:  C# رمز لإنشاء تقارير مالية في XBRL ، و OFX طلب أو استجابة عبر .NET مكتبة.
+description:  C# لإنشاء تقارير مالية في XBRL ، و OFX طلب ملفات أو استجابة عبر مكتبة .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="إنشاء ملفات التقارير المالية عبر C#" h2="إنشاء تنسيقات التقارير المالية بما في ذلك XBRL و OFX ملف الطلب أو الرد بتنسيق 1.03 أو 2.2 داخل .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="إنشاء ملفات التقارير المالية عبر C#" h2="إنشاء تنسيقات التقارير المالية بما في ذلك XBRL و OFX ملف الطلب أو الاستجابة بتنسيق 1.03 أو 2.2 داخل التطبيقات المستندة إلى .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) هي ميزة غنية ، قابلة للتوسيع وسهلة الاستخدام إنشاء التقارير المالية ومعالجتها API. يمكن للمطورين إنشاء XBRL بسهولة من الصفر بالإضافة إلى إضافة مرجع المخطط والسياق والوحدة والعنصر ووصلة الحاشية ومرجعية الدور و 
-مرجع دور القوس. يوفر API فئة ذات صلة لكل ميزة مثل السياق ، ويمكن للمطورين استخدامها [الفترة الزمنية](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod)، [ContextEntity](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) و [السياق](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
-علاوة على ذلك ، يدعم API أيضًا إنشاء طلب/استجابة فتح (OFX) تنسيق طلب/استجابة بتنسيق 1.03 أو 2.2.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) هي ميزة غنية وقابلة للتوسيع وسهلة الاستخدام لإنشاء التقارير المالية ومعالجتها API. يمكن للمطورين إنشاء مثيل XBRL من البداية بسهولة بالإضافة إلى إضافة مرجع مخطط وسياق ووحدة وعنصر وارتباط حاشية سفلية ومرجع دور و 
+مرجع دور القوس. يوفر API فئة ملائمة لكل ميزة مثل السياق ، يمكن للمطورين استخدامها [السياق](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod)و [السياق الكيان](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) و [سياق الكلام](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
+علاوة على ذلك ، يدعم API أيضًا إنشاء طلب / استجابة بتنسيق التبادل المالي المفتوح (OFX) بتنسيق 1.03 أو 2.2.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="إنشاء XBRL ملف عن طريق إضافة عنصر" %}}
+{{% blocks/products/pf/feature-page-section h2="قم بإنشاء ملف XBRL عن طريق إضافة عنصر" %}}
 
-لإنشاء ملف XBRL وإضافة عنصر إلى المستند ، فإن العملية هي إنشاء [فئة XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) سبيل المثال. قم بإعداد الإعدادات ذات الصلة للعنصر باستخدام فئات API المناسبة مثل [فئة SchemaRef](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref)، فئات السياق ذات الصلة كما ذكر أعلاه و [فئة المفهوم](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). وأخيرا تحديد وتقنين [فئة البند](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) خصائص وكذلك استدعاء [حفظ طريقة](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) ل [إنشاء XBRL](https://products.aspose.com/finance/net/create/xbrl/) ملف في القرص.
+لإنشاء ملف XBRL وإضافة عنصر إلى المستند ، تكون العملية هي إنشاء [فئة XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) نموذج. قم بإعداد الإعدادات ذات الصلة للعنصر باستخدام فئات API المناسبة مثل [فئة SchemaRef](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref)، فئات السياق ذات الصلة كما هو مذكور أعلاه و [فئة المفهوم](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). أخيرًا حدد وخصص [فئة البند](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) خصائص وكذلك استدعاء [طريقة الحفظ](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) ل [إنشاء XBRL](https://products.aspose.com/finance/net/create/xbrl/) ملف في القرص.
 
-{{% blocks/products/pf/feature-page-code h3="C# كود لإنشاء ملف XBRL عن طريق إضافة عنصر" %}}
+{{% blocks/products/pf/feature-page-code h3="C# رمز لإنشاء XBRL ملف عن طريق إضافة عنصر" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-xbrl-file-and-add-item.cs" >}} 
 
@@ -26,18 +26,18 @@ description:  C# رمز لإنشاء تقارير مالية في XBRL ، و OFX
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="إنشاء OFX ملفات الطلب والاستجابة" %}}
+{{% blocks/products/pf/feature-page-section h2="قم بإنشاء OFX ملفات الطلبات والاستجابة" %}}
 
 
-لإنشاء ملفات OFX ، يوفر API [OfxRequestDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) و [OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) يمكن للفصول والمطورين بسهولة [إنشاء OFX طلب](https://products.aspose.com/finance/net/create/ofx-request/) وملفات الاستجابة في كل من الأشكال 1.03 و 2.2. لتهيئة خصائص OfxRequestDocument ، يوفر API أيضًا فئات أخرى مثل [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)، [المؤسسة المالية](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution) و [طلب معاملات البيانات](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest) الطبقات. وبالمثل ، من أجل تقنين خصائص OfxResponseDocument ، يوفر API فئات داعمة مثل [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)،  [الاستجابة لعملات البيانات](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse) و [3-المعاملات الثالثية](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction). فيما يلي قصاصات التعليمات البرمجية لكلتا الحالتين مع استخدام الفئات المناسبة ذات الصلة.
+لإنشاء ملفات OFX ، يوفر API [OfxRequestDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) و [OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) يمكن الطبقات والمطورين بسهولة [إنشاء OFX طلب](https://products.aspose.com/finance/net/create/ofx-request/) وملفات الاستجابة بتنسيقات 1.03 و 2.2. لتهيئة خصائص OfxRequestDocument ، يوفر API أيضًا فئات أخرى مثل [طلب التوقيع](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)و [مؤسسة مالية](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution) و [طلب معاملة كشف الحساب](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest) الطبقات. وبالمثل ، لإضفاء الطابع الشخصي على خصائص OfxResponseDocument ، يوفر API فئات داعمة مثل [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)و  [كشف المعاملة الاستجابة](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse) و [بيان المعاملة](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction). فيما يلي مقتطفات التعليمات البرمجية لكلتا الحالتين باستخدام الفئات المناسبة ذات الصلة.
 
-{{% blocks/products/pf/feature-page-code h3="C# رمز لتوليد OFX وثائق طلب" %}}
+{{% blocks/products/pf/feature-page-code h3="C# رمز لإنشاء OFX طلب المستندات" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}} 
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# رمز لتوليد OFX وثائق استجابة" %}}
+{{% blocks/products/pf/feature-page-code h3="C# رمز لإنشاء OFX مستندات الاستجابة" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}} 
 

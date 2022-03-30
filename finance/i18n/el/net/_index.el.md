@@ -1,18 +1,18 @@
 ﻿---
-title: C# .NET APIs για συστήματα χρηματοοικονομικής ψηφιακής αναφοράς - Aspose 
+title: C# .NET API για συστήματα ψηφιακών οικονομικών αναφορών - Aspose 
 weight: 20
 url: /el/net/ 
-description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπή των οικονομικών καταστάσεων σε eXtensible Business Reporting Language XBRL και iXBRL για ανάλυση για τη δημιουργία XBRL ταξινομιών και αναφορών
+description: Βιβλιοθήκη C# ASP.NET VB.NET για μετατροπή οικονομικών καταστάσεων σε επεκτάσιμη γλώσσα αναφοράς επιχειρήσεων XBRL και iXBRL για ανάλυση για τη δημιουργία XBRL ταξινομιών και αναφορών
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Βιβλιοθήκη για ανάλυση Finance Έγγραφα" h2="Δημιουργία, ανάγνωση και επικύρωση XBRL και iXBRL Finance Σχετικές μορφές εντός οποιασδήποτε διαχείρισης επιχειρηματικών διαδικασιών, Οικονομική ανάλυση και λογισμικό αναφοράς." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Βιβλιοθήκη για ανάλυση Finance εγγράφων" h2="Δημιουργήστε, διαβάστε και επικυρώστε XBRL και iXBRL Finance-Σχετικές Μορφές σε οποιοδήποτε Λογισμικό Διαχείρισης Επιχειρηματικών Διαδικασιών, Χρηματοοικονομικής Ανάλυσης και Αναφορών." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Το Aspose.Finance for .NET είναι μια ευέλικτη βιβλιοθήκη για την επεξεργασία των χρηματοοικονομικών μορφών. API μπορεί εύκολα να δημιουργήσει, να διαβάσει, και επικύρωση eXtensible Business Reporting Language XBRL και iXBRL μορφές καθώς και δημιουργία OFX σε διαφορετικές μορφές. Οι προγραμματιστές μπορούν να αναπτύξουν ενεργοποιημένο λογισμικό XBRL με ευκολία ή μπορούν να χρησιμοποιήσουν μέσα σε οποιοδήποτε υπάρχον σύστημα χρηματοοικονομικής αναφοράς για να δημιουργήσουν αναφορές με XBRL. Είναι ένα επεκτάσιμο, εύκολο στη χρήση και ανεξάρτητο API από οποιοδήποτε άλλο λογισμικό.</p>
+<p align="justify"> Το Aspose.Finance for .NET είναι μια ευέλικτη βιβλιοθήκη για επεξεργασία μορφών που σχετίζονται με τα οικονομικά. Ο χρήστης API μπορεί εύκολα να δημιουργήσει, να διαβάσει και να επικυρώσει μορφές εκτεταμένης γλώσσας αναφοράς επιχειρήσεων XBRL και iXBRL, καθώς και να δημιουργήσει αρχεία OFX αιτημάτων και απαντήσεων σε διαφορετικές μορφές. Οι προγραμματιστές μπορούν να αναπτύξουν εύκολα λογισμικό με δυνατότητα XBRL ή μπορούν να χρησιμοποιήσουν σε οποιοδήποτε υπάρχον σύστημα ψηφιακής χρηματοοικονομικής αναφοράς για να δημιουργήσουν αναφορές με το XBRL. Είναι ένα επεκτάσιμο, εύκολο στη χρήση και αυτόνομο API ανεξάρτητο από οποιοδήποτε άλλο λογισμικό.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -30,19 +30,19 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
    </header>
    <ul>
     <li>
-     Δημιουργία XBRL
+     Δημιουργία παρουσίας XBRL
     </li>
     <li>
-     Ανάγνωση μορφή XBRL
+     Μορφή ανάγνωσης XBRL
     </li>
     <li>
-     Ανάγνωση μορφή iXBRL
+     Μορφή ανάγνωσης iXBRL
     </li>
     <li>
-     Επικύρωση XBRL
+     XBRL επικύρωση
     </li>
     <li>
-     Επικύρωση iXBRL
+     iXBRL επικύρωση
     </li>
    </ul>
   </div>
@@ -67,7 +67,7 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
   <footer>
    <small>
     <em>
-     Για την
+     Για
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Aspose.Finance for .NET υποστηρίζει όλες τις μεγάλες πλατφόρμες συμπεριλαμβανομένων." >}}
+{{< blocks/products/pf/carousel-item h3="Πλατφόρμα Ανεξαρτησίας" description="Το Aspose.Finance for .NET υποστηρίζει όλες τις μεγάλες πλατφόρμες, συμπεριλαμβανομένων." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -97,13 +97,13 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
    </header>
    <ul>
     <li>
-     Εφαρμογή ASP.NET @ info: whatsthis
+     Εφαρμογή ASP.NET
     </li>
     <li>
-     Εφαρμογή WindowsComment
+     Εφαρμογή Windows
     </li>
     <li>
-     Υπηρεσίες ιστού
+     Διαδικτυακές υπηρεσίες
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
   <footer>
    <small>
     <em>
-     Για την
+     Για
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Aspose.Finance for .NET υποστηρίζει χρηματοοικονομικές μορφές." >}}
+{{< blocks/products/pf/carousel-item h3="Υποστηριζόμενες μορφές αρχείων" description="Το Aspose.Finance for .NET υποστηρίζει μορφές που σχετίζονται με τα οικονομικά." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Εισαγωγή/Εξέλιξης
+    Εισόδου-εξόδου
    </header>
    <ul>
     <li>
@@ -155,7 +155,7 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header><i class="fa  fa-mail-forward"> </i> Μόνο εξόδου</header>
+   <header><i class="fa  fa-mail-forward"> </i> Μόνο έξοδος</header>
 
 <ul>
 
@@ -174,7 +174,7 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
   <footer>
    <small>
     <em>
-     Για την
+     Για
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Προηγμένη .NET Finance Ανάλυση χαρακτηριστικών API
+    Προηγμένες λειτουργίες .NET Finance Ανάλυσης API
    </h2>
    <p>
    </p>
@@ -203,14 +203,14 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία XBRL από την αρχή
+     Δημιουργήστε παράδειγμα XBRL από την αρχή
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ανάγνωση XBRL και iXBRL μορφές
+     Διαβάστε τις μορφές XBRL και iXBRL
     </p>
    </div>
    <div class="col-lg-4">
@@ -238,14 +238,14 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία αρχείου OFX
+     Δημιουργία αρχείου αιτήματος OFX
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία αρχείου απόκρισης
+     Δημιουργία αρχείου απόκρισης OFX
     </p>
    </div>
 
@@ -253,14 +253,14 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Μετατροπή OFX Αίτηση αρχείου από 1.03 σε 2.2 μορφή
+     Μετατροπή αρχείου αιτήματος OFX από μορφή 1.03 σε 2.2
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Μετατροπή OFX αρχείο απάντησης από 1.03 σε 2.2 μορφή
+     Μετατροπή αρχείου απόκρισης OFX από μορφή 1.03 σε 2.2
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -300,28 +300,28 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Δημιουργία αρχείου XBRL
+     Δημιουργήστε XBRL Έγγραφα Παρουσίασης
     </h2>
     <p>
-     Το Aspose.Finance for .NET υποστηρίζει τη δημιουργία XBRL εγγράφων. Με τις ακόλουθες μόνο λίγες γραμμές κώδικα για τη δημιουργία ενός νέου εγγράφου XBRL
+     Το Aspose.Finance for .NET υποστηρίζει τη δημιουργία XBRL εγγράφων. Με τις ακόλουθες λίγες μόνο γραμμές κώδικα για τη δημιουργία ενός νέου εγγράφου παρουσίας XBRL
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Δημιουργία XBRL
+      Δημιουργία XBRL Instance - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Ανάγνωση iXBRL αρχείου
+     Διαβάστε το αρχείο iXBRL
     </h2>
     <p>
-     Ανάγνωση Inline eXtensible Business Reporting Language iXBRL έγγραφα αναφοράς υποστηρίζονται επίσης.
+     Υποστηρίζεται επίσης η ανάγνωση εγγράφων παρουσίασης της γλώσσας επεκτάσιμης επεκτάσιμης επιχειρηματικής αναφοράς iXBRL.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Ανάγνωση iXBRL εγγράφων - C#
+      Διαβάστε iXBRL έγγραφα παρουσίας - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -346,18 +346,18 @@ description: C# ASP.NET VB.NET βιβλιοθήκη για τη μετατροπ
 {{< blocks/products/pf/slr-element name="Τεκμηρίωση" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="Πηγαίος κώδικας" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API Αναφορές" href="https://apireference.aspose.com/finance/net" >}}
-{{< blocks/products/pf/slr-element name="Βίντεο διδασκαλίας" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Εκπαιδευτικά βίντεο" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προϊόντων" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ελεύθερη υποστήριξη" href="https://forum.aspose.com/c/finance" >}}
-{{< blocks/products/pf/slr-element name="Πληρωμένη υποστήριξη" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Υποστήριξη προιόντος" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Δωρεάν Υποστήριξη" href="https://forum.aspose.com/c/finance" >}}
+{{< blocks/products/pf/slr-element name="Υποστήριξη επί πληρωμή" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Ιστολόγιο" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Γιατί Aspose.Finance for .NET;" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Λίστα πελατών" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Ιστορίες Επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Λίστα Πελατών" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Ιστορίες επιτυχίας" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

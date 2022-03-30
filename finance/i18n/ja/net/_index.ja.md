@@ -1,25 +1,25 @@
 ﻿---
-title: C# .NET 金融デジタル報告システムのAPI- Aspose 
+title: C# .NET Financial DigitalReportingSystemsのAPI-Aspose 
 weight: 20
 url: /ja/net/ 
-description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Languageに変換するためのライブラリ XBRL および iXBRL XBRL 分類とレポートを生成するための分析用
+description: C# ASP .NET VB .NETライブラリを使用して、財務諸表をeXtensible Business Reporting Language XBRLおよびiXBRLに変換し、分析してXBRLの分類法とレポートを生成します。
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET 個のドキュメントを解析するライブラリ Finance 個" h2="ビジネスプロセス管理、財務分析、およびレポートソフトウェア内で XBRL および iXBRL Finance 関連フォーマットを作成、読み取り、検証します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET解析するライブラリFinanceドキュメント" h2="ビジネスプロセス管理、財務分析、およびレポート作成ソフトウェア内でXBRLおよびiXBRL Finance関連のフォーマットを作成、読み取り、検証します。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET は、金融関連のフォーマット処理のための柔軟なライブラリです。 API は、eXtensible Business Reporting Language XBRL および iXBRL 形式を簡単に作成、読み取り、検証したり、異なる形式の OFX リクエストおよびレスポンスファイルを作成したりできます。開発者は、 XBRL 対応ソフトウェアを簡単に開発できます。または、既存のデジタル財務報告システム内で XBRL のレポートを作成するために使用できます。これは、他のソフトウェアから独立した拡张可能で、使いやすく、スタンドアロン API です。</p>
+<p align="justify"> Aspose.Finance for .NETは、財務関連のフォーマット処理用の柔軟なライブラリです。 APIは、eXtensible Business Reporting Language XBRLおよびiXBRL形式を簡単に作成、読み取り、検証できるだけでなく、さまざまな形式のOFX要求および応答ファイルを作成できます。開発者は、XBRL対応のソフトウェアを簡単に開発したり、既存のデジタル財務報告システム内で使用してXBRLでレポートを作成したりできます。これは、他のソフトウェアから独立した、拡張可能で使いやすく、スタンドアロンのAPIです。</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="一目で" description="Aspose.Finance for .NET API の概要。" >}}
+{{< blocks/products/pf/carousel-item h3="一目で" description="Aspose.Financefor .NETAPIの概要。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -30,19 +30,19 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
    </header>
    <ul>
     <li>
-     XBRL 個のインスタンスを作成
+     XBRLインスタンスを作成します
     </li>
     <li>
-     XBRL 形式を読む
+     XBRL形式を読む
     </li>
     <li>
-     iXBRL 形式を読む
+     iXBRL形式を読む
     </li>
     <li>
-     XBRL 検証
+     XBRL検証
     </li>
     <li>
-     iXBRL 検証
+     iXBRL検証
     </li>
    </ul>
   </div>
@@ -67,7 +67,7 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
   <footer>
    <small>
     <em>
-     のための
+     ために
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Finance for .NET は、を含むすべての主要なプラットフォームをサポートします。" >}}
+{{< blocks/products/pf/carousel-item h3="プラットフォームの独立性" description="Aspose.Finance for .NETは、を含むすべての主要なプラットフォームをサポートします。" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -93,17 +93,17 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET フレームワーク
+    .NETフレームワーク
    </header>
    <ul>
     <li>
-     ASP.NET アプリケーション
+     ASP.NETアプリケーション
     </li>
     <li>
      Windowsアプリケーション
     </li>
     <li>
-     Webサービス
+     ウェブサービス
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
   <footer>
    <small>
     <em>
-     のための
+     ために
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="サポートされるファイル形式" description="Aspose.Finance for .NET は金融関連のフォーマットをサポートしています。" >}}
+{{< blocks/products/pf/carousel-item h3="サポートされているファイル形式" description="Aspose.Financefor .NETは財務関連の形式をサポートしています。" >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    入力/出力
+    入出力
    </header>
    <ul>
     <li>
@@ -149,7 +149,7 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
      OFX
     </li>
     <li>
-     OFX バージョン1
+     OFXバージョン1
     </li>
    </ul>
   </div>
@@ -174,7 +174,7 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
   <footer>
    <small>
     <em>
-     のための
+     ために
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    高度な .NET Finance 解析 API 機能
+    高度な.NETFinance解析API機能
    </h2>
    <p>
    </p>
@@ -203,49 +203,49 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL 個のインスタンスを最初から作成
+     XBRLインスタンスを最初から作成する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL および iXBRL フォーマットを読む
+     XBRLおよびiXBRLフォーマットを読む
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL と iXBRL の検証
+     XBRLとiXBRLを検証します
     </p>
    </div>
  <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL を iXBRL に変換
+     XBRLをiXBRLに変換
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL をXLSXに変換
+     XBRLをXLSXに変換する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX リクエストファイルを作成
+     OFXリクエストファイルを作成
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX 件の応答ファイルを作成
+     OFX応答ファイルを作成する
     </p>
    </div>
 
@@ -253,14 +253,14 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX リクエストファイルを1.03形式から2.2形式に変換
+     OFXリクエストファイルを1.03から2.2形式に変換します
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX 応答ファイルを1.03から2.2形式に変換する
+     OFX応答ファイルを1.03から2.2形式に変換します
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -300,28 +300,28 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     XBRL インスタンスドキュメントの作成
+     XBRLインスタンスドキュメントを作成する
     </h2>
     <p>
-     Aspose.Finance for .NET は XBRL ドキュメントの生成をサポートしています。次の数行のコードを使用して、新しい XBRL インスタンスドキュメントを作成します。
+     Aspose.Financefor .NETはXBRLドキュメントの生成をサポートしています。次の数行のコードで、新しいXBRLインスタンスドキュメントを作成します
     </p>
     <div class="codeblock" id="code">
      <h3>
-      XBRL インスタンスの作成- C#
+      XBRLインスタンスを作成-C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     iXBRL ファイルを読む
+     iXBRLファイルを読む
     </h2>
     <p>
-     Inline eXtensible Business Reporting Language iXBRL インスタンスドキュメントの読み取りもサポートされています。
+     Inline eXtensible Business ReportingLanguageiXBRLインスタンスドキュメントの読み取りもサポートされています。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      iXBRL 件のインスタンスドキュメントを読む- C#
+      iXBRLインスタンスドキュメントを読み取る-C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -343,20 +343,20 @@ description: C# ASP.NET VB.NET 財務諸表をeXtensible Business Reporting Lang
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="ドキュメント" href="https://docs.aspose.com/finance/net/" >}}
+{{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 件の参照" href="https://apireference.aspose.com/finance/net" >}}
+{{< blocks/products/pf/slr-element name="API参照" href="https://apireference.aspose.com/finance/net" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="制品サポート" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="无料サポート" href="https://forum.aspose.com/c/finance" >}}
+{{< blocks/products/pf/slr-tab tabTitle="製品サポート" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="無料サポート" href="https://forum.aspose.com/c/finance" >}}
 {{< blocks/products/pf/slr-element name="有料サポート" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ブログ" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="なぜ Aspose.Finance for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="お客様リスト" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-tab tabTitle="なぜAspose.Financefor .NET？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="顧客リスト" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="サクセスストーリー" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

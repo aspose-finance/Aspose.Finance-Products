@@ -1,25 +1,25 @@
 ﻿---
-title: C# .NET Finansal Dijital Raporlama Sistemleri için API'ler- Aspose 
+title: C# .NET Finansal Dijital Raporlama Sistemleri için API'ler - Aspose 
 weight: 20
 url: /tr/net/ 
-description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Language XBRL ve XBRL taksonomileri ve raporları oluşturmak için analiz için C#
+description: Mali tabloların eXtensible Business Reporting Language XBRL'e dönüştürülmesi için C# ASP.NET VB.NET kitaplığı ve XBRL sınıflandırma ve rapor oluşturmak için analiz için iXBRL
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Kütüphane Finance Belgeleri Ayrıştırmak için" h2="Herhangi bir İş Süreçleri Yönetimi, Finansal Analiz ve Raporlama Yazılımı içinde XBRL ve iXBRL Finance-İlgili Biçimler Oluşturun, Okuyun ve Doğrulayın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Finance Belgeleri Ayrıştırmak için .NET Kitaplık" h2="Herhangi bir İş Süreçleri Yönetimi, Mali Analiz ve Raporlama Yazılımında XBRL ve iXBRL Finance-İlgili Formatları Oluşturun, Okuyun ve Doğrulayın." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET, finans ile ilgili formatların işlenmesi için esnek bir kitaplıktır. API, eXtensible Business Reporting Language XBRL ve iXBRL formatlarını kolayca oluşturabilir, okuyabilir ve doğrulayabilir ve farklı formatlarda OFX İstek ve Yanıt dosyaları oluşturabilir. Geliştiriciler, XBRL özellikli yazılımı kolaylıkla geliştirebilir veya XBRL ile raporlar oluşturmak için mevcut herhangi bir dijital finansal raporlama sistemini kullanabilir. Bu, diğer yazılımlardan bağımsız olarak genişletilebilir, kullanımı kolay ve bağımsız bir API.</p>
+<p align="justify"> Aspose.Finance for .NET, finansla ilgili biçimlerin işlenmesi için esnek bir kitaplıktır. API, eXtensible Business Reporting Language XBRL ve iXBRL biçimlerini kolayca oluşturabilir, okuyabilir ve doğrulayabilir ve ayrıca farklı biçimlerde OFX İstek ve Yanıt dosyaları oluşturabilir. Geliştiriciler, XBRL özellikli yazılımı kolaylıkla geliştirebilir veya XBRL ile raporlar oluşturmak için mevcut herhangi bir dijital finansal raporlama sisteminde kullanabilir. Diğer yazılımlardan bağımsız, genişletilebilir, kullanımı kolay ve bağımsız bir API'dir.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Finance for .NET API \'e genel bakış." >}}
+{{< blocks/products/pf/carousel-item h3="Bir Bakışta" description="Aspose.Finance for .NET API\'ye genel bakış." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -30,13 +30,13 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
    </header>
    <ul>
     <li>
-     XBRL örneğini oluşturun
+     XBRL örneği oluştur
     </li>
     <li>
-     XBRL formatını okuyun
+     XBRL biçimini oku
     </li>
     <li>
-     iXBRL formatını okuyun
+     iXBRL biçimini oku
     </li>
     <li>
      XBRL doğrulama
@@ -67,7 +67,7 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlık" description="Aspose.Finance for .NET dahil olmak üzere tüm büyük platformları destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Bağımsızlığı" description="Aspose.Finance for .NET, dahil olmak üzere tüm büyük platformları destekler." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -103,7 +103,7 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
      Windows Uygulaması
     </li>
     <li>
-     Web Hizmetleri
+     Ağ hizmetleri
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Biçimleri" description="Aspose.Finance for .NET finans ile ilgili formatları destekler." >}}
+{{< blocks/products/pf/carousel-item h3="Desteklenen Dosya Formatları" description="Aspose.Finance for .NET, finansla ilgili biçimleri destekler." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Giriş/Çıkış
+    Giriş çıkış
    </header>
    <ul>
     <li>
@@ -155,7 +155,7 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header><i class="fa  fa-mail-forward"> </i> Sadece Çıktı</header>
+   <header><i class="fa  fa-mail-forward"> </i> Yalnızca Çıkış</header>
 
 <ul>
 
@@ -174,7 +174,7 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
   <footer>
    <small>
     <em>
-     Için
+     için
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Gelişmiş .NET Finance Ayrıştırma API Özellikler
+    Gelişmiş .NET Finance Ayrıştırma API Özellikleri
    </h2>
    <p>
    </p>
@@ -203,42 +203,42 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Sıfırdan XBRL örnek oluşturun
+     Sıfırdan XBRL örneği oluşturun
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL ve iXBRL Biçimlerini okuyun
+     XBRL ve iXBRL Biçimlerini Okuyun
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL ve iXBRL doğrulayın
+     XBRL ve iXBRL'yi doğrulayın
     </p>
    </div>
  <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL 'i iXBRL 'ye dönüştürün
+     XBRL'i iXBRL'ye dönüştür
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL 'den XLSX'e dönüştürün
+     XBRL'i XLSX'e dönüştür
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX Talep Dosyası Oluştur
+     OFX İstek Dosyası Oluştur
     </p>
    </div>
    <div class="col-lg-4">
@@ -253,14 +253,14 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX Talep Dosyasını 1. 03'ten 2.2 formatına dönüştürün
+     OFX İstek Dosyasını 1.03'ten 2.2 biçimine dönüştürün
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX Yanıt Dosyasını 1. 03'ten 2.2 formatına dönüştürün
+     OFX Yanıt Dosyasını 1.03'ten 2.2 biçimine dönüştürün
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -300,28 +300,28 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     XBRL Örnek Belgeler Oluştur
+     XBRL Örnek Belgeleri Oluşturun
     </h2>
     <p>
-     Aspose.Finance for .NET, XBRL belge oluşturmayı destekler. Aşağıdaki sadece birkaç satır kod ile yeni bir XBRL örnek belge oluşturmak için
+     Aspose.Finance for .NET, XBRL belgesinin oluşturulmasını destekler. Yeni bir XBRL örnek belgesi oluşturmak için aşağıdaki yalnızca birkaç satır kodla
     </p>
     <div class="codeblock" id="code">
      <h3>
-      XBRL Örnek Oluştur- C#
+      XBRL Örnek Oluştur - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     iXBRL Dosyasını Okuyun
+     iXBRL Dosyayı Oku
     </h2>
     <p>
-     Satır içi eXtensible Business Reporting Language iXBRL örnek belgeleri de desteklenir.
+     Inline eXtensible Business Reporting Language iXBRL örnek belgelerinin okunması da desteklenir.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      iXBRL örnek belgeleri okuyun- C#
+      iXBRL örnek belgelerini okuyun - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -343,21 +343,21 @@ description: C# ASP.NET Finansal tabloların eXtensible Business Reporting Langu
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Belgeler" href="https://docs.aspose.com/finance/net/" >}}
-{{< blocks/products/pf/slr-element name="Kaynak Kodu" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API Referanslar" href="https://apireference.aspose.com/finance/net" >}}
+{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/finance/net/" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="API Referans" href="https://apireference.aspose.com/finance/net" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Ürün Desteği" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/finance" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Finance for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteriler Listesi" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Başarı Hikayeleri" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

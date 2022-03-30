@@ -1,6 +1,6 @@
 ﻿---
-title: Convalidare XBRL file tramite C#
-description: Codice di esempio per la convalida del file XBRL. Utilizza API codice di esempio per convalidare XBRL file batch all'interno di .NET applicazioni basate su. 
+title: Convalida file XBRL tramite C#
+description: Codice di esempio per la convalida del file XBRL. Usa API codice di esempio per convalidare i file batch XBRL all'interno di applicazioni basate su .NET. 
 url: /it/net/validate/xbrl/
 family: finance
 platformtag: net
@@ -10,21 +10,21 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Convalidare XBRL file tramite C#" h2="Convalida dei rapporti finanziari in formato XBRL senza bisogno di Microsoft Office installato o di qualsiasi altro software." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Convalida XBRL file tramite C#" h2="Convalida dei rapporti finanziari in formato XBRL senza la necessità di installare Microsoft Office o qualsiasi altro software." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Come convalidare XBRL file" %}}
 
-Segui i passaggi nello snippet di codice o miglioralo in base alle esigenze della tua applicazione per convalidare i documenti XBRL del linguaggio di reporting aziendale estensibile. Assicurati di avere requisiti di convalida all'interno della tua applicazione.
+Segui i passaggi nello snippet di codice o miglioralo in base alle esigenze della tua applicazione per la convalida di documenti del linguaggio di reporting aziendale estensibile XBRL. Assicurati di avere requisiti di convalida all'interno della tua applicazione.
 
-1. Carica XBRL file usando [Classe XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Istanza.1. Per verificare la validità del file caricato, in modo che corrisponda a [Specificazione XBRL](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Per controllare la validità, usa [Convalidare ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Metodo di [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Classe.
+1. Carica XBRL file utilizzando [Classe XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Esempio.1. Per verificare la validità del file caricato, in modo che debba corrispondere a [XBRL specifica](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Per verificare la validità, utilizzare [Convalidare()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) metodo di [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) classe.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito di convalida" %}}
-Per procedere alla convalida di XBRL documenti, .NET Finance API è il requisito principale da includere nell'applicazione. 
-- Installalo tramite riga di comando come '''nugget install Aspose.Finance''' o tramite Package Manager Console di Visual Studio con ''Installa-Package Aspose.Finance'''.
-- In alternativa, ottenere il programma di installazione MSI offline o le DLL in un file ZIP da [Download](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+Per procedere alla convalida di XBRL documenti, .NET Finance API è il requisito principale da includere nella domanda. 
+- Installalo tramite riga di comando come ```nuget install Aspose.Finance``` o tramite Package Manager Console di Visual Studio con ```Install-Package Aspose.Finance```.
+- In alternativa, ottenere il programma di installazione MSI offline o le DLL in un file ZIP da [download](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# codice per convalidare XBRL file" offSpacer="" %}}
 

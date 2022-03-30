@@ -1,21 +1,21 @@
 ﻿---
-title: Xác nhận Tài Chính Báo Cáo thông qua .NET
+title: Xác thực Báo cáo Tài chính qua .NET
 url: /vi/net/validate/
-description:  C# mã để xác nhận Tài Chính báo cáo trong XBRL và iXBRL các tập tin thông qua .NET thư viện.
+description:  C# mã để xác thực các báo cáo tài chính trong tệp XBRL và iXBRL qua thư viện .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Xác nhận Báo Cáo Tài Chính Tập Tin thông qua C#" h2="Validating Tài Chính báo cáo các định dạng bao gồm XBRL và iXBRL trong vòng .NET các ứng dụng dựa trên." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Xác thực các Tệp Báo cáo Tài chính qua C#" h2="Xác thực các định dạng báo cáo tài chính bao gồm XBRL và iXBRL trong các ứng dụng dựa trên .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Là một tính năng phong phú, mở rộng và dễ dàng để sử dụng tài chính báo cáo chế biến API. Các nhà phát triển có thể dễ dàng tải, xác nhận, xem hoặc tạo ra XBRL và iXBRL các định dạng cho tài chính và kinh doanh các giải pháp. API cung cấp [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Lớp và  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Lớp cho tải XBRL và iXBRL các tập tin.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) là một tính năng phong phú, có thể mở rộng và dễ sử dụng để xử lý báo cáo tài chính API. Các nhà phát triển có thể dễ dàng tải, xác thực, xem hoặc tạo các định dạng XBRL và iXBRL cho các giải pháp tài chính và kinh doanh. API cung cấp [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) lớp học và  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) lớp để tải tệp XBRL và iXBRL.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Xác nhận XBRL Tài Liệu" %}}
+{{% blocks/products/pf/feature-page-section h2="Xác thực XBRL tài liệu" %}}
 
-Xác nhận của XBRL tập tin là cần thiết cho một số trường hợp chẳng hạn như để kiểm tra dữ liệu là trong phải cấu trúc và định dạng. Để xác nhận XBLR tài liệu, Trước Hết Là sử dụng XbrlDocument lớp học để tải các XBRL tập tin. Để sử dụng các [XÁC NHẬN ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Phương pháp của [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Lớp, trước hết là intialize các [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) Với XbrlDocument đối tượng XbrlInstances. Iterate thông qua mỗi [XbrlInstance.ValidationErrors](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) Để có được đúng mã lỗi và hành động cho phù hợp bằng in ấn các tùy chỉnh thông báo lỗi trên giao diện điều khiển hoặc bằng văn bản trong vòng một tập tin.
+Xác thực tệp XBRL là cần thiết cho một số trường hợp chẳng hạn như để kiểm tra dữ liệu có đúng cấu trúc và định dạng hay không. Để xác thực tài liệu XBLR, trước tiên hãy sử dụng lớp XbrlDocument để tải tệp XBRL. Để sử dụng [xác thực ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) phương pháp của [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) lớp học, trước hết hãy phức tạp hóa [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) với đối tượng XbrlDocument XbrlInstances. Lặp lại từng [XbrlInstance.ValidationErrors](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) để nhận mã lỗi phù hợp và hành động tương ứng bằng cách in thông báo lỗi tùy chỉnh trên bảng điều khiển hoặc viết trong tệp.
 
-{{% blocks/products/pf/feature-page-code h3="C# mã để Xác Nhận XBRL Tập Tin" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Mã để Xác thực XBRL Tệp" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-xbrl-file.cs" >}} 
 
@@ -23,11 +23,11 @@ Xác nhận của XBRL tập tin là cần thiết cho một số trường hợ
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="Xác nhận iXBRL Tài Liệu" %}}
+{{% blocks/products/pf/feature-page-section h2="Xác thực iXBRL tài liệu" %}}
 
-Cho iXLRB xác nhận, tải nó thông qua [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Lớp và sử dụng của nó Xác Nhận () phương pháp. Trong [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) Enumeration, xác nhận mã lỗi được xác định cho mỗi xác nhận quy tắc. Vài trong số mã số là ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup vv. Các nhà phát triển có thể gỡ lỗi và hiển thị mã như của người dùng cuối hoặc có thể hiển thị các hướng cho việc giải quyết các vấn đề.
+Để xác thực iXLRB, hãy tải nó qua [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) và sử dụng phương thức Validate () của nó. Ở trong [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) liệt kê, mã lỗi xác thực được xác định cho mỗi quy tắc xác thực. Một số mã là ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup, v.v. Nhà phát triển có thể gỡ lỗi và hiển thị mã khi người dùng cuối hoặc có thể hiển thị hướng giải quyết vấn đề.
 
-{{% blocks/products/pf/feature-page-code h3="C# mã để Xác Nhận iXBRL Tài Liệu" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Mã để Xác thực iXBRL Tài liệu" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-ixbrl-file.cs" >}}
 

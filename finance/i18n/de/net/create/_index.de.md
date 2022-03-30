@@ -1,24 +1,24 @@
 ﻿---
-title: Erstellen von Finanz berichten über .NET
+title: Erstellen Sie Finanzberichte über .NET
 url: /de/net/create/
-description:  C#-Code zum Erstellen von Finanz berichten in XBRL und OFX Anforderung-oder Antwort dateien über .NET Bibliothek.
+description:  C#-Code zum Erstellen von Finanzberichten in XBRL und OFX Anforderungs- oder Antwortdateien über die .NET-Bibliothek.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Erstellen von Financial Reporting-Dateien über C#" h2="Erstellung von Finanz berichts formaten einschl ießlich XBRL-und OFX-Anforderung-oder Antwort datei im Format 1.03 oder 2.2 innerhalb von .NET-basierten Anwendungen." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Erstellen Sie Finanzberichtsdateien über C#" h2="Erstellung von Finanzberichtsformaten, einschließlich XBRL- und OFX-Anforderungs- oder Antwortdatei im 1.03- oder 2.2-Format in .NET-basierten Anwendungen." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Ist eine funktions reiche, erweiterbare und einfach zu verwendende Erstellung und Verarbeitung von Finanz berichten API. Entwickler können auf einfache Weise eine XBRL-Instanz von Grund auf neu erstellen und Schema referenz, Kontext, Einheit, Element, Fußnoten link, Rollen referenz und 
-Bogen rollen referenz. API bietet relevante Klasse für jedes Feature, wie z. B. für den Kontext, können Entwickler verwenden [Kontext period](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod), [Kontext heit](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) Und [Kontext](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
-Darüber hinaus unterstützt API auch die Erstellung von Anfragen/Antworten im Open Financial Exchange-Format (OFX) im Format 1.03 oder 2.2.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) ist eine funktionsreiche, erweiterbare und benutzerfreundliche Erstellung und Verarbeitung von Finanzberichten API. Entwickler können ganz einfach eine XBRL-Instanz von Grund auf neu erstellen sowie Schemareferenzen, Kontexte, Einheiten, Elemente, Fußnoten-Links, Rollenreferenzen und hinzufügen 
+Arc-Rollenreferenz. API bietet relevante Klasse für jede Funktion, z. B. für Kontext, die Entwickler verwenden können [ContextPeriode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod), [ContextEntity](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) und [Kontext](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
+Darüber hinaus unterstützt API auch die Anforderungs-/Antworterstellung im offenen Finanzaustauschformat (OFX) im 1.03- oder 2.2-Format.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Erstellen Sie XBRL Datei, indem Sie das Element hinzufügen" %}}
+{{% blocks/products/pf/feature-page-section h2="Datei XBRL durch Hinzufügen von Element erstellen" %}}
 
-Um XBRL-Datei zu erstellen und Element in das Dokument hinzuzufügen, ist der Prozess, erstellen [Xbrl Document Klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Instanz. Bereiten Sie relevante Einstellungen für Artikel vor, indem Sie geeignete API-Klassen wie z. [SchemaRef-Klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref), Relevante Kontext klassen wie oben erwähnt und [Konzept klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). Schließlich definieren und intialisieren [Artikel klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) Eigenschaften sowie rufen Sie die [Methode speichern](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) Zu [XBRL erstellen](https://products.aspose.com/finance/net/create/xbrl/) Datei in die Diskette.
+Um die XBRL-Datei zu erstellen und dem Dokument ein Element hinzuzufügen, ist der Prozess „Erstellen“. [XbrlDocument-Klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Beispiel. Bereiten Sie relevante Einstellungen für das Element vor, indem Sie geeignete API-Klassen verwenden, z [SchemaRef-Klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref)relevante Kontextklassen wie oben erwähnt und [Konzeptklasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). Endlich definieren und initialisieren [Artikelklasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) Eigenschaften sowie Aufruf der [Methode speichern](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) zu [erstelle XBRL](https://products.aspose.com/finance/net/create/xbrl/) Datei auf die Festplatte.
 
-{{% blocks/products/pf/feature-page-code h3="C# Code zum Erstellen einer XBRL-Datei durch Hinzufügen von Artikeln" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code zum Erstellen der Datei XBRL durch Hinzufügen eines Elements" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-xbrl-file-and-add-item.cs" >}} 
 
@@ -26,18 +26,18 @@ Um XBRL-Datei zu erstellen und Element in das Dokument hinzuzufügen, ist der Pr
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="OFX Anforderung-und Antwort dateien erstellen" %}}
+{{% blocks/products/pf/feature-page-section h2="Erstellen Sie OFX Anforderungs- und Antwortdateien" %}}
 
 
-Zum Generieren von OFX-Dateien bietet die API [OfxRequest Document](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) Und [OfxResponse Document](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Klassen und Entwickler können leicht [OFX Anfrage erstellen](https://products.aspose.com/finance/net/create/ofx-request/) Und Antwort dateien in den Formaten 1.03 und 2.2. Zum Initial isieren von OfxRequestDocument-Eigenschaften stellt API auch andere Klassen wie z. [Signon Request](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [Finanz institution](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution) Und [Erklärung Transaktion antrag](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest) Klassen. In ähnlicher Weise bietet API für die Intialisierung von OfxResponseDocument-Eigenschaften unterstützende Klassen wie [Signon Response](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [Erklärung Transaction Response](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse) Und [Erklärung transaktion](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction). Nachfolgend finden Sie die Code-Snippets für beide Fälle unter Verwendung einschlägiger geeigneter Klassen.
+Zum Generieren von OFX-Dateien stellt API bereit [OfxRequestDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) und [OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Klassen und Entwickler können leicht [OFX Anfrage erstellen](https://products.aspose.com/finance/net/create/ofx-request/) und Antwortdateien in den Formaten 1.03 und 2.2. Zum Initialisieren von OfxRequestDocument-Eigenschaften stellt API auch andere Klassen wie z [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [Finanzinstitution](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution) und [StatementTransactionRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest) Klassen. In ähnlicher Weise stellt API zum Initialisieren von OfxResponseDocument-Eigenschaften unterstützende Klassen wie z [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [StatementTransactionResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse) und [AnweisungTransaktion](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction). Unten sind die Codeausschnitte für beide Fälle mit der Verwendung relevanter geeigneter Klassen.
 
-{{% blocks/products/pf/feature-page-code h3="C# Code zum Generieren von OFX Anfordern von Dokumenten" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code zum Generieren von OFX Anforderungsdokumenten" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}} 
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# Code zur Generierung von OFX Antwort dokumenten" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code zum Generieren von OFX Antwortdokumenten" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}} 
 

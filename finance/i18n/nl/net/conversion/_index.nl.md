@@ -1,29 +1,29 @@
 ﻿---
 title: Financiële rapporten converteren via .NET
 url: /nl/net/conversion/
-description:  C# code om financiële rapporten te converteren in XBRL, iXBRL en OFX file-fomats via .NET bibliotheek.
+description:  C# code om financiële rapporten te converteren in XBRL, iXBRL en OFX bestandsformaten via .NET bibliotheek.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Financiële rapportbestanden converteren via C#" h2="Conversie van financiële rapportindelingen, waaronder XBRL, iXBRL en OFX bestanden van 1.03 naar 2.2 binnen .NET toepassingen." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converteer financiële rapportbestanden via C#" h2="Conversie van financiële rapportformaten inclusief XBRL, iXBRL en OFX bestanden van 1.03 naar 2.2 formaat binnen .NET gebaseerde applicaties." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Is een functie rijk, uitbreidbaar en gemakkelijk te gebruiken API. Ontwikkelaars kunnen gemakkelijk XBRL instanties, linkbases en taxonomieschema's valideren met behulp van [Valideren () methode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Die moeten voldoen aan de syntaxisvereisten die in de specificatie worden opgelegd. Bovendien kunnen ze XBRL, iXBRL formaten lezen en XBRL exemplaar vanaf het begin maken. Bovendien kunnen ze ** XBRL formaat ** converteren naar iXBRL en Microsoft Excel XLSX-bestanden. API ondersteunt ook het maken van aanvragen/reacties in open financiële uitwisseling (OFX) en converteert OFX bestandsaanvraag/-respons van 1.03 naar 2.2-indeling.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) is rijk aan functies, uitbreidbaar en gebruiksvriendelijk API. Ontwikkelaars kunnen eenvoudig XBRL instanties, linkbases en taxonomieschema's valideren met [valideer() methode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) die moeten voldoen aan de in de specificatie gestelde syntaxisvereisten. Bovendien kunnen ze XBRL, iXBRL-indelingen lezen en XBRL-instantie helemaal opnieuw maken. Bovendien kunnen ze **XBRL-indeling** converteren naar iXBRL en Microsoft Excel XLSX-bestanden. API ondersteunt ook open financiële uitwisseling (OFX) formaat verzoek / reactie creatie en converteert OFX bestandsverzoek / antwoord van 1.03 naar 2.2 formaat.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="OFX respons converteren en bestanden aanvragen" %}}
+{{% blocks/products/pf/feature-page-section h2="Converteer OFX antwoord- en verzoekbestanden" %}}
 
-API ondersteunt het maken van OFX aanvraag-en antwoordbestanden door twee klassen aan te bieden. [OfxRequestDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) Voor het maken en laden van OFX verzoekbestanden in 1.03 en 2.2 formaat en [OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Voor OFX responsbestanden in 1.03-en 2.2-indeling. Voorts, [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Opsomming met leden V1x dat is 1.x versie, sgml bestandsformaat en V2x 2.x versie, xml bestandsformaat. Na het aanroepen van de Save-methode van OfxRequestDocument-klasse of OfxResponseDocument-klasse, kunnen ontwikkelaars eenvoudig converteren van 1.03 sgml-bestand naar 2.2 xml-indeling.
+API ondersteunt het maken van OFX verzoek- en antwoordbestanden door twee klassen aan te bieden. [OfxVerzoekDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) voor het maken en laden van OFX aanvraagbestanden in 1.03 en 2.2 formaat en [OfxReactieDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) voor OFX antwoordbestanden in de indeling 1.03 en 2.2. Bovendien, [OfxVersieEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Opsomming met leden V1x dat is 1.x-versie, sgml-bestandsformaat en V2x 2.x-versie, xml-bestandsformaat. Na het aanroepen van de Save-methode van de OfxRequestDocument-klasse of OfxResponseDocument-klasse, kunnen ontwikkelaars eenvoudig het 1.03 sgml-bestand converteren naar het 2.2 xml-formaat.
 
 
-{{% blocks/products/pf/feature-page-code h3="C# code om OFX reactiebestanden te converteren" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code om OFX antwoordbestanden te converteren" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-ofx-response-from-1.03-to-2.2.cs" >}} 
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# code om OFX aanvraagbestanden te converteren" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code om OFX aanvraagbestanden te converteren" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-ofx-request-from-1.03-to-2.2.cs" >}} 
 
@@ -31,17 +31,17 @@ API ondersteunt het maken van OFX aanvraag-en antwoordbestanden door twee klasse
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="Omzetting van XBRL financiële rapporten" %}}
+{{% blocks/products/pf/feature-page-section h2="XBRL Conversie van financiële rapporten" %}}
 
-API ondersteunt het converteren van XBRL bestanden naar iXBRL en Microsoft®Excel XLSX-formaat. Conversieproces is eenvoudig, ten eerste laad het bestand via [XbrlDocument Klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument). Gebruik de [Klasse Opties Opties](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) Voor [SaveFormat](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions/properties/saveformat), Te gebruiken als parameter in de Save-methode van XbrlDocument Class. Voor het opslaan in het iXBLR-bestand, [SaveFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat) Zal worden gebruikt en voor het exporteren naar XLSX-formaat zal SaveFormat.XLSX worden gebruikt.
+API ondersteunt het converteren van XBRL bestanden naar iXBRL en Microsoft® Excel XLSX-indeling. Het conversieproces is eenvoudig, laad eerst het bestand via [XbrlDocument-klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument). Gebruik de [klasse SaveOptions](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) voor [OpslaanFormaat](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions/properties/saveformat), te gebruiken als parameter in de Save-methode van XbrlDocument Class. Voor opslaan in iXBLR-bestand, [SaveFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat) wordt gebruikt en voor het exporteren naar XLSX-indeling wordt SaveFormat.XLSX gebruikt.
 
-{{% blocks/products/pf/feature-page-code h3="C# code om XBRL naar iXBRL te exporteren" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code om te exporteren XBRL naar iXBRL" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-ixbrl.cs" >}} 
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# code voor XBRL naar XLSX-conversie" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code voor XBRL naar XLSX-conversie" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-xlsx.cs" >}} 
 

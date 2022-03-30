@@ -1,21 +1,21 @@
 ﻿---
-title: Olvassa el a pénzügyi jelentéseket .NET segítségével
+title: "Pénzügyi jelentések olvasása a következőn keresztül: .NET"
 url: /hu/net/read/
-description:  C# kód a XBRL és iXBRL fájlok pénzügyi beszámolóinak olvasására a .NET könyvtárban.
+description:  C# kód a pénzügyi jelentések olvasásához XBRL és iXBRL fájlokban a .NET könyvtáron keresztül.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Olvassa el a pénzügyi jelentési fájlokat C#-on keresztül" h2="Olvasás pénzügyi jelentés formátumok, beleértve XBRL és iXBRL .NET alapú alkalmazások." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Pénzügyi jelentési fájlok olvasása a következőn keresztül: C#" h2="Pénzügyi jelentésformátumok olvasása, beleértve a XBRL és a iXBRL formátumot a .NET alapú alkalmazásokban." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Egy funkció gazdag, bővíthető és könnyen használható pénzügyi jelentés feldolgozása API. A fejlesztők könnyen betölthetik, megtekinthetik vagy létrehozhatják a XBRL és iXBRL formátumokat az üzleti és pénzügyi megoldásokhoz. API biztosítja [Xbrldocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Osztály és  [Inlinexbrldokumentum](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Osztálya érvényes XBRL és iXBRL fájlok betöltéséhez.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) egy funkciókban gazdag, bővíthető és könnyen használható pénzügyi jelentések feldolgozása API. A fejlesztők egyszerűen betölthetik, megtekinthetik vagy létrehozhatják az üzleti és pénzügyi megoldások XBRL és iXBRL formátumait. API biztosítja [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) osztály és  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) osztály érvényes XBRL és iXBRL fájlok betöltéséhez.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="XBRL dokumentum olvasása" %}}
+{{% blocks/products/pf/feature-page-section h2="Olvassa el a XBRL dokumentumot" %}}
 
-A XBRL fájl olvasása szükséges a meglévő fájl megtekintéséhez és elemzéshez való betöltéséhez. Az xblr dokumentumok olvasásához a API az xbrldocument osztályt a fenti bekezdésben említettük adja meg, hogy bemeneti paraméterként érvényes XBRL fájl legyen. Használja más API osztályokat, a fejlesztők könnyen elemezhetik a struktúrát és az adatokat. Az osztályok közül kevés [Schemarefcollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Kontextus](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Egység](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit)A "", a "" ", a" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "".
+A(z) XBRL fájl beolvasása szükséges a meglévő fájl betöltéséhez megtekintés és elemzés céljából. Az XBLR-dokumentumok olvasásához az API XbrlDocument osztályt biztosít, amint azt a fenti bekezdésben említettük, és bemeneti paraméterként érvényes XBRL fájlt. Más API osztályok használatával a fejlesztők könnyen elemezhetik annak szerkezetét és adatait. Kevés az osztály [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Kontextus](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Mértékegység](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
-{{% blocks/products/pf/feature-page-code h3="C# kód a XBRL fájl olvasásához" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kód a XBRL fájl olvasásához" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-xbrl-file.cs" >}} 
 
@@ -23,11 +23,11 @@ A XBRL fájl olvasása szükséges a meglévő fájl megtekintéséhez és elemz
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="iXBRL dokumentum olvasása" %}}
+{{% blocks/products/pf/feature-page-section h2="Olvassa el a iXBRL dokumentumot" %}}
 
-Mint már említettük, ha szükség van a meglévő adatok megtekintésére, elemzésére vagy szerkesztésére, akkor szükség van a iXBRL fájl olvasására. Az olvasáshoz a API megadja az inlinexbrldocument osztályt, amelynek paramétere egy érvényes iXBRL fájl. A programozók olyan osztályokat használhatnak, mint [Inlinefact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Kontextus](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Egység](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) Adatainak és szerkezetének megtekintése. 
+Ahogy fentebb említettük, amikor meg kell tekinteni, elemezni vagy szerkeszteni kell a meglévő adatokat, akkor el kell olvasni a iXBRL fájlt. Az olvasáshoz a(z) API megadja az InlineXbrlDocument osztályt, amelynek paramétere egy érvényes iXBRL fájl. A programozók olyan osztályokat használhatnak, mint pl [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Kontextus](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Mértékegység](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) adatainak és szerkezetének megtekintése. 
 
-{{% blocks/products/pf/feature-page-code h3="C# kód a iXBRL dokumentum olvasásához" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kód a iXBRL dokumentum olvasásához" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-ixbrl-file.cs" >}}
 

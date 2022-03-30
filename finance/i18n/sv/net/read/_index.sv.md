@@ -1,21 +1,21 @@
 ﻿---
 title: Läs finansiella rapporter via .NET
 url: /sv/net/read/
-description:  C# kod för att läsa finansiella rapporter i XBRL och iXBRL filer via .NET biblioteket.
+description:  C#-kod för att läsa finansiella rapporter i XBRL- och iXBRL-filer via .NET-biblioteket.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Läs finansiella rapporteringsfiler via C#" h2="Läser finansiella rapportformat inklusive XBRL och iXBRL inom .NET baserade program." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Läs finansiella rapporteringsfiler via C#" h2="Läser finansiella rapportformat inklusive XBRL och iXBRL i .NET-baserade applikationer." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Är en funktion rik, omfattande och lättanvänd finansiell rapport behandling API. Utvecklare kan enkelt ladda, visa eller skapa XBRL och iXBRL format för affärs- och finansiella lösningar. API tillhandahåller [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Klass och klass  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Klass för att ladda giltiga XBRL och iXBRL filer.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) är en funktionsrik, utbyggbar och lättanvänd finansiell rapportbehandling API. Utvecklare kan enkelt ladda, visa eller skapa XBRL- och iXBRL-format för affärs- och finansiella lösningar. API tillhandahåller [XbrlDokument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) klass och  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) klass för att ladda giltiga XBRL- och iXBRL-filer.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Läs XBRL dokument" %}}
 
-Läsa XBRL-filen krävs för att ladda den befintliga filen för visning och analys. För att läsa XBLR-dokument, API tillhandahåller XbrlDocument klass som nämns ovan med giltig XBRL fil som ingångsparametrar. Använd andra API klasser, utvecklare kan enkelt analysera dess struktur och data. Få av klasserna är det. [SchemaRef-samlingComment](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Sammanhanget](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enheter](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
+Läsning av filen XBRL krävs för att ladda den befintliga filen för visning och analys. För att läsa XBLR-dokument tillhandahåller API XbrlDocument-klassen som nämnts i stycket ovan med giltig XBRL-fil som indataparametrar. Använd andra API-klasser, utvecklare kan enkelt analysera dess struktur och data. Få av klasserna är det [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Sammanhang](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enhet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
-{{% blocks/products/pf/feature-page-code h3="C# Kod att läsa XBRL fil" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kod för att läsa XBRL fil" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-xbrl-file.cs" >}} 
 
@@ -25,9 +25,9 @@ Läsa XBRL-filen krävs för att ladda den befintliga filen för visning och ana
 
 {{% blocks/products/pf/feature-page-section h2="Läs iXBRL dokument" %}}
 
-Som nämnts ovan, när det finns behov av att visa, analysera eller redigera befintliga data så finns det behov av att läsa filen iXBRL. För att läsa den, anger API InlineXbrlDocument klass som har en giltig iXBRL fil som parameter. Programmerare kan utnyttja klasser som: [InlineFactName](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Sammanhanget](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enheter](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) Visa dess data och struktur. 
+Som nämnts ovan, när det finns behov av att visa, analysera eller redigera befintliga data måste du läsa iXBRL-filen. För att läsa den tillhandahåller API InlineXbrlDocument-klassen med en giltig iXBRL-fil som parameter. Programmerare kan använda klasser som [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Sammanhang](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enhet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) se dess data och struktur. 
 
-{{% blocks/products/pf/feature-page-code h3="C# Kod att läsa iXBRL dokument" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kod för att läsa iXBRL dokument" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-ixbrl-file.cs" >}}
 

@@ -1,25 +1,25 @@
 ﻿---
-title: C# .NET API per sistemi di reporting digitale finanziario- Aspose 
+title: C# .NET API per i sistemi di reporting digitale finanziario - Aspose 
 weight: 20
 url: /it/net/ 
-description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanziari in eXtensible Business Reporting Language XBRL e iXBRL per l'analisi per generare XBRL tassonomie e rapporti
+description: Libreria C# ASP.NET VB.NET per la conversione dei rendiconti finanziari in eXtensible Business Reporting Language XBRL e iXBRL per l'analisi per generare XBRL tassonomie e report
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET libreria per analizzare Finance documenti" h2="Creare, leggere e convalidare XBRL e iXBRL Finance-Formati correlati all\'interno di qualsiasi software di gestione dei processi aziendali, analisi finanziaria e reporting." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Libreria per analizzare Finance documenti" h2="Crea, leggi e convalida formati correlati a XBRL e iXBRL Finance all\'interno di qualsiasi software di gestione dei processi aziendali, analisi finanziaria e reportistica." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET è una libreria flessibile per l'elaborazione dei formati relativi alla finanza. API può facilmente creare, leggere e convalidare i formati eXtensible Business Reporting Language XBRL e iXBRL e creare OFX file di richiesta e risposta in diversi formati. Gli sviluppatori possono sviluppare XBRL software abilitato con facilità o possono essere utilizzati all'interno di qualsiasi sistema di reporting finanziario digitale esistente per creare report con XBRL. È un API estensibile, facile da usare e autonomo indipendente da qualsiasi altro software.</p>
+<p align="justify"> Aspose.Finance for .NET è una libreria flessibile per l'elaborazione di formati relativi alla finanza. API può facilmente creare, leggere e convalidare formati eXtensible Business Reporting Language XBRL e iXBRL, nonché creare file OFX di richiesta e risposta in diversi formati. Gli sviluppatori possono sviluppare facilmente software abilitato per XBRL o possono utilizzare all'interno di qualsiasi sistema di reporting finanziario digitale esistente per creare report con XBRL. È un API estensibile, facile da usare e autonomo, indipendente da qualsiasi altro software.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="A colpo d\'occhio" description="Una panoramica di Aspose.Finance for .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="A prima vista" description="Una panoramica di Aspose.Finance for .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -39,10 +39,10 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
      Leggi il formato iXBRL
     </li>
     <li>
-     Validazione XBRL
+     XBRL convalida
     </li>
     <li>
-     Validazione iXBRL
+     iXBRL convalida
     </li>
    </ul>
   </div>
@@ -67,7 +67,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
   <footer>
    <small>
     <em>
-     Per
+     per
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Indipendenza della piattaforma" description="Aspose.Finance for .NET supporta tutte le principali piattaforme tra cui." >}}
+{{< blocks/products/pf/carousel-item h3="Indipendenza dalla piattaforma" description="Aspose.Finance for .NET supporta tutte le principali piattaforme incluse." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -93,7 +93,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
    <header>
     <i class="fa fa-cubes">
     </i>
-    Quadro .NET
+    .NET Quadro
    </header>
    <ul>
     <li>
@@ -103,7 +103,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
      Applicazione Windows
     </li>
     <li>
-     Servizi Web
+     Servizi web
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
   <footer>
    <small>
     <em>
-     Per
+     per
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formati file supportati" description="Aspose.Finance for .NET supporta i formati relativi alla finanza." >}}
+{{< blocks/products/pf/carousel-item h3="Formati di file supportati" description="Aspose.Finance for .NET supporta i formati relativi alla finanza." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ingresso/uscita
+    Input Output
    </header>
    <ul>
     <li>
@@ -155,7 +155,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header><i class="fa  fa-mail-forward"> </i> Solo output</header>
+   <header><i class="fa  fa-mail-forward"> </i> Solo uscita</header>
 
 <ul>
 
@@ -174,7 +174,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
   <footer>
    <small>
     <em>
-     Per
+     per
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    .NET Finance analisi API funzionalità avanzate
+    Funzioni avanzate di analisi .NET Finance API
    </h2>
    <p>
    </p>
@@ -217,21 +217,21 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convalidare XBRL e iXBRL
+     Convalida XBRL e iXBRL
     </p>
    </div>
  <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convertire da XBRL a iXBRL
+     Converti XBRL in iXBRL
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convertire XBRL in XLSX
+     Converti XBRL in XLSX
     </p>
    </div>
    <div class="col-lg-4">
@@ -253,14 +253,14 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convertire OFX file di richiesta dal formato 1.03 al formato 2.2
+     Converti OFX file di richiesta dal formato 1.03 al formato 2.2
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convertire OFX file di risposta dal formato 1.03 al formato 2.2
+     Converti OFX file di risposta dal formato 1.03 al formato 2.2
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -307,7 +307,7 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Crea XBRL istanza- C#
+      Crea XBRL istanza - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
@@ -317,11 +317,11 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
      Leggi iXBRL File
     </h2>
     <p>
-     È inoltre supportata la lettura di documenti di istanza Inline eXtensible Business Reporting Language iXBRL.
+     È supportata anche la lettura di documenti di istanza Inline eXtensible Business Reporting Language iXBRL.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Leggi iXBRL documenti di istanza- C#
+      Leggi iXBRL documenti di istanza - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -342,16 +342,16 @@ description: C# libreria ASP.NET VB.NET per la conversione dei rendiconti finanz
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Risorse per l\'apprendimento" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API riferimenti" href="https://apireference.aspose.com/finance/net" >}}
+{{< blocks/products/pf/slr-element name="API Riferimenti" href="https://apireference.aspose.com/finance/net" >}}
 {{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Supporto del prodotto" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/finance" >}}
-{{< blocks/products/pf/slr-element name="Supporto pagato" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

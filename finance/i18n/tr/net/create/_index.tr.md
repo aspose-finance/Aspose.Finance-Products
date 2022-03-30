@@ -1,24 +1,24 @@
 ﻿---
-title: .NET aracılığıyla Finansal Raporlar Oluştur
+title: .NET aracılığıyla Mali Raporlar Oluşturun
 url: /tr/net/create/
-description:  XBRL 'de Finansal Raporlar oluşturmak için C# kodu ve OFX kitaplığı aracılığıyla OFX istek veya yanıt dosyaları.
+description:  XBRL içinde Mali Raporlar oluşturmak için C# kodu ve .NET kitaplığı aracılığıyla OFX istek veya yanıt dosyaları.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# aracılığıyla Finansal Raporlama Dosyaları Oluşturun" h2=".NET tabanlı uygulamalarda 1.03 veya 2.2 formatında XBRL ve OFX istek veya yanıt dosyası dahil olmak üzere finansal rapor formatları oluşturma." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# aracılığıyla Finansal Raporlama Dosyaları Oluşturun" h2=".NET tabanlı uygulamalarda 1.03 veya 2.2 formatında XBRL ve OFX istek veya yanıt dosyasını içeren mali rapor formatları oluşturma." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Zengin, genişletilebilir ve kullanımı kolay bir finansal rapor oluşturma ve işleme API. Geliştiriciler sıfırdan XBRL örneğini kolayca oluşturmanın yanı sıra şema referansı, bağlam, birim, öğe, dipnot bağlantısı, rol referansı ve 
-Ark rol referansı. API, geliştiricilerin kullanabileceği bağlam gibi her özellik için ilgili sınıf sağlar [Bağlam Dönemi](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod), [Bağlam Varlığı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) Ve [Bağlam](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
-Ayrıca, API ayrıca 1.03 veya 2.2 formatında açık finansal değişim (OFX) formatı istek/yanıt oluşturmayı da destekler.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) zengin özelliklere sahip, genişletilebilir ve kullanımı kolay bir mali rapor oluşturma ve işleme özelliğidir API. Geliştiriciler kolayca sıfırdan XBRL örneği oluşturabilir ve şema referansı, bağlam, birim, öğe, dipnot bağlantısı, rol referansı ve 
+ark rolü referansı. API, geliştiricilerin kullanabileceği bağlam gibi her özellik için ilgili sınıf sağlar [BağlamPeriod](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod), [BağlamVarlığı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) ve [Bağlam](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
+Ayrıca API, 1.03 veya 2.2 biçiminde açık finansal değişim (OFX) biçiminde istek / yanıt oluşturmayı da destekler.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Öğe Ekleyerek XBRL Dosya Oluştur" %}}
+{{% blocks/products/pf/feature-page-section h2="Öğe Ekleyerek XBRL Dosyası Oluşturun" %}}
 
-XBRL dosyası oluşturmak ve belgeye öğe eklemek için, işlem, [XbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Örnek. Uygun API sınıfları kullanarak öğe için ilgili ayarları hazırlayın [Şema sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref), Yukarıda belirtildiği gibi ilgili bağlam sınıfları ve [Konsept sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). Sonunda tanımlayın ve aşılayın [Öğe sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) Özellikleri yanı sıra çağrı [Kaydet yöntemi](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) Için [XBRL oluştur](https://products.aspose.com/finance/net/create/xbrl/) Dosya diske.
+XBRL dosyası oluşturmak ve belgeye öğe eklemek için işlem şudur: [XbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) misal. gibi uygun API sınıflarını kullanarak öğe için ilgili ayarları hazırlayın. [SchemaRef sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref)yukarıda belirtildiği gibi ilgili bağlam sınıfları ve [konsept sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). Sonunda tanımla ve başlat [Öğe sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) özelliklerini aramanın yanı sıra [Yöntemi kaydet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) ile [XBRL oluştur](https://products.aspose.com/finance/net/create/xbrl/) diske dosya.
 
-{{% blocks/products/pf/feature-page-code h3="C# Öğe Ekleyerek XBRL Dosya Oluşturmak için Kod" %}}
+{{% blocks/products/pf/feature-page-code h3="Öğe Ekleyerek XBRL Dosyası Oluşturmak için C# Kodu" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-xbrl-file-and-add-item.cs" >}} 
 
@@ -26,18 +26,18 @@ XBRL dosyası oluşturmak ve belgeye öğe eklemek için, işlem, [XbrlDocument 
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="OFX İstek ve Yanıt Dosyaları Oluştur" %}}
+{{% blocks/products/pf/feature-page-section h2="OFX İstek ve Yanıt Dosyası Oluşturun" %}}
 
 
-OFX dosyaları oluşturmak için API sağlar [OfxRequestDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) Ve [OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Sınıflar ve geliştiriciler kolayca [OFX oluştur](https://products.aspose.com/finance/net/create/ofx-request/) Ve 1.03 ve 2.2 formatlarında Yanıt dosyaları. OfxRequestDocument özelliklerini başlatmak için, API gibi diğer sınıfları da sağlar [İşaret isteği](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [Finans Kurumu](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution) Ve [StatementTransactionRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest) Dersler. Benzer şekilde, OfxResponseDocument özelliklerini aşılamak için, API gibi destekleyici sınıflar sağlar [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [Bildiri TransactionResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse) Ve [Statementİşlem](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction). Aşağıda, ilgili uygun sınıfların kullanımıyla her iki durum için kod parçacıkları bulunmaktadır.
+OFX dosya oluşturmak için API şunları sağlar: [OfxRequestBelgesi](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) ve [OfxResponseBelgesi](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) sınıflar ve geliştiriciler kolayca [OFX İsteği oluştur](https://products.aspose.com/finance/net/create/ofx-request/) ve hem 1.03 hem de 2.2 biçimlerinde Yanıt dosyaları. OfxRequestDocument özelliklerini başlatmak için API, aşağıdakiler gibi başka sınıflar da sağlar: [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [Finansal kurum](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution) ve [AçıklamaİşlemTalebi](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest) sınıflar. Benzer şekilde, OfxResponseDocument özelliklerini başlatmak için API, aşağıdakiler gibi destekleyici sınıflar sağlar: [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [AçıklamaİşlemYanıt](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse) ve [Açıklamaİşlem](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction). Aşağıda, ilgili uygun sınıfların kullanımı ile her iki durum için kod parçacıkları bulunmaktadır.
 
-{{% blocks/products/pf/feature-page-code h3="C# Oluşturmak için Kod OFX Belge Talep Edin" %}}
+{{% blocks/products/pf/feature-page-code h3="OFX Talep Belgesi Oluşturmak için C# Kodu" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}} 
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# OFX Yanıt Belgeleri Oluşturmak için Kod" %}}
+{{% blocks/products/pf/feature-page-code h3="OFX Yanıt Belgesi Oluşturmak için C# Kodu" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}} 
 

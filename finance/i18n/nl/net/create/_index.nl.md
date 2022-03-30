@@ -1,24 +1,24 @@
 ﻿---
-title: Financiële rapporten aanmaken via .NET
+title: Maak financiële rapporten via .NET
 url: /nl/net/create/
-description:  C# code om financiële rapporten te maken in XBRL en OFX aanvragen-of responsbestanden via de .NET bibliotheek.
+description:  C# code om financiële rapporten te maken in XBRL en OFX verzoek- of antwoordbestanden via de .NET-bibliotheek.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Financiële rapportagebestanden aanmaken via C#" h2="Het maken van financiële rapportindelingen, waaronder XBRL en OFX aanvraag-of responsbestand in 1.03-of 2.2-indeling binnen .NET toepassingen." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Maak financiële rapportagebestanden via C#" h2="Aanmaken van formaten voor financiële rapporten, waaronder XBRL en OFX verzoek- of responsbestanden in 1.03- of 2.2-indeling binnen op .NET gebaseerde applicaties." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Is een feature rijk, uitbreidbaar en eenvoudig te gebruiken financiële rapportage creatie en verwerking API. Ontwikkelaars kunnen eenvoudig XBRL exemplaar helemaal opnieuw maken en kunnen ook schemareferentie, context, eenheid, item, voetnootlink, rolverwijzing en 
-De verwijzing van de boogrol. API biedt relevante klasse voor elke functie, zoals voor context, kunnen ontwikkelaars gebruiken [Contextperiode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod), [ContextEntity](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) En [Context](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
-Bovendien ondersteunt API ook het maken van open financiële valuta (OFX)-opmaak van aanvragen/reacties in 1.03-of 2.2-indeling.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) is een rijke, uitbreidbare en gebruiksvriendelijke aanmaak en verwerking van financiële rapporten API. Ontwikkelaars kunnen eenvoudig XBRL instantie helemaal opnieuw maken en kunnen schemaverwijzing, context, eenheid, item, voetnootlink, rolverwijzing en 
+arc-rolreferentie. API biedt relevante klasse voor elke functie, zoals voor context, die ontwikkelaars kunnen gebruiken [ContextPeriode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod), [ContextEntiteit](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) en [Context](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
+Bovendien ondersteunt API ook het aanmaken van verzoeken/antwoorden in open financiële uitwisseling (OFX) in 1.03 of 2.2 formaat.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Maak XBRL bestand door item toe te voegen" %}}
+{{% blocks/products/pf/feature-page-section h2="Maak XBRL-bestand door item toe te voegen" %}}
 
-Om een XBRL-bestand te maken en een item aan het document toe te voegen, is het proces, maak [Klasse XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Instantie. Bereid relevante instellingen voor het item voor door de juiste API klassen te gebruiken, zoals [SchemaRef-klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref), Relevante contextklassen zoals hierboven vermeld en [Conceptklasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). Definieer en intialiseer ten slotte [Artikelklasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) Zowel eigenschappen als de [Bewaarmethode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) Naar [XBRL creëren](https://products.aspose.com/finance/net/create/xbrl/) Bestand in schijf.
+Voor het maken van een XBRL-bestand en het toevoegen van een item aan het document, is het proces create [XbrlDocument-klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) voorbeeld. Bereid relevante instellingen voor het item voor door de juiste API klassen te gebruiken, zoals: [SchemaRef-klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref)relevante contextklassen zoals hierboven vermeld en [concept klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). Eindelijk definiëren en initialiseren [Artikelklasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) eigenschappen en bel de [Opslaan methode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) naar [maak XBRL](https://products.aspose.com/finance/net/create/xbrl/) bestand op schijf.
 
-{{% blocks/products/pf/feature-page-code h3="C# code om XBRL bestand te maken door item toe te voegen" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code om XBRL bestand te maken door item toe te voegen" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-xbrl-file-and-add-item.cs" >}} 
 
@@ -26,18 +26,18 @@ Om een XBRL-bestand te maken en een item aan het document toe te voegen, is het 
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="OFX aanvragen-en reactiebestanden maken" %}}
+{{% blocks/products/pf/feature-page-section h2="Maak OFX verzoek- en antwoordbestanden" %}}
 
 
-Voor het genereren van OFX bestanden biedt de API [OfxRequestDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) En [OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Klassen en ontwikkelaars kunnen gemakkelijk [OFX verzoek aanmaken](https://products.aspose.com/finance/net/create/ofx-request/) En Response-bestanden in zowel 1.03-als 2.2-formaten. Voor het initialiseren van OfxRequestDocument-eigenschappen biedt API ook andere klassen zoals [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [Financiële instelling](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution) En [StatementTransactionRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest) Klassen. Evenzo biedt API ondersteunende klassen zoals voor het intialiseren van OfxResponseDocument-eigenschappen [SignonReactie](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [StatementTransactionResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse) En [Statementtransactie](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction). Hieronder staan de codefragmenten voor beide gevallen met behulp van relevante geschikte klassen.
+Voor het genereren van OFX bestanden biedt de API [OfxVerzoekDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) en [OfxReactieDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) klassen en ontwikkelaars kunnen gemakkelijk [maak OFX Verzoek](https://products.aspose.com/finance/net/create/ofx-request/) en responsbestanden in zowel 1.03- als 2.2-indeling. Voor het initialiseren van OfxRequestDocument-eigenschappen biedt API ook andere klassen zoals [Aanmeldingsverzoek](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [Financiele instelling](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution) en [Verklaring TransactieVerzoek](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest) klassen. Evenzo biedt API voor het initialiseren van OfxResponseDocument-eigenschappen ondersteunende klassen zoals: [Aanmeldingsreactie](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [Verklaring TransactieReactie](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse) en [Afschrift Transactie](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction). Hieronder staan de codefragmenten voor beide gevallen met het gebruik van relevante toepasselijke klassen.
 
-{{% blocks/products/pf/feature-page-code h3="C# code om OFX aanvraagdocumenten te genereren" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code om OFX Documenten op te vragen" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}} 
 
 {{% /blocks/products/pf/feature-page-code %}}
 
-{{% blocks/products/pf/feature-page-code h3="C# code om OFX responsdocumenten te genereren" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Code om OFX Antwoorddocumenten te genereren" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}} 
 

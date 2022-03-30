@@ -1,6 +1,6 @@
 ﻿---
-title: बनाने XBRL फ़ाइल के माध्यम से C#
-description: नमूना कोड के लिए XBRL फ़ाइल निर्माण. उपयोग API उदाहरण कोड बैच के लिए XBRL फ़ाइलें पीढ़ी के भीतर .NET आधारित अनुप्रयोगों. 
+title: C# के माध्यम से XBRL फ़ाइल बनाएं
+description: XBRL फ़ाइल निर्माण के लिए नमूना कोड। बैच के लिए API उदाहरण कोड का उपयोग करें XBRL .NET आधारित अनुप्रयोगों के भीतर फाइल निर्माण। 
 url: /hi/net/create/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="बनाने XBRL फ़ाइलें के माध्यम से C#" h2="XBRL फ़ाइलें निर्माण की जरूरत के बिना माइक्रोसॉफ्ट कार्यालय स्थापित या किसी भी अन्य सॉफ्टवेयर है।" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# के माध्यम से XBRL फ़ाइलें बनाएं" h2="XBRL Microsoft Office स्थापित या किसी अन्य सॉफ़्टवेयर की आवश्यकता के बिना फ़ाइलें बनाना।" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="कैसे बनाने के लिए XBRL फ़ाइलें" %}}
+{{% blocks/products/pf/agp/feature-section-col title="कैसे बनाएं XBRL फ़ाइलें" %}}
 
-कोड snippet या बढ़ाने में यह चरणों का पालन के रूप में अपने आवेदन जरूरतों पैदा करने के लिए एक्स्टेंसिबल व्यापार रिपोर्टिंग भाषा XBRL फ़ाइलें. अपने आवेदन के भीतर निर्माण आवश्यकताओं होने के बारे में सुनिश्चित किया जा सकता है।
+कोड स्निपेट में दिए गए चरणों का पालन करें या एक्स्टेंसिबल व्यावसायिक रिपोर्टिंग भाषा XBRL फ़ाइलें जेनरेट करने के लिए आपके एप्लिकेशन की आवश्यकता के अनुसार इसे बेहतर बनाएं। सुनिश्चित करें कि आपके आवेदन में निर्माण संबंधी आवश्यकताएं हैं।
 
-1. बनाने [XbrlDocument वर्ग](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) उदाहरण है।1. बनाने के लिए एक नई XBRL उदाहरण दस्तावेज़ [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) और [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance)है।1. जोड़ने स्कीमा संदर्भ का उपयोग [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. संदर्भ जोड़ने प्रकृति आवेदन पर निर्भर करता है, इकाई, आइटम, फुटनोट लिंक और अधिक है।1. कॉल के [बचाने विधि](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) लक्ष्य फ़ाइल पथ प्रदान करके.
+1. सृजन करना [XbrlDocument वर्ग](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) उदाहरण।1. एक नया XBRL इंस्टेंस दस्तावेज़ बनाने के लिए [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) तथा [एक्सबीआरएल इंस्टेंस](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. स्कीमा संदर्भ का उपयोग करके जोड़ें [स्कीमारेफसंग्रह](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. एप्लिकेशन प्रकृति के आधार पर संदर्भ, इकाई, आइटम, फुटनोट लिंक और बहुत कुछ जोड़ें।1. बुलाएं [विधि सहेजें](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) लक्ष्य फ़ाइल पथ प्रदान करके।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="निर्माण आवश्यकता" %}}
-के लिए आगे बढ़ने के लिए XBRL दस्तावेजों पीढ़ी, .NET Finance API मुख्य आवश्यकता है करने के लिए आवेदन के भीतर शामिल किया है। 
-- के माध्यम से इसे स्थापित कमांड लाइन के रूप में '''nuget स्थापित Aspose.Finance विजुअल स्टूडियो के लिए '''या के माध्यम से पैकेज प्रबंधक की कंसोल '''Install-पैकेज के साथ Aspose.Finance के लिए'''.
-- वैकल्पिक रूप से, ऑफ़लाइन प्राप्त एमएसआई संस्थापक या DLLs में से एक ज़िप फ़ाइल [डाउनलोड](https://downloads.aspose.com/finance/net)है।{{% /blocks/products/pf/agp/feature-section-col %}}
+XBRL दस्तावेज़ बनाने के लिए आगे बढ़ने के लिए, .NET Finance API आवेदन में शामिल करने की मुख्य आवश्यकता है। 
+- इसे कमांड लाइन के माध्यम से ``nuget install Aspose.Finance``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से ```इंस्टॉल-पैकेज Aspose.Finance``` के साथ इंस्टॉल करें।
+- वैकल्पिक रूप से, एक ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें [डाउनलोड](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# कोड के लिए XBRL फ़ाइलें निर्माण" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XBRL फ़ाइल निर्माण के लिए C# कोड" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-xbrl-file-and-add-schema-reference.cs" >}}
 

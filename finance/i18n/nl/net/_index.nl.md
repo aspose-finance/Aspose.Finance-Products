@@ -1,18 +1,18 @@
 ﻿---
-title: C# .NET API's voor financiële digitale rapportagesystemen- Aspose 
+title: C# .NET API's voor financiële digitale rapportagesystemen - Aspose 
 weight: 20
 url: /nl/net/ 
-description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naar eXtensible Business Reporting Language XBRL en iXBRL voor analyze om XBRL taxonomieën en rapporten te genereren
+description: C# ASP.NET VB.NET-bibliotheek voor conversie van financiële overzichten naar eXtensible Business Reporting Language XBRL en iXBRL voor analyse om XBRL taxonomieën en rapporten te genereren
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET bibliotheek om Finance documenten te ontleden" h2="Creëer, lees en valideer XBRL en iXBRL Finance-gerelateerde formaten binnen alle software voor beheer, financiële analyze en rapportage van bedrijfsprocessen." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Bibliotheek om Finance documenten te ontleden" h2="Maak, lees en valideer XBRL en iXBRL Finance-gerelateerde indelingen binnen alle software voor beheer van bedrijfsprocessen, financiële analyse en rapportage." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET is een flexibele bibliotheek voor de verwerking van financiële formaten. API kan eenvoudig eXtensible Business Reporting Language XBRL en iXBRL formaten maken, lezen en valideren en OFX Request-en Response-bestanden maken in verschillende formaten. Ontwikkelaars kunnen gemakkelijk XBRL software ontwikkelen of kunnen binnen elk bestaand digitaal financieel rapportagesysteem rapporten maken met XBRL. Het is een uitbreidbare, makkelijk te gebruiken en standalone API onafhankelijk van alle andere software.</p>
+<p align="justify"> Aspose.Finance for .NET is een flexibele bibliotheek voor de verwerking van financiële indelingen. API kan eenvoudig eXtensible Business Reporting Language-indelingen XBRL en iXBRL maken, lezen en valideren, en OFX verzoek- en antwoordbestanden in verschillende indelingen maken. Ontwikkelaars kunnen met gemak XBRL-software ontwikkelen of binnen elk bestaand digitaal financieel rapportagesysteem gebruiken om rapporten te maken met XBRL. Het is uitbreidbaar, gemakkelijk te gebruiken en standalone API onafhankelijk van andere software.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -26,17 +26,17 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
    <header>
     <i class="fa fa-cogs">
     </i>
-    Belangrijkste kenmerken
+    Belangrijkste kenmerken:
    </header>
    <ul>
     <li>
-     XBRL instance aanmaken
+     XBRL instantie maken
     </li>
     <li>
-     XBRL formaat lezen
+     Lees XBRL-indeling
     </li>
     <li>
-     iXBRL formaat lezen
+     Lees iXBRL-indeling
     </li>
     <li>
      XBRL validatie
@@ -67,7 +67,7 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Onafhankelijkheid van het platform" description="Aspose.Finance for .NET ondersteunt alle grote platforms, inclusief." >}}
+{{< blocks/products/pf/carousel-item h3="Platformonafhankelijkheid" description="Aspose.Finance for .NET ondersteunt alle grote platforms, inclusief." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -93,11 +93,11 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Framework
+    .NET Kader
    </header>
    <ul>
     <li>
-     ASP.NET toepassing
+     ASP.NET-toepassing
     </li>
     <li>
      Windows-toepassing
@@ -118,7 +118,7 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.Finance for .NET ondersteunt financieringsgerelateerde formaten." >}}
+{{< blocks/products/pf/carousel-item h3="Ondersteunde bestandsindelingen" description="Aspose.Finance for .NET ondersteunt financiële indelingen." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Input/output
+    Invoer uitvoer
    </header>
    <ul>
     <li>
@@ -149,13 +149,13 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
      OFX
     </li>
     <li>
-     OFX versie 1
+     OFX Versie 1
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header><i class="fa  fa-mail-forward"> </i> Alleen output</header>
+   <header><i class="fa  fa-mail-forward"> </i> Alleen uitvoer</header>
 
 <ul>
 
@@ -174,7 +174,7 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
   <footer>
    <small>
     <em>
-     Voor
+     voor
     </em>
     .NET
    </small>
@@ -203,14 +203,14 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Creëer XBRL exemplaar vanaf nul
+     XBRL-instantie helemaal opnieuw maken
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lees XBRL en iXBRL formaten
+     Lees XBRL en iXBRL indelingen
     </p>
    </div>
    <div class="col-lg-4">
@@ -224,28 +224,28 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL converteren naar iXBRL
+     Converteer XBRL naar iXBRL
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     XBRL converteren naar XLSX
+     Converteer XBRL naar XLSX
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX aanvraagbestand maken
+     Maak OFX aanvraagbestand
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX reactiebestand maken
+     Maak OFX Reactiebestand
     </p>
    </div>
 
@@ -253,14 +253,14 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Omzetten van OFX Bestand aanvragen van 1.03 naar 2.2 formaat
+     Converteer OFX Verzoekbestand van 1.03 naar 2.2 formaat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     OFX reactiebestand converteren van 1.03 naar 2.2-indeling
+     Converteer OFX Responsbestand van 1.03 naar 2.2 formaat
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -300,28 +300,28 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     XBRL instantiedocumenten maken
+     Maak XBRL instantiedocumenten
     </h2>
     <p>
-     Aspose.Finance for .NET ondersteunt het genereren van XBRL documenten. Met de volgende enkele regels code om een nieuw XBRL instantiedocument te maken
+     Aspose.Finance for .NET ondersteunt het genereren van XBRL documenten. Met de volgende slechts enkele regels code om een nieuw XBRL instantiedocument te maken
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Creëer XBRL Instance - C#
+      XBRL-instantie maken - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     iXBRL bestand lezen
+     Lees iXBRL Bestand
     </h2>
     <p>
-     Het lezen van Inline eXtensible Business Reporting Language iXBRL instantiedocumenten wordt ook ondersteund.
+     Het lezen van Inline eXtensible Business Reporting Language iXBRL-instantiedocumenten worden ook ondersteund.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      iXBRL instantiedocumenten lezen- C#
+      Lees iXBRL instantiedocumenten - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -345,18 +345,18 @@ description: C# ASP.NET VB.NET bibliotheek voor conversie van jaarrekeningen naa
 {{< blocks/products/pf/slr-tab tabTitle="Leermiddelen" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentatie" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="Broncode" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API referenties" href="https://apireference.aspose.com/finance/net" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Video\'s" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Referenties" href="https://apireference.aspose.com/finance/net" >}}
+{{< blocks/products/pf/slr-element name="Instructievideo\'s" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Productondersteuning" tabId="support" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Product ondersteuning" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Gratis ondersteuning" href="https://forum.aspose.com/c/finance" >}}
 {{< blocks/products/pf/slr-element name="Betaalde ondersteuning" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Waarom Aspose.Finance for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klanten Lijst" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klantenlijst:" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Succesverhalen" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

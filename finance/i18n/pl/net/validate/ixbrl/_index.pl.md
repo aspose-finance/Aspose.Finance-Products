@@ -1,6 +1,6 @@
 ﻿---
-title: Sprawdź iXBRL pliku za pomocą C#
-description: Przykładowy kod dla iXBRL walidacji pliku. Użyj API przykładowego kodu, aby zweryfikować pliki wsadowe iXBRL w aplikacjach opartych na .NET. 
+title: Zweryfikuj plik iXBRL przez C#
+description: Przykładowy kod do weryfikacji pliku iXBRL. Użyj API przykładowego kodu, aby sprawdzić poprawność iXBRL plików wsadowych w aplikacjach opartych na .NET. 
 url: /pl/net/validate/ixbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Potwierdź iXBRL plików przez C#" h2="Weryfikowanie raportów finansowych w formacie iXBRL bez konieczności instalowania pakietu Microsoft Office lub innego oprogramowania." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Sprawdź poprawność iXBRL plików przez C#" h2="Sprawdzanie poprawności raportów finansowych w formacie iXBRL bez konieczności instalowania pakietu Microsoft Office lub innego oprogramowania." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Jak zweryfikować iXBRL plików" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Jak zweryfikować iXBRL pliki" %}}
 
-Postępuj zgodnie z krokami w fragorze kodu lub popraw go zgodnie z potrzebami aplikacji, aby zweryfikować rozszerzalny język raportowania biznesowego iXBRL dokumentów. Upewnij się, że masz wymagania dotyczące walidacji w swojej aplikacji.
+Wykonaj czynności opisane we fragmencie kodu lub ulepsz go zgodnie z potrzebami aplikacji, aby sprawdzić poprawność dokumentów w języku iXBRL w języku raportowania biznesowego. Upewnij się, że aplikacja zawiera wymagania dotyczące walidacji.
 
-1. Załaduj plik iXBRL za pomocą [Klasa InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Instancja.1. Aby sprawdzić ważność załadowanego pliku, tak aby musiał być zgodny z [Specyfikacja iXBRL](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Użyj [Weryfikacja ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) Metoda ważności pliku.
+1. Załaduj plik iXBRL za pomocą [Klasa InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Instancja.1. Aby sprawdzić poprawność wczytanego pliku, tak aby był zgodny z [iXBRL specyfikacja](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Stosowanie [Uprawomocnić()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) metoda ważności pliku.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymóg walidacji" %}}
-Aby przystąpić do walidacji iXBRL dokumentów, .NET Finance API to główne wymaganie, które należy uwzględnić w aplikacji. 
-- Zainstaluj go za pomocą wiersza poleceń jako ''nuget install Aspose.Finance'' lub za pomocą konsoli menedżera pakietów w Visual Studio z ''Zainstaluj pakiet Aspose.Finance''.
-- Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [Pliki do pobrania](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+Aby przejść do weryfikacji iXBRL dokumentów, .NET Finance API jest głównym wymaganiem dołączenia do aplikacji. 
+- Zainstaluj go za pomocą wiersza poleceń jako ```nuget install Aspose.Finance``` lub za pomocą konsoli Menedżera pakietów programu Visual Studio za pomocą ```Install-Package Aspose.Finance```.
+- Alternatywnie, pobierz instalator MSI offline lub biblioteki DLL w pliku ZIP z [pliki do pobrania](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kodu do weryfikacji iXBRL plików" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kod do weryfikacji iXBRL plików" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "1272da1f804f8cef122600269db09fbb" "validate-ixbrl-file.cs" >}}
 

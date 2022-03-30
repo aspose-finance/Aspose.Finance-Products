@@ -1,21 +1,21 @@
 ﻿---
-title: Ověřit finanční zprávy pomocí .NET
+title: Ověřit finanční přehledy prostřednictvím .NET
 url: /cs/net/validate/
-description:  C# kód pro ověření finančních zpráv v souborech XBRL a iXBRL prostřednictvím knihovny .NET.
+description:  C# kód pro ověření finančních přehledů v souborech XBRL a iXBRL prostřednictvím knihovny .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Ověřit soubory účetního výkaznictví pomocí C#" h2="Ověření formátů finančních zpráv včetně XBRL a iXBRL v aplikacích založených na .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Ověřit soubory finančního výkaznictví prostřednictvím C#" h2="Ověřování formátů finančních zpráv včetně XBRL a iXBRL v aplikacích založených na .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Is a feature rich, extensible and easy to use financial report processing API. Vývojáři mohou snadno načíst, validovat, zobrazit nebo vytvořit formáty XBRL a iXBRL pro finanční a obchodní řešení. API poskytuje [Xbrldocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Třídy a  [Inlinexbrldokument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Třída pro načtení souborů XBRL a iXBRL.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) je funkčně bohatý, rozšiřitelný a snadno použitelný zpracování finančních výkazů API. Vývojáři mohou snadno načítat, ověřovat, zobrazovat nebo vytvářet formáty XBRL a iXBRL pro finanční a obchodní řešení. API poskytuje [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) třída a  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) třída pro načítání souborů XBRL a iXBRL.
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="Ověřit dokument XBRL" %}}
 
-Validace XBRL souboru je zapotřebí pro řadu případů, například pro kontrolu dat je ve správné struktuře a formátu. Chcete-li ověřit dokumenty xblr, nejprve použijte třídu xbrldocument pro načtení souboru XBRL. Pro použití [Validate ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Metoda [Xbrlinstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Třída, nejprve intialize the [Xbrlinstancecollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) S objektem xbrldocument xbrlinstances. Iterate through each [Xbrlinstance. validationerrors](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) Chcete-li získat správný chybový kód a jednat odpovídajícím způsobem vytisknutím vlastní chybové zprávy na konzoli nebo zápisu do souboru.
+Ověření souboru XBRL je potřeba pro řadu případů, jako je kontrola, zda jsou data ve správné struktuře a formátu. Chcete-li ověřit dokumenty XBLR, nejprve použijte třídu XbrlDocument k načtení souboru XBRL. Chcete-li použít [ověřit()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) metoda [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) třídu, nejprve inicializovat [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) s objektem XbrlDocument XbrlInstances. Projděte každou z nich [XbrlInstance.ValidationErrors](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) získat správný chybový kód a podle toho jednat tiskem přizpůsobených chybových zpráv na konzole nebo zápisem do souboru.
 
-{{% blocks/products/pf/feature-page-code h3="C# kód pro ověření XBRL souboru" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kód pro ověření souboru XBRL" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-xbrl-file.cs" >}} 
 
@@ -25,9 +25,9 @@ Validace XBRL souboru je zapotřebí pro řadu případů, například pro kontr
 
 {{% blocks/products/pf/feature-page-section h2="Ověřit dokument iXBRL" %}}
 
-Pro validaci ixlrb, načíst přes [Inlinexbrldokument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Class and use its validate () method. V [Validationerrorcode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) Pro každé pravidlo validace jsou definovány kódy chyb výčtu, validace. Málo kódů je contextperiodnostarttime, contextperiodnoendtime, contextperiodstartafterend, contextinstantnotime, contextscenarioxbrlnamespace, contextscenarioxbrlsubstitutiongroup etc. vývojáři mohou ladit a zobrazit kódy jako koncových uživatelů nebo mohou ukázat směr pro řešení problému.
+Pro ověření iXLRB jej načtěte přes [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) třídy a použijte její metodu Validate(). v [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) při výčtu jsou pro každé ověřovací pravidlo definovány kódy chyb ověření. Několik kódů je ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup atd. Vývojáři mohou ladit a zobrazovat kódy jako koncoví uživatelé nebo mohou ukázat směr řešení problému.
 
-{{% blocks/products/pf/feature-page-code h3="C# kód pro ověření dokumentu iXBRL" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Kód pro ověření dokumentu iXBRL" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-ixbrl-file.cs" >}}
 

@@ -1,6 +1,6 @@
 ﻿---
 title: อ่าน XBRL ไฟล์ผ่าน C#
-description: ตัวอย่างรหัสสำหรับ XBRL การอ่านไฟล์ใช้ API ตัวอย่างรหัสเพื่ออ่านแบทช์ XBRL ไฟล์ภายใน .NET การใช้งานตาม 
+description: โค้ดตัวอย่างสำหรับการอ่านไฟล์ XBRL ใช้โค้ดตัวอย่าง API เพื่ออ่านไฟล์แบตช์ XBRL ภายในแอปพลิเคชันที่ใช้ .NET 
 url: /th/net/read/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="อ่าน XBRL ไฟล์ผ่าน C#" h2="อ่านรายงานทางการเงินในรูปแบบ XBRL โดยไม่จำเป็นต้องติดตั้ง Microsoft Office หรือซอฟต์แวร์อื่นๆ" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="อ่านไฟล์ XBRL ผ่าน C#" h2="การอ่านรายงานทางการเงินในรูปแบบ XBRL โดยไม่ต้องติดตั้ง Microsoft Office หรือซอฟต์แวร์อื่นๆ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="วิธีการอ่าน XBRL ไฟล์" %}}
+{{% blocks/products/pf/agp/feature-section-col title="วิธีอ่าน XBRL Files" %}}
 
-ทำตามขั้นตอนในโค้ดตัวอย่างหรือเพิ่มมันเป็นความต้องการของแอพลิเคชันของคุณสำหรับการอ่าน Extensible ธุรกิจรายงานภาษา XBRL ไฟล์ตรวจสอบให้แน่ใจว่ามีข้อกำหนดในการอ่านภายในแอปพลิเคชันของคุณ
+ทำตามขั้นตอนในข้อมูลโค้ดหรือปรับปรุงตามที่แอปพลิเคชันของคุณต้องการสำหรับการอ่านไฟล์ภาษาการรายงานทางธุรกิจที่ขยายได้ XBRL ตรวจสอบให้แน่ใจว่ามีข้อกำหนดในการอ่านในใบสมัครของคุณ
 
-1. สร้าง [ระดับเอกสาร xbrldocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) อินสแตนซ์1. ส่งชื่อไฟล์ XBRL ที่ถูกต้องเป็นพารามิเตอร์1. เพื่อให้ได้รายละเอียดภายในของไฟล์ให้ใช้คลาสที่เกี่ยวข้องเช่น [Schemarefcollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection),, [บริบท](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context),, [หน่วย](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+1. สร้าง [XbrlDocument class](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) ตัวอย่าง.1. ส่งชื่อไฟล์ XBRL ที่ถูกต้องเป็นพารามิเตอร์1. เพื่อให้ได้รายละเอียดภายในของไฟล์ ให้ใช้คลาสที่เกี่ยวข้องเช่น [สคีมาRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [บริบท](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [หน่วย](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="ความต้องการในการอ่าน" %}}
-XBRL เอกสาร .NET Finance API เป็นข้อกำหนดหลักที่จะรวมอยู่ในใบสมัคร 
-- ติดตั้งผ่านบรรทัดคำสั่งเป็น '''nuget ติดตั้ง Aspose.Finance'''หรือผ่านทางคอนโซลผู้จัดการแพคเกจของ Visual Studio กับ'' 'install-Package Aspose.Finance'''
-- หรือรับการติดตั้ง MSI แบบออฟไลน์หรือ dlls ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดในการอ่าน" %}}
+หากต้องการอ่านเอกสาร XBRL ต่อ .NET Finance API เป็นข้อกำหนดหลักที่จะรวมไว้ในใบสมัคร 
+- ติดตั้งผ่านบรรทัดคำสั่งเป็น ``` ติดตั้ง nuget Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
+- หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# รหัสเพื่ออ่าน XBRL ไฟล์" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# รหัสสำหรับอ่าน XBRL ไฟล์" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-xbrl-file.cs" >}}
 
@@ -38,7 +38,7 @@ XBRL เอกสาร .NET Finance API เป็นข้อกำหนดห
 
 {{< blocks/products/pf/agp/other-supported-section title="ตัวเลือกการอ่านอื่นๆ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="ภาษารายงานธุรกิจแบบอินไลน์ Extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="ภาษาการรายงานธุรกิจที่ขยายได้แบบอินไลน์" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

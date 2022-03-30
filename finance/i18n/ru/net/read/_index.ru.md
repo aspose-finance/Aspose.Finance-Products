@@ -1,21 +1,21 @@
 ﻿---
-title: Читать финансовые отчеты через .NET
+title: Читайте финансовые отчеты через .NET
 url: /ru/net/read/
-description:  Код C# для чтения финансовых отчетов в XBRL и iXBRL файлах через библиотеку .NET.
+description:  Код C# для чтения финансовых отчетов в файлах XBRL и iXBRL через библиотеку .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Читать файлы финансовой отчетности через C#" h2="Чтение форматов финансовых отчетов, включая XBRL и iXBRL в приложениях на основе .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Чтение файлов финансовой отчетности через C#" h2="Чтение форматов финансовых отчетов, включая XBRL и iXBRL, в приложениях на основе .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) -Это многофункциональный, расширяемый и простой в использовании процесс обработки финансовых отчетов API. Разработчики могут легко загружать, просматривать или создавать форматы XBRL и iXBRL для бизнес-и финансовых решений. API обеспечивает [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Класс и  [ИнлинеXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Класс для загрузки действительных файлов XBRL и iXBRL.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) представляет собой многофункциональную, расширяемую и простую в использовании программу обработки финансовых отчетов API. Разработчики могут легко загружать, просматривать или создавать форматы XBRL и iXBRL для деловых и финансовых решений. API обеспечивает [XbrlДокумент](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) класс и  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) класс для загрузки действительных файлов XBRL и iXBRL.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="Читать документ XBRL" %}}
+{{% blocks/products/pf/feature-page-section h2="Прочитать XBRL документ" %}}
 
-Чтение XBRL файла необходимо для загрузки существующего файла для просмотра и анализа. Чтобы прочитать документы XBLR, API предоставляет класс XbrlDocument, как упоминалось выше, с допустимым файлом XBRL в качестве входных параметров. Используйте другие классы API, разработчики могут легко анализировать его structur и данные. Немногие из классов [Коллекция SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Контекст](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Блок](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
+Чтение файла XBRL необходимо для загрузки существующего файла для просмотра и анализа. Для чтения документов XBLR API предоставляет класс XbrlDocument, как указано в абзаце выше, с допустимым файлом XBRL в качестве входных параметров. Используйте другие классы API, разработчики могут легко анализировать его структуру и данные. Немногие из классов [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Контекст](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Единица измерения](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
-{{% blocks/products/pf/feature-page-code h3="Код C# для прочтения XBRL файла" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Код для чтения файла XBRL" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-xbrl-file.cs" >}} 
 
@@ -23,11 +23,11 @@ description:  Код C# для чтения финансовых отчетов 
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="Читать документ iXBRL" %}}
+{{% blocks/products/pf/feature-page-section h2="Прочитать iXBRL документ" %}}
 
-Как упоминалось выше, когда необходимо просматривать, анализировать или редактировать существующие данные, необходимо прочитать файл iXBRL. Чтобы прочитать его, API предоставляет класс InlineXbrlDocument, имеющий в качестве параметра допустимый файл iXBRL. Программисты могут использовать такие классы, как [ИнлайнФакт](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Контекст](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Блок](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) Просмотр его данных и структуры. 
+Как упоминалось выше, при необходимости просмотра, анализа или редактирования существующих данных необходимо прочитать файл iXBRL. Чтобы прочитать его, API предоставляет класс InlineXbrlDocument с допустимым файлом iXBRL в качестве параметра. Программисты могут использовать такие классы, как [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Контекст](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Единица измерения](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) просмотр его данных и структуры. 
 
-{{% blocks/products/pf/feature-page-code h3="Код C# для прочтения документа iXBRL" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Код для чтения iXBRL документа" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-ixbrl-file.cs" >}}
 

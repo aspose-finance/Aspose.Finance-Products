@@ -1,6 +1,6 @@
 ﻿---
-title: Olvassa el a XBRL fájlt C#-en keresztül
-description: Minta kód XBRL fájl olvasása. API példakóddal olvassa a .NET alapú alkalmazásokon belül a batch XBRL fájlokat. 
+title: "XBRL Fájl olvasása a következőn keresztül: C#"
+description: Mintakód a(z) XBRL fájl olvasásához. Használjon API példakódot XBRL fájlok kötegelt olvasásához a .NET alapú alkalmazásokban. 
 url: /hu/net/read/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="XBRL fájlok olvasása C#-en keresztül" h2="A pénzügyi jelentések XBRL formátumban való olvasása a microsoft office telepített vagy más szoftver nélkül." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="XBRL fájlok olvasása a következőn keresztül: C#" h2="Pénzügyi jelentések olvasása XBRL formátumban a Microsoft Office vagy bármilyen más szoftver telepítése nélkül." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Hogyan olvashatunk XBRL fájlokat" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XBRL-fájlok olvasása" %}}
 
-Kövesse a kódrészlet lépéseit, vagy fokozza az alkalmazása igényeinek megfelelően a bővíthető üzleti jelentési nyelv XBRL fájlok olvasásához. Győződjön meg róla, hogy az olvasási követelmények az ön alkalmazásán belül.
+Kövesse a kódrészlet lépéseit, vagy javítsa azt az alkalmazás igényei szerint a bővíthető üzleti jelentési nyelvű XBRL fájlok olvasásához. Győződjön meg arról, hogy az alkalmazásban olvasási követelmények vannak.
 
-1. Create [Xbrldocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Példány.1. Adja át egy érvényes XBRL fájl nevét paraméterként.1. A fájl belső részleteinek megszerzéséhez használja a vonatkozó osztályokat, mint pl. [Schemarefcollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Kontextus](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Egység](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+1. Teremt [XbrlDocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Példa.1. Adja meg egy érvényes XBRL fájl nevét paraméterként.1. A fájl belső részleteinek megtekintéséhez használja a megfelelő osztályokat, mint pl [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Kontextus](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Mértékegység](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Olvasási követelmény" %}}
-A XBRL dokumentumok olvasásának folytatásához a .NET Finance API a fő követelmény, amelyet be kell venni az alkalmazásba. 
-- Telepítse a parancssoron keresztül, mint "" nuget install Aspose.Finance "", vagy a visual studio csomagkezelő konzolján keresztül a "" install-package Aspose.Finance "".
-- Alternatív módon, kap az offline msi telepítő vagy dll egy zip fájlt a [Letöltések](https://downloads.aspose.com/finance/net)A "", a "" ", a" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "".{{% /blocks/products/pf/agp/feature-section-col %}}
+A(z) XBRL dokumentum elolvasásához a(z) .NET Finance API fő követelmény, amelyet az alkalmazásba kell foglalni. 
+- Telepítse parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
+- Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kód XBRL fájlok olvasásához" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kód XBRL fájl olvasásához" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-xbrl-file.cs" >}}
 
@@ -38,7 +38,7 @@ A XBRL dokumentumok olvasásának folytatásához a .NET Finance API a fő köve
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb olvasási lehetőségek" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="Inline kiterjeszthető üzleti jelentési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="Beépített bővíthető üzleti jelentési nyelv" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

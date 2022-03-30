@@ -1,48 +1,48 @@
 ﻿---
-title: C# .NET API cho Tài Chính Kỹ Thuật Số Báo Cáo Hệ Thống- Aspose 
+title: C# .NET API cho Hệ thống Báo cáo Kỹ thuật số Tài chính - Aspose 
 weight: 20
 url: /vi/net/ 
-description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo Tài chính để mở rộng Kinh Doanh báo cáo Ngôn Ngữ XBRL và iXBRL cho Phân Tích để tạo ra XBRL taxonomies và báo cáo
+description: Thư viện C# ASP .NET VB .NET để chuyển đổi báo cáo tài chính sang Ngôn ngữ báo cáo kinh doanh eXtensible XBRL và iXBRL để phân tích nhằm tạo XBRL phân loại và báo cáo
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET thư viện để Parse Finance Tài Liệu" h2="Tạo ra, đọc và Xác Nhận XBRL và iXBRL Finance-Liên Quan Các Định Dạng trong bất kỳ Quy Trình Kinh Doanh quản Lý, tài Chính Phân Tích và Báo Cáo Phần Mềm." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Tài liệu .NET Thư viện để phân tích cú pháp Finance" h2="Tạo, Đọc và Xác thực XBRL và iXBRL Finance Định dạng Liên quan trong bất kỳ Phần mềm Báo cáo, Phân tích Tài chính và Quản lý Quy trình Kinh doanh nào." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET là một linh hoạt thư viện cho Tài Chính liên quan đến định dạng chế biến. API có thể dễ dàng tạo ra, đọc, và xác nhận mở rộng Kinh Doanh Báo Cáo Ngôn Ngữ XBRL và iXBRL các định dạng cũng như tạo ra OFX yêu cầu và Phản Ứng tập tin trong các định dạng khác nhau. Các nhà phát triển có thể phát triển XBRL kích hoạt phần mềm với một cách dễ dàng hoặc có thể sử dụng trong bất kỳ hiện tại kỹ thuật số báo cáo tài chính hệ thống để tạo ra báo cáo với XBRL. Nó là một mở rộng, dễ dàng để sử dụng và độc lập API độc lập của bất kỳ phần mềm khác.</p>
+<p align="justify"> Aspose.Finance for .NET là một thư viện linh hoạt để xử lý các định dạng liên quan đến tài chính. API có thể dễ dàng tạo, đọc và xác thực các định dạng XBRL và iXBRL ngôn ngữ báo cáo kinh doanh eXtensible cũng như tạo OFX các tệp Yêu cầu và Phản hồi ở các định dạng khác nhau. Các nhà phát triển có thể dễ dàng phát triển XBRL phần mềm hỗ trợ hoặc có thể sử dụng trong bất kỳ hệ thống báo cáo tài chính kỹ thuật số hiện có nào để tạo báo cáo với XBRL. Nó là một phần mềm có thể mở rộng, dễ sử dụng và độc lập API độc lập với bất kỳ phần mềm nào khác.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Trong Nháy Mắt" description="Một cái nhìn tổng quan của Aspose.Finance for .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="Sơ lược" description="Tổng quan về Aspose.Finance for .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Các Tính Năng chính
+    Những đặc điểm chính
    </header>
    <ul>
     <li>
-     Tạo ra XBRL Ví dụ
+     Tạo phiên bản XBRL
     </li>
     <li>
-     Đọc XBRL định dạng
+     Đọc định dạng XBRL
     </li>
     <li>
-     Đọc iXBRL định dạng
+     Đọc định dạng iXBRL
     </li>
     <li>
-     XBRL xác nhận
+     Xác thực XBRL
     </li>
     <li>
-     iXBRL xác nhận
+     Xác thực iXBRL
     </li>
    </ul>
   </div>
@@ -67,7 +67,7 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Nền tảng Độc Lập" description="Aspose.Finance for .NET hỗ trợ tất cả các nền tảng bao gồm." >}}
+{{< blocks/products/pf/carousel-item h3="Nền tảng độc lập" description="Aspose.Finance for .NET hỗ trợ tất cả các nền tảng chính bao gồm." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -93,17 +93,17 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET khung
+    .NET Khung
    </header>
    <ul>
     <li>
-     ASP.NET Ứng Dụng
+     Ứng dụng ASP .NET
     </li>
     <li>
-     Windows Ứng Dụng
+     Ứng dụng Windows
     </li>
     <li>
-     Dịch Vụ Web
+     Dịch vụ web
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Hỗ trợ Các Định Dạng Tập Tin" description="Aspose.Finance for .NET hỗ trợ Tài Chính liên quan đến các định dạng." >}}
+{{< blocks/products/pf/carousel-item h3="Các định dạng tệp được hỗ trợ" description="Aspose.Finance for .NET hỗ trợ các định dạng liên quan đến tài chính." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Đầu vào/Đầu Ra
+    Đầu ra đầu vào
    </header>
    <ul>
     <li>
@@ -149,13 +149,13 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
      OFX
     </li>
     <li>
-     OFX phiên bản 1
+     OFX Phiên bản 1
     </li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header><i class="fa  fa-mail-forward"> </i> Đầu ra Chỉ</header>
+   <header><i class="fa  fa-mail-forward"> </i> Chỉ đầu ra</header>
 
 <ul>
 
@@ -174,7 +174,7 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
   <footer>
    <small>
     <em>
-     Cho
+     vì
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Tiên tiến .NET Finance Phân Tích Cú Pháp API Các Tính Năng
+    Tính năng .NET Finance phân tích cú pháp API nâng cao
    </h2>
    <p>
    </p>
@@ -203,49 +203,49 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo ra XBRL Ví dụ từ đầu
+     Tạo phiên bản XBRL từ đầu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Đọc XBRL và iXBRL Các Định Dạng
+     Đọc XBRL và iXBRL Định dạng
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Xác nhận XBRL và iXBRL
+     Xác thực XBRL và iXBRL
     </p>
    </div>
  <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi XBRL để iXBRL
+     Chuyển đổi XBRL thành iXBRL
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi XBRL để XLSX
+     Chuyển đổi XBRL sang XLSX
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo ra OFX Yêu Cầu Tập Tin
+     Tạo OFX Tệp Yêu cầu
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Tạo ra OFX Đáp Ứng Tập Tin
+     Tạo OFX Tệp phản hồi
     </p>
    </div>
 
@@ -253,14 +253,14 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi OFX Yêu Cầu Tập Tin từ 1.03-2.2 định dạng
+     Chuyển đổi OFX Tệp Yêu cầu từ định dạng 1.03 sang 2.2
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Chuyển đổi OFX Đáp Ứng Tập Tin từ 1.03-2.2 định dạng
+     Chuyển đổi OFX Tệp phản hồi từ định dạng 1.03 sang 2.2
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -300,28 +300,28 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Tạo ra XBRL Ví Dụ Tài Liệu
+     Tạo XBRL tài liệu phiên bản
     </h2>
     <p>
-     Aspose.Finance for .NET hỗ trợ tạo XBRL tài liệu. Với những điều sau đây chỉ cần vài dòng của mã để tạo ra một mới XBRL Ví dụ tài liệu
+     Aspose.Finance for .NET hỗ trợ tạo XBRL tài liệu. Chỉ với vài dòng mã sau đây để tạo tài liệu phiên bản XBRL mới
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Tạo ra XBRL Ví Dụ- C#
+      Tạo XBRL Phiên bản - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Đọc iXBRL Tập Tin
+     Đọc tệp iXBRL
     </h2>
     <p>
-     Đọc Sách Inline mở rộng Kinh Doanh Báo Cáo Ngôn Ngữ iXBRL Ví dụ tài liệu cũng được hỗ trợ.
+     Đọc tài liệu bản sao Ngôn ngữ báo cáo kinh doanh trực tuyến eXtensible iXBRL cũng được hỗ trợ.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Đọc iXBRL Ví dụ tài liệu- C#
+      Đọc iXBRL tài liệu mẫu - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -342,22 +342,22 @@ description: C# ASP.NET VB.NET thư viện cho chuyển đổi của Báo Cáo T
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Học Tập Tài Nguyên" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API tài liệu tham khảo" href="https://apireference.aspose.com/finance/net" >}}
-{{< blocks/products/pf/slr-element name="Hướng dẫn Video" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Tài liệu tham khảo" href="https://apireference.aspose.com/finance/net" >}}
+{{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Sản phẩm Hỗ Trợ" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ Trợ miễn phí" href="https://forum.aspose.com/c/finance" >}}
-{{< blocks/products/pf/slr-element name="Thanh toán Hỗ Trợ" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/finance" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/finance/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Tại sao Aspose.Finance for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Khách hàng Danh Sách" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Câu Chuyện Thành Công" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Tại sao lại là Aspose.Finance for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}

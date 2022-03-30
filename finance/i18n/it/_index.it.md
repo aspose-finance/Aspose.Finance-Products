@@ -1,30 +1,30 @@
 ﻿---
-title: Finance soluzioni-API per il software correlato XBRL e iXBRL 
+title: "Finance Soluzioni: API per XBRL e iXBRL software correlato "
 weight: 30
 url: /it/
-description: API con codice elevato e app gratuite per elaborare i formati XBRL e iXBRL del linguaggio di reporting aziendale eXtensible per creare bilanci consolidati e altro ancora
+description: API High Code e app gratuite per elaborare formati di reportistica aziendale estensibile XBRL e iXBRL per creare rendiconti finanziari consolidati e altro ancora
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Soluzione finanziaria digitale" h2="API on-premise e app gratuite per soluzioni di reporting finanziario digitale, XBRL bilanci e altro ancora senza alcuna dipendenza da altri software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-brand.svg" imageAlt="Aspose.Finance soluzione del prodotto" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Soluzione finanziaria digitale" h2="API on-premise e app gratuite per soluzioni di rendicontazione finanziaria digitale, rendiconti finanziari XBRL e altro senza alcuna dipendenza da altri software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-brand.svg" imageAlt="Aspose.Finance Soluzione del prodotto" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Finance API con codice elevato includono" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Finance Le API High Code includono" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Finance for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="https://products.aspose.com/finance/net" >}}
-API con codice elevato per l'elaborazione del formato XBRL e iXBRL in Windows Form, ASP.NET utilizzando .NET Framework e Mono.
+API High Code per l'elaborazione dei formati XBRL e iXBRL in Windows Forms, ASP.NET utilizzando .NET Framework e in Mono.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Visualizza tutte le API con codice elevato" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Visualizza tutte le API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/i18n/testimonials title="Cosa dice la gente" subTitle="Non crederci sulla parola. Scopri cosa dicono gli utenti su Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/i18n/testimonials title="Cosa dicono le persone" subTitle="Non crederci sulla parola. Scopri cosa hanno da dire gli utenti su Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
- Utilizziamo Aspose da un po 'di tempo e non abbiamo eseguito un singolo bug correlato a Aspose.
+ Utilizziamo Aspose da un po' di tempo ormai e non abbiamo riscontrato un singolo bug relativo a Aspose. .
  <em>
   Jac Goorden | Bicore, Paesi Bassi
  </em>
@@ -36,7 +36,7 @@ API con codice elevato per l'elaborazione del formato XBRL e iXBRL in Windows Fo
 <p class="second">
  Aspose.Total funziona alla grande quando abbiamo file e documenti di grandi dimensioni su cui lavorare.
  <em>
-  Miniutensile®Software Ltd., Canada
+  MiniTool® Software Ltd., Canada
  </em>
 </p>
 

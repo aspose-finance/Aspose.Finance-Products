@@ -1,6 +1,6 @@
 ﻿---
 title: قراءة iXBRL ملف عبر C#
-description: رمز عينة لقراءة الملفات iXBRL. استخدم API كود سبيل المثال لقراءة ملفات دفعة iXBRL داخل .NET تطبيقات قائمة. 
+description: نموذج رمز لقراءة ملف iXBRL. استخدم API مثال التعليمات البرمجية لقراءة ملفات الدُفعات iXBRL داخل التطبيقات المستندة إلى .NET. 
 url: /ar/net/read/ixbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="قراءة iXBRL من الملفات عبر C#" h2="قراءة التقارير المالية بتنسيق iXBRL دون الحاجة إلى تثبيت Microsoft Office أو أي برامج أخرى." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="قراءة iXBRL الملفات عبر C#" h2="قراءة التقارير المالية بتنسيق iXBRL دون الحاجة إلى تثبيت Microsoft Office أو أي برامج أخرى." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="كيفية قراءة ملفات iXBRL" %}}
+{{% blocks/products/pf/agp/feature-section-col title="كيف تقرأ ملفات iXBRL" %}}
 
-اتبع الخطوات الواردة في مقتطف التعليمات البرمجية أو قم بتعزيزها وفقًا لاحتياجات التطبيق الخاصة بك لقراءة مستندات لغة الإبلاغ التجارية القابلة للتوسيع iXBRL. تأكد من وجود متطلبات القراءة داخل التطبيق الخاص بك.
+اتبع الخطوات الموجودة في مقتطف الشفرة أو قم بتحسينه وفقًا لاحتياجات التطبيق لقراءة مستندات لغة إعداد التقارير التجارية الموسعة iXBRL. تأكد من وجود متطلبات القراءة في التطبيق الخاص بك.
 
-1. إنشاء [فئة InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) المثبت.1. مرر اسم ملف iXBRL صالح كمعلمة.1. للحصول على التفاصيل الداخلية للملف ، استخدم الفئات ذات الصلة مثل [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact)، [السياق](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context)، [الوحدة](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+1. خلق [فئة InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) نموذج.1. قم بتمرير اسم ملف iXBRL صالح كمعامل.1. للحصول على التفاصيل الداخلية للملف ، استخدم الفئات ذات الصلة مثل [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact)و [سياق الكلام](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context)و [وحدة](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات القراءة" %}}
-للمضي قدمًا في قراءة مستندات iXBRL ، فإن .NET Finance API هو الشرط الرئيسي الذي يجب تضمينه في التطبيق. 
-- قم بتثبيته عبر سطر الأوامر على أنه ''nuget install Aspose.Finance'' أو عبر Package Manager Console of Visual Studio مع '''' تثبيت-حزمة Aspose.Finance''.
-- بدلاً من ذلك ، احصل على مثبت MSI أو DLLs غير المتصل بالإنترنت في ملف ZIP من [التنزيلات](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+لمتابعة قراءة مستندات iXBRL ، فإن .NET Finance API هو المطلب الرئيسي الذي يجب تضمينه في التطبيق. 
+- قم بتثبيته عبر سطر الأوامر كـ `` nuget install Aspose.Finance "" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
+- بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# كود لقراءة ملفات iXBRL" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# رمز لقراءة iXBRL من الملفات" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-ixbrl-file.cs" >}}
 
@@ -38,7 +38,7 @@ otherformats:
 
 {{< blocks/products/pf/agp/other-supported-section title="خيارات القراءة الأخرى" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/xbrl/" name="XBRL" description="لغة الإبلاغ عن الأعمال القابلة للتمديد" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/xbrl/" name="XBRL" description="لغة تقارير الأعمال الموسعة" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

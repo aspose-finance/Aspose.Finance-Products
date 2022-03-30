@@ -1,6 +1,6 @@
 ﻿---
 title: Δημιουργία αρχείου XBRL μέσω C#
-description: Κωδικός δείγματος για τη δημιουργία αρχείου XBRL. Χρησιμοποιήστε τον κωδικό API παράδειγμα για τη δημιουργία αρχείων παρτίδας XBRL μέσα στις εφαρμογές που βασίζονται σε .NET. 
+description: Δείγμα κώδικα για τη δημιουργία αρχείου XBRL. Χρησιμοποιήστε API παράδειγμα κώδικα για τη δημιουργία ομαδικών αρχείων XBRL εντός εφαρμογών που βασίζονται σε .NET. 
 url: /el/net/create/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Δημιουργία XBRL αρχείων μέσω C#" h2="XBRL δημιουργία αρχείων χωρίς να χρειάζεται το Microsoft Office εγκατεστημένο ή οποιοδήποτε άλλο λογισμικό." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Δημιουργία XBRL αρχείων μέσω C#" h2="Δημιουργία αρχείων XBRL χωρίς να απαιτείται εγκατάσταση του Microsoft Office ή άλλου λογισμικού." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Πώς να δημιουργήσετε XBRL αρχεία" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Πώς να δημιουργήσετε αρχεία XBRL" %}}
 
-Ακολουθήστε τα βήματα σε κωδικό αποσπάσματος ή ενισχύστε το ως από τις ανάγκες της εφαρμογής σας για τη δημιουργία επεκτάσιμης επιχείρησης αναφοράς γλώσσα XBRL αρχεία .. Βεβαιωθείτε ότι έχετε απαιτήσεις δημιουργίας μέσα στην εφαρμογή σας.
+Ακολουθήστε τα βήματα στο απόσπασμα κώδικα ή βελτιώστε το σύμφωνα με τις ανάγκες της εφαρμογής σας για τη δημιουργία επεκτάσιμων αρχείων γλώσσας αναφοράς επιχειρήσεων XBRL. Βεβαιωθείτε ότι έχετε απαιτήσεις δημιουργίας στην αίτησή σας.
 
-1. Δημιουργία δημιουργίας [Κλάση Document Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Πράγματι.1. Για τη δημιουργία ενός νέου εγγράφου XBRL [Συλλογή XbrlInstanceComment](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) Και, [XbrlInstansName](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. Προσθήκη αναφοράς σχήματος με χρήση του σχήματος [Συλλογή SchemaRefComment](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Ανάλογα με την εφαρμογή φύση προσθέστε το πλαίσιο, μονάδα, στοιχείο, υποσημείωση σύνδεσμο και πολλά άλλα.1. Τηλεφώνησε. [Αποθήκευση μέθοδος](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) Με την παροχή της διαδρομής του αρχείου-στόχου.
+1. Δημιουργώ [Κλάση XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Παράδειγμα.1. Για να δημιουργήσετε ένα νέο έγγραφο παρουσίασης XBRL [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) και [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. Προσθήκη αναφοράς σχήματος χρησιμοποιώντας [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Ανάλογα με τη φύση της εφαρμογής, προσθέστε περιεχόμενο, ενότητα, στοιχείο, σύνδεσμο υποσημείωσης και άλλα.1. Καλέστε το [Μέθοδος αποθήκευσης](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) παρέχοντας τη διαδρομή αρχείου προορισμού.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαίτηση δημιουργίας" %}}
-Για να προχωρήσουμε για τη δημιουργία XBRL εγγράφων, το .NET Finance API είναι η κύρια απαίτηση που πρέπει να συμπεριληφθεί στην αίτηση. 
-- Εγκαταστήστε το μέσω της γραμμής εντολών ως '''nuget install Aspose.Finance''' ή μέσω κονσόλα πακέτων του Visual Studio με '' 'Εγκατάσταση-Πακέτο Aspose.Finance'''.
-- Εναλλακτικά, πάρτε το εκτός σύνδεσης MSI εγκαταστάτης ή DLLs σε ένα αρχείο ZIP από [Λήψεις](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+Για να προχωρήσετε στη δημιουργία εγγράφων XBRL, το .NET Finance API είναι η κύρια απαίτηση που πρέπει να συμπεριληφθεί στην εφαρμογή. 
+- Εγκαταστήστε το μέσω γραμμής εντολών ως ```nuget install Aspose.Finance``` ή μέσω της Κονσόλας Package Manager του Visual Studio με το ```Install-Package Aspose.Finance```.
+- Εναλλακτικά, αποκτήστε το πρόγραμμα εγκατάστασης MSI εκτός σύνδεσης ή τα DLL σε ένα αρχείο ZIP από [λήψεις](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# κωδικός για τη δημιουργία αρχείων XBRL" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Κωδικός C# για δημιουργία XBRL αρχείων" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-xbrl-file-and-add-schema-reference.cs" >}}
 
@@ -38,9 +38,9 @@ otherformats:
 
 {{< blocks/products/pf/agp/other-supported-section title="Άλλες επιλογές δημιουργίας" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX Αίτηση" description="1.03 ή 2.2 Μορφή" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX Αίτημα" description="Μορφή 1.03 ή 2.2" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-response/" name="OFX Απάντηση" description="1.03 ή 2.2 Μορφή" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-response/" name="OFX Απάντηση" description="Μορφή 1.03 ή 2.2" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

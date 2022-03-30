@@ -1,48 +1,48 @@
 ﻿---
-title: C# .NET API для систем цифровой финансовой отчетности- Aspose 
+title: C# .NET API для систем финансовой цифровой отчетности – Aspose 
 weight: 20
 url: /ru/net/ 
-description: C# Библиотека ASP.NET VB.NET для преобразования финансовой отчетности в расширяемый язык деловой отчетности XBRL и iXBRL для анализа для создания XBRL таксономий и отчетов
+description: Библиотека C# ASP.NET VB.NET для преобразования финансовых отчетов в формат eXtensible Business Reporting Language XBRL и iXBRL для анализа с целью создания XBRL таксономий и отчетов
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Библиотека в разбиение Finance документов" h2="Создание, чтение и проверка форматов XBRL и iXBRL Finance в рамках любого программного обеспечения для управления бизнес-процессами, финансового анализа и отчетности." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Библиотека для анализа Finance документов" h2="Создавайте, читайте и проверяйте XBRL и iXBRL Finance-связанные форматы в любом программном обеспечении для управления бизнес-процессами, финансового анализа и отчетности." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET-это гибкая библиотека для обработки форматов, связанных с финансами. API может легко создавать, читать и проверять форматы форматов XBRL и iXBRL форматов бизнес-отчетов, а также создавать файлы запросов и ответов OFX в различных форматах. Разработчики могут легко разрабатывать программное обеспечение с поддержкой XBRL или использовать в любой существующей системе цифровой финансовой отчетности для создания отчетов с помощью XBRL. Это расширяемый, простой в использовании и автономный API независимо от любого другого программного обеспечения.</p>
+<p align="justify"> Aspose.Finance for .NET – это гибкая библиотека для обработки форматов, связанных с финансами. API может легко создавать, читать и проверять форматы eXtensible Business Reporting Language XBRL и iXBRL, а также создавать OFX файлы запросов и ответов в различных форматах. Разработчики могут с легкостью разрабатывать программное обеспечение с поддержкой XBRL или использовать его в любой существующей системе цифровой финансовой отчетности для создания отчетов с помощью XBRL. Это расширяемое, простое в использовании и автономное API независимое от любого другого программного обеспечения.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Краткий обзор" description="Обзор Aspose.Finance for .NET API." >}}
+{{< blocks/products/pf/carousel-item h3="С одного взгляда" description="Обзор Aspose.Finance for .NET API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-cogs">
     </i>
-    Основные особенности
+    Основные характеристики
    </header>
    <ul>
     <li>
      Создать экземпляр XBRL
     </li>
     <li>
-     Прочитать формат XBRL
+     Чтение формата XBRL
     </li>
     <li>
-     Прочитать формат iXBRL
+     Чтение формата iXBRL
     </li>
     <li>
-     Проверка XBRL
+     XBRL проверка
     </li>
     <li>
-     Проверка iXBRL
+     iXBRL проверка
     </li>
    </ul>
   </div>
@@ -67,7 +67,7 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
   <footer>
    <small>
     <em>
-     Для
+     для
     </em>
     .NET
    </small>
@@ -78,7 +78,7 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость платформы" description="Aspose.Finance for .NET поддерживает все основные платформы, включая." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Finance for .NET поддерживает все основные платформы, в том числе." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -93,17 +93,17 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Framework
+    .NET Платформа
    </header>
    <ul>
     <li>
      Приложение ASP.NET
     </li>
     <li>
-     Приложение Windows
+     Приложение для Windows
     </li>
     <li>
-     Веб-услуги
+     Веб-сервисы
     </li>
    </ul>
   </div>
@@ -118,7 +118,7 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
   <footer>
    <small>
     <em>
-     Для
+     для
     </em>
     .NET
    </small>
@@ -129,14 +129,14 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Finance for .NET поддерживает финансовые форматы." >}}
+{{< blocks/products/pf/carousel-item h3="Поддерживаемые форматы файлов" description="Aspose.Finance for .NET поддерживает форматы, связанные с финансами." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Вход/выход
+    Ввод, вывод
    </header>
    <ul>
     <li>
@@ -155,7 +155,7 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header><i class="fa  fa-mail-forward"> </i> Только выход</header>
+   <header><i class="fa  fa-mail-forward"> </i> Только вывод</header>
 
 <ul>
 
@@ -174,7 +174,7 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
   <footer>
    <small>
     <em>
-     Для
+     для
     </em>
     .NET
    </small>
@@ -195,7 +195,7 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Дополнительные возможности .NET Finance для разбора API
+    Расширенные функции .NET Finance анализа API
    </h2>
    <p>
    </p>
@@ -203,49 +203,49 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создайте экземпляр XBRL с нуля
+     Создать экземпляр XBRL с нуля
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-check ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Читать форматы XBRL и iXBRL
+     Чтение форматов XBRL и iXBRL
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Проверить XBRL и iXBRL
+     Подтвердить XBRL и iXBRL
     </p>
    </div>
  <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Конвертировать XBRL в iXBRL
+     Преобразовать XBRL в iXBRL
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Конвертировать XBRL в XLSX
+     Преобразовать XBRL в XLSX
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать файл запроса OFX
+     Создать OFX файл запроса
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создать файл ответа OFX
+     Создать файл ответов OFX
     </p>
    </div>
 
@@ -253,14 +253,14 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Конвертировать OFX файл запроса из формата 1,03 в 2,2
+     Преобразование файла запроса OFX из формата 1.03 в формат 2.2
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Конвертировать OFX Response File из формата 1,03 в 2,2
+     Преобразование файла ответов OFX из формата 1.03 в формат 2.2
     </p>
    </div>
    <!--<div class="col-lg-4"><em class="fa fa-shield ico-blue fa-2x col-lg-2"> </em>
@@ -300,28 +300,28 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
 </div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Создавайте документы экземпляра XBRL
+     Создать XBRL экземпляров документов
     </h2>
     <p>
-     Aspose.Finance for .NET поддерживает создание XBRL документов. При наличии следующих нескольких строк кода для создания нового документа экземпляра XBRL
+     Aspose.Finance for .NET поддерживает создание XBRL документов. С помощью следующих нескольких строк кода для создания нового экземпляра документа XBRL
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Создайте экземпляр XBRL- C#
+      Создать экземпляр XBRL – C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Читать файл iXBRL
+     Прочитать файл iXBRL
     </h2>
     <p>
-     Также поддерживается чтение документов экземпляра Inline eXtensible Business Reporting Language iXBRL.
+     Также поддерживается чтение экземпляров документов Inline eXtensible Business Reporting Language iXBRL.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Читать документы экземпляра iXBRL- C#
+      Чтение iXBRL документов экземпляра - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>
@@ -342,11 +342,11 @@ description: C# Библиотека ASP.NET VB.NET для преобразов�
 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Учебные ресурсы" tabId="resources" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API ссылки" href="https://apireference.aspose.com/finance/net" >}}
-{{< blocks/products/pf/slr-element name="Учебник Видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}

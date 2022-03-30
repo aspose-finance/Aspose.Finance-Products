@@ -1,6 +1,6 @@
 ﻿---
-title: Xác nhận iXBRL Tập Tin thông qua C#
-description: Mẫu mã cho iXBRL tập tin xác nhận. Sử dụng API Ví dụ mã để xác nhận hàng loạt iXBRL các tập tin trong vòng .NET các ứng dụng dựa trên. 
+title: Xác thực iXBRL Tệp qua C#
+description: Mã mẫu để xác thực tệp iXBRL. Sử dụng API mã mẫu để xác thực hàng loạt iXBRL tệp trong các ứng dụng dựa trên .NET. 
 url: /vi/net/validate/ixbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Xác nhận iXBRL Các Tập Tin thông qua C#" h2="Validating Tài Chính báo cáo trong iXBRL định dạng mà không cần phải Microsoft Văn Phòng được cài đặt hoặc bất kỳ phần mềm khác." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Xác thực iXBRL Tệp qua C#" h2="Xác thực các báo cáo tài chính ở định dạng iXBRL mà không cần cài đặt Microsoft Office hoặc bất kỳ phần mềm nào khác." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Làm thế nào để Xác Nhận iXBRL Các Tập Tin" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cách xác thực iXBRL tệp" %}}
 
-Thực hiện theo các bước trong mã snippet hoặc tăng cường nó như là của ứng dụng của bạn nhu cầu cho validating mở rộng kinh doanh báo cáo ngôn ngữ iXBRL tài liệu. Hãy chắc chắn của việc có validating yêu cầu trong vòng ứng dụng của bạn.
+Thực hiện theo các bước trong đoạn mã hoặc nâng cao đoạn mã khi ứng dụng của bạn cần để xác thực tài liệu iXBRL ngôn ngữ báo cáo kinh doanh có thể mở rộng. Đảm bảo có các yêu cầu xác thực trong ứng dụng của bạn.
 
-1. Tải iXBRL tập tin sử dụng [InlineXbrlDocument lớp](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Ví dụ.1. Để kiểm tra hiệu lực của các nạp tập tin, vì vậy mà nó phải phù hợp với [iXBRL đặc điểm kỹ thuật](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Sử dụng [XÁC NHẬN ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) Phương pháp cho tập tin hiệu lực.
+1. Tải tệp iXBRL bằng [Lớp InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Ví dụ.1. Để kiểm tra tính hợp lệ của tệp đã tải, để tệp phải khớp với [Đặc điểm kỹ thuật iXBRL](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Sử dụng [Xác thực ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) phương pháp cho tính hợp lệ của tệp.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Xác nhận Yêu Cầu" %}}
-Để tiến hành cho validating iXBRL tài liệu, .NET Finance API là chính yêu cầu để được bao gồm trong ứng dụng. 
-- Cài đặt nó thông qua dòng lệnh như '''nuget cài đặt Aspose.Finance'' 'hoặc thông qua Gói Quản Lý Giao Diện Điều Khiển của Visual Studio với '''Install-Gói Aspose.Finance' ''.
-- Ngoài ra, có được các ẩn MSI cài đặt hoặc DLL trong một ZIP tập tin từ [Tải](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Yêu cầu xác thực" %}}
+Để tiếp tục xác thực iXBRL tài liệu, .NET Finance API là yêu cầu chính cần có trong ứng dụng. 
+- Cài đặt nó thông qua dòng lệnh là `` nuget install Aspose.Finance '' hoặc thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Finance ''.
+- Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# mã để xác nhận iXBRL các tập tin" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# mã để xác thực iXBRL tệp" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "1272da1f804f8cef122600269db09fbb" "validate-ixbrl-file.cs" >}}
 
@@ -36,9 +36,9 @@ Thực hiện theo các bước trong mã snippet hoặc tăng cường nó như
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
-{{< blocks/products/pf/agp/other-supported-section title="Khác Validating Tùy Chọn" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Các tùy chọn xác thực khác" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/xbrl/" name="XBRL" description="Mở rộng Kinh Doanh Báo Cáo Ngôn Ngữ" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/xbrl/" name="XBRL" description="Ngôn ngữ Báo cáo Kinh doanh Có thể Mở rộng" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

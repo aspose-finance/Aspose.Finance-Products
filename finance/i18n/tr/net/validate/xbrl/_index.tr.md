@@ -1,6 +1,6 @@
 ﻿---
-title: C# aracılığıyla XBRL Dosyasını Doğrulayın
-description: XBRL dosya doğrulama için örnek kod. .NET tabanlı uygulamalarda toplu XBRL dosyalarını doğrulamak için API örnek kodu kullanın. 
+title: XBRL Dosyasını C# aracılığıyla doğrulayın
+description: XBRL dosya doğrulaması için örnek kod. .NET tabanlı uygulamalarda toplu XBRL dosyalarını doğrulamak için API örnek kodunu kullanın. 
 url: /tr/net/validate/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# aracılığıyla XBRL Dosyaları Doğrulayın" h2="Finansal raporları, Microsoft Office\'in yüklü veya başka bir yazılıma ihtiyaç duymadan XBRL biçiminde doğrulanması." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="XBRL Dosyayı C# aracılığıyla doğrulayın" h2="Microsoft Office\'in yüklü veya başka bir yazılıma ihtiyaç duymadan XBRL formatındaki mali raporları doğrulama." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XBRL Dosyaları Nasıl Doğrulanır" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XBRL Dosya Nasıl Doğrulanır" %}}
 
-Genişletilebilir iş raporlama dili XBRL belgelerini doğrulamak için uygulama ihtiyaçlarınız itibariyle kod parçacıkındaki adımları izleyin veya geliştirin. Başvurunuzda doğrulama gereksinimlerine sahip olduğunuzdan emin olun.
+Kod parçacığındaki adımları izleyin veya genişletilebilir işletme raporlama dili XBRL belgelerini doğrulamak için uygulama gereksinimlerinize göre geliştirin. Uygulamanızda doğrulama gereksinimleri olduğundan emin olun.
 
-1. Kullanarak XBRL dosyasını yükleyin [XbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Örnek.1. Yüklenen dosyanın geçerliliğini kontrol etmek için, böylece eşleşmesi gerekir [XBRL şartname](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Doğrulama kontrol etmek için kullanın [Doğrulama ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Yöntemi [XbrlÖrnek](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Sınıf.
+1. XBRL dosyasını kullanarak yükleyin [XbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Misal.1. Yüklenen dosyanın geçerliliğini kontrol etmek için, böylece eşleşmesi gerekir. [XBRL özelliği](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Geçerliliği kontrol etmek için şunu kullanın: [Doğrula()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) yöntemi [XbrlÖrneği](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) sınıf.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Doğrulama Gereksinimi" %}}
-XBRL belgelerini onaylamaya devam etmek için, .NET Finance API, uygulamaya dahil edilmesi gereken ana gerekliliktir. 
-- Komut satırı aracılığıyla ''nuget install Aspose.Finance'' olarak veya ''Install-Package Aspose.Finance'' ile Visual Studio Paket Yöneticisi Konsolu aracılığıyla yükleyin.
-- Alternatif olarak, bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DLL'leri alın [Indirmeler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+XBRL belgeyi doğrulamaya devam etmek için .NET Finance API, başvuruya dahil edilmesi gereken ana gereksinimdir. 
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="XBRL dosyalarını doğrulamak için C# kodu" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="XBRL dosyaları doğrulamak için C# kodu" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "1272da1f804f8cef122600269db09fbb" "validate-xbrl-instance-file.cs" >}}
 
@@ -38,7 +38,7 @@ XBRL belgelerini onaylamaya devam etmek için, .NET Finance API, uygulamaya dahi
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Doğrulama Seçenekleri" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/ixbrl/" name="XBRL" description="Satır içi Genişletilebilir İş Raporlama Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/ixbrl/" name="XBRL" description="Satır İçi Genişletilebilir İşletme Raporlama Dili" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

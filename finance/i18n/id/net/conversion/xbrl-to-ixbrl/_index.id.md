@@ -1,6 +1,6 @@
 ﻿---
-title: Mengkonversi XBRL untuk iXBRL via C#
-description: Kode sampel untuk XBRL hingga iXBRL C# konversi. Gunakan kode contoh API untuk file batch XBRL ke konversi iXBRL dalam aplikasi berbasis .NET. 
+title: Ubah XBRL menjadi iXBRL melalui C#
+description: Kode contoh untuk konversi XBRL ke iXBRL C#. Gunakan API kode contoh untuk file XBRL batch ke konversi iXBRL dalam aplikasi berbasis .NET. 
 url: /id/net/conversion/xbrl-to-ixbrl/
 family: finance
 platformtag: net
@@ -10,28 +10,28 @@ outformat: iXBRL
 otherformats: XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Mengkonversi XBRL untuk iXBRL via C#" h2="XBRL untuk iXBRL konversi tanpa memerlukan perangkat lunak lain dalam .NET berbasis aplikasi." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Ubah XBRL menjadi iXBRL melalui C#" h2="XBRL ke iXBRL konversi tanpa memerlukan perangkat lunak lain apa pun dalam aplikasi berbasis .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Adalah API untuk memproses XBRL, iXBRL format dan pengembang dapat dengan mudah membangun manajemen proses bisnis, analisis keuangan dan aplikasi perangkat lunak pelaporan untuk mengkonversi, membuat, membaca, lihat dan validasi XBRL dan iXBRL file terkait keuangan. 
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) adalah API untuk memproses XBRL, iXBRL format dan pengembang dapat dengan mudah membangun manajemen proses bisnis, analisis keuangan, dan aplikasi perangkat lunak pelaporan untuk mengonversi, membuat, membaca, melihat, dan memvalidasi XBRL dan iXBRL yang terkait dengan keuangan file. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Bagaimana mengkonversi XBRL untuk iXBRL" %}}
-1. Masukkan beban berkas XBRL menggunakan [Kelas xbrldokumen-dokumen](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument).2. Set [Pilihan hemat](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) Untuk berkas keluaran dengan memilih [SaveFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat).
-3. Hubungi [Metode Simpan](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/2) Dengan menyediakan file target dan opsi penyimpanan yang relevan sebagai parameter.
+{{% blocks/products/pf/agp/feature-section-col title="Cara Mengonversi XBRL ke iXBRL" %}}
+1. Muat masukan XBRL file menggunakan [Kelas dokumen Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument).2. Atur [SimpanOpsi](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) untuk file output dengan memilih [SimpanFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat).
+3. Hubungi [Simpan metode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/2) dengan menyediakan file target dan SaveOptions yang relevan sebagai parameter.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Persyaratan konversi" %}}
-Untuk melanjutkan konversi XBRL ke iXBRL, .NET Finance API adalah persyaratan utama. Instal melalui baris perintah sebagai "nuget instal Aspose.Finance" "atau melalui konsol manajer paket Studio Visual dengan" menginstal-paket Aspose.Finance ".
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
+Untuk melanjutkan konversi XBRL ke iXBRL, .NET Finance API adalah persyaratan utama. Instal melalui baris perintah sebagai ```nuget install Aspose.Finance``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Finance```.
 
-Atau, dapatkan pemasang MSI offline atau DLLs dalam file ZIP dari [Unduhan](https://downloads.aspose.com/finance/net).
+Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [unduhan](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kode sumber untuk mengonversi XBRL ke iXBRL file" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kode sumber untuk mengonversi berkas XBRL menjadi iXBRL" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-ixbrl.cs" >}}
 
@@ -41,13 +41,13 @@ Atau, dapatkan pemasang MSI offline atau DLLs dalam file ZIP dari [Unduhan](http
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
-{{< blocks/products/pf/agp/other-supported-section title="Opsi Konversi lainnya" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Opsi Konversi Lainnya" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL ke XLSX" description="Lembar bentang XML terbuka Microsoft Excel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL ke XLSX" description="Microsoft Excel Buka XML Spreadsheet" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX Tanggapan" description="Dari Format 1.03 sampai 2.2" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX Tanggapan" description="Dari 1.03 hingga 2.2 Format" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX permintaan" description="Dari Format 1.03 sampai 2.2" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-request/" name="OFX Permintaan" description="Dari 1.03 hingga 2.2 Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,6 +1,6 @@
 ﻿---
-title: Buat File respons OFX melalui C#
-description: Kode sampel untuk pembuatan file respons OFX. Gunakan kode contoh API untuk pembuatan file respons batch OFX dalam aplikasi berbasis .NET. 
+title: Buat OFX Berkas Tanggapan melalui C#
+description: Kode contoh untuk OFX pembuatan file respons. Gunakan kode contoh API untuk pembuatan file respons OFX batch dalam aplikasi berbasis .NET. 
 url: /id/net/create/ofx-response/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Buat file respons OFX melalui C#" h2="OFX respon pembuatan file tanpa perlu Microsoft Office diinstal atau perangkat lunak lainnya." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Buat OFX Berkas Tanggapan melalui C#" h2="OFX pembuatan file respons tanpa perlu menginstal Microsoft Office atau perangkat lunak lainnya." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Cara membuat file respons OFX" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Cara Membuat OFX File Respons" %}}
 
-Ikuti langkah-langkah dalam cuplikan kode atau Sempurnakan sesuai kebutuhan aplikasi Anda setelah persyaratan pembuatan dalam aplikasi Anda.
+Ikuti langkah-langkah dalam cuplikan kode atau tingkatkan sesuai kebutuhan aplikasi Anda setelah memiliki persyaratan pembuatan dalam aplikasi Anda.
 
-1. Buat [Kelas dokumen ofxresponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Objek.1. Tetapkan properti yang relevan menggunakan kelas yang berbeda yang disediakan oleh API seperti [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [StatementTransactionResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse), [Transaksi pernyataan](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction)1. Gunakan ofxVersion V2x atau V1x untuk berkas xml dan sgml masing-masing dari [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Sebagai parameter dalam metode simpan.1. Hubungi yang [Metode Simpan](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) Dengan menyediakan berkas target dan ofxVersion.
+1. Membuat [Kelas OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) obyek.1. Tetapkan properti yang relevan menggunakan kelas berbeda yang disediakan oleh API like [SignonRespons](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [PernyataanTransaksiRespons](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse), [Transaksi Pernyataan](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction)1. Gunakan ofxVersion V2x atau V1x untuk file xml dan sgml masing-masing dari [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) sebagai parameter dalam metode Simpan.1. Panggil [Simpan metode](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) dengan menyediakan file target dan ofxVersion.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Persyaratan pembuatan" %}}
-Untuk melanjutkan pembuatan file respons OFX, .NET Finance API adalah persyaratan utama yang harus disertakan dalam aplikasi pembuatan laporan. 
-- Menginstalnya melalui baris perintah sebagai "nuget instal Aspose.Finance" "atau melalui konsol manajer paket Studio Visual dengan" menginstal-paket Aspose.Finance ".
-- Atau, dapatkan pemasang MSI offline atau DLLs dalam file ZIP dari [Unduhan](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Persyaratan Pembuatan" %}}
+Untuk melanjutkan OFX Pembuatan file respons, .NET Finance API adalah persyaratan utama untuk disertakan dalam aplikasi pembuatan laporan. 
+- Instal melalui baris perintah sebagai ```nuget install Aspose.Finance``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Finance```.
+- Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [unduhan](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kode untuk OFX pembuatan file respons" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kode untuk OFX pembuatan file tanggapan" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}}
 
@@ -36,11 +36,11 @@ Untuk melanjutkan pembuatan file respons OFX, .NET Finance API adalah persyarata
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
-{{< blocks/products/pf/agp/other-supported-section title="Pilihan kreasi lainnya" subTitle="" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Opsi Kreasi Lainnya" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX File permintaan" description="Format 1.03 atau 2.2" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX Berkas Permintaan" description="1.03 atau 2.2 Format" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL File" description="Bahasa pelaporan bisnis yang dapat diperluas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL Berkas" description="Bahasa Pelaporan Bisnis yang Dapat Diperluas" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

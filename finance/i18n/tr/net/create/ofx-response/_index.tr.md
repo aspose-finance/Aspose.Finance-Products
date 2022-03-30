@@ -1,6 +1,6 @@
 ﻿---
-title: C# aracılığıyla OFX Yanıt Dosyası Oluştur
-description: OFX yanıt dosyası oluşturma için örnek kod. .NET tabanlı uygulamalarda toplu OFX yanıt dosyaları oluşturmak için API örnek kodu kullanın. 
+title: C# aracılığıyla OFX Yanıt Dosyası oluşturun
+description: OFX yanıt dosyası oluşturma için örnek kod. .NET tabanlı uygulamalarda toplu OFX yanıt dosyalarının oluşturulması için API örnek kodunu kullanın. 
 url: /tr/net/create/ofx-response/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# aracılığıyla OFX Yanıt Dosyaları Oluştur" h2="OFX Microsoft Office yüklü veya başka bir yazılıma ihtiyaç duymadan yanıt dosyaları oluşturma." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C# aracılığıyla OFX Yanıt Dosyası oluşturun" h2="OFX Microsoft Office yüklü veya başka bir yazılıma ihtiyaç duymadan yanıt dosyaları oluşturma." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="OFX Yanıt Dosyaları Nasıl Oluşturulur" %}}
+{{% blocks/products/pf/agp/feature-section-col title="OFX Yanıt Dosyası Nasıl Oluşturulur" %}}
 
-Kod snippet'teki adımları izleyin veya uygulamanızda oluşturma gereksinimlerini karşıladıktan sonra uygulama ihtiyaçlarınız doğrultusunda geliştirin.
+Kod parçacığındaki adımları izleyin veya oluşturma gereksinimlerini uygulamanız içinde yaptıktan sonra uygulama ihtiyaçlarınıza göre geliştirin.
 
-1. Oluştur [OfxResponseDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Nesne.1. API gibi tarafından sağlanan farklı sınıfları kullanarak ilgili özellikleri atayın [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [Bildiri TransactionResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse), [Statementİşlem](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction)1. Sırasıyla xml ve sgml dosyaları için ofxVersion V2x veya V1x kullanın [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Kaydet yönteminde parametre olarak.1. Ara [Kaydet yöntemi](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) Hedef dosya ve ofxVersion sağlayarak.
+1. Yaratmak [OfxResponseDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) nesne.1. API like tarafından sağlanan farklı sınıfları kullanarak ilgili özellikleri atayın [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse),  [AçıklamaİşlemYanıt](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse), [Açıklamaİşlem](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction)1. xml ve sgml dosyaları için sırasıyla ofxVersion V2x veya V1x'i kullanın. [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Kaydet yönteminde parametre olarak.1. Ara [Yöntemi kaydet](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) hedef dosyayı ve ofxVersion'ı sağlayarak.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Yaratma Gereksinimi" %}}
-OFX Yanıt dosyası oluşturmaya devam etmek için, .NET Finance API, rapor oluşturma uygulamasına dahil edilmesi gereken ana gerekliliktir. 
-- Komut satırı aracılığıyla ''nuget install Aspose.Finance'' olarak veya ''Install-Package Aspose.Finance'' ile Visual Studio Paket Yöneticisi Konsolu aracılığıyla yükleyin.
-- Alternatif olarak, bir ZIP dosyasında çevrimdışı MSI yükleyicisini veya DLL'leri alın [Indirmeler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% blocks/products/pf/agp/feature-section-col title="Oluşturma Gereksinimi" %}}
+OFX Yanıt dosyası oluşturmaya devam etmek için .NET Finance API, rapor oluşturma uygulamasına dahil edilmesi gereken ana gereksinimdir. 
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="OFX yanıt dosyaları oluşturma için C# kodu" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="OFX yanıt dosyalarının oluşturulması için C# kodu" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-ofx-response-files.cs" >}}
 
@@ -38,9 +38,9 @@ OFX Yanıt dosyası oluşturmaya devam etmek için, .NET Finance API, rapor olu�
 
 {{< blocks/products/pf/agp/other-supported-section title="Diğer Oluşturma Seçenekleri" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX Talep Dosyası" description="1.03 veya 2.2 Formatı" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX İstek Dosyası" description="1.03 veya 2.2 Biçimi" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL Dosya" description="Genişletilebilir İş Raporlama Dili" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL Dosya" description="Genişletilebilir İşletme Raporlama Dili" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

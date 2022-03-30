@@ -1,21 +1,21 @@
 ﻿---
-title: .NET aracılığıyla Finansal Raporları Doğrulayın
+title: Mali Raporları .NET aracılığıyla doğrulayın
 url: /tr/net/validate/
-description:  XBRL ve iXBRL dosyalarındaki finansal raporları .NET kitaplığı aracılığıyla doğrulamak için C# kodu.
+description:  .NET kitaplığı aracılığıyla XBRL ve iXBRL dosyalarındaki mali raporları doğrulamak için C# kodu.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C# aracılığıyla Finansal Raporlama Dosyalarını Doğrulayın" h2=".NET tabanlı uygulamalarda XBRL ve iXBRL dahil olmak üzere finansal rapor formatlarını doğrulamak." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Mali Raporlama Dosyalarını C# aracılığıyla doğrulayın" h2=".NET tabanlı uygulamalarda XBRL ve iXBRL dahil olmak üzere mali rapor biçimlerinin doğrulanması." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Zengin, genişletilebilir ve kullanımı kolay bir finansal rapor işleme API. Geliştiriciler, finansal ve iş çözümleri için XBRL ve iXBRL formatlarını kolayca yükleyebilir, doğrulayabilir, görüntüleyebilir veya oluşturabilir. API sağlar [XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Sınıf ve  [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) XBRL ve iXBRL dosya yükleme sınıfı.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) zengin özelliklere sahip, genişletilebilir ve kullanımı kolay bir mali rapor işlemedir API. Geliştiriciler, finans ve iş çözümleri için XBRL ve iXBRL biçimlerini kolayca yükleyebilir, doğrulayabilir, görüntüleyebilir veya oluşturabilir. API sağlar [XbrlBelgesi](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) sınıf ve  [Satır içiXbrlBelge](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) XBRL ve iXBRL dosyalarını yüklemek için sınıf.
 {{% /blocks/products/pf/feature-page-summary %}}
 
-{{% blocks/products/pf/feature-page-section h2="XBRL Belgeyi Doğrulayın" %}}
+{{% blocks/products/pf/feature-page-section h2="XBRL Belgesini Doğrula" %}}
 
-Verilerin doğru yapı ve formatta olduğunu kontrol etmek gibi bir dizi durum için XBRL dosyasının doğrulanması gerekir. XBLR belgelerini doğrulamak için öncelikle XBRL dosyasını yüklemek için XbrlDocument sınıfını kullanın. Kullanmak için [Doğrulama ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Yöntemi [XbrlÖrnek](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Sınıf, öncelikle [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) XbrlDocument nesnesi ile XbrlInstances. Her birini tekrar et [Xbrlörnek. Doğrulama Hataları](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) Doğru hata kodunu almak ve konsola özelleştirilmiş hata mesajlarını yazdırarak veya bir dosya içinde yazarak buna göre hareket etmek.
+Verilerin doğru yapı ve biçimde olup olmadığının kontrol edilmesi gibi bir dizi durum için XBRL dosyasının doğrulanması gerekir. XBLR belgelerini doğrulamak için, öncelikle XBRL dosyasını yüklemek için XbrlDocument sınıfını kullanın. kullanmak için [doğrulamak()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) yöntemi [XbrlÖrneği](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) class, öncelikle [XbrlÖrnek Koleksiyonu](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) XbrlDocument nesnesi XbrlInstances ile. Her birini yinele [XbrlInstance.ValidationErrors](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) doğru hata kodunu almak ve özelleştirilmiş hata mesajlarını konsolda yazdırarak veya bir dosyaya yazarak buna göre hareket etmek.
 
-{{% blocks/products/pf/feature-page-code h3="C# XBRL Dosyayı Doğrulamak için Kod" %}}
+{{% blocks/products/pf/feature-page-code h3="XBRL Dosyasını Doğrulamak için C# Kodu" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-xbrl-file.cs" >}} 
 
@@ -23,11 +23,11 @@ Verilerin doğru yapı ve formatta olduğunu kontrol etmek gibi bir dizi durum i
 
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{% blocks/products/pf/feature-page-section h2="iXBRL Belgeyi Doğrulayın" %}}
+{{% blocks/products/pf/feature-page-section h2="iXBRL Belgesini Doğrula" %}}
 
-İXLRB doğrulama için, aracılığıyla yükleyin [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Sınıf ve onun Doğrulama () yöntemini kullanın. İçinde [Doğrulama ErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) Numaralandırma, doğrulama hata kodları her doğrulama kuralı için tanımlanır. Çok az kod ContextPeriodNoStartTime, ContextPerioXbrlSubstitutionGroup vb.
+iXLRB doğrulaması için şununla yükleyin: [Satır içiXbrlBelge](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) sınıfını seçin ve Validate() yöntemini kullanın. İçinde [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) numaralandırma, doğrulama hata kodları her doğrulama kuralı için tanımlanır. Kodların birkaçı ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup vb. Geliştiriciler kodları son kullanıcılar itibariyle ayıklayabilir ve görüntüleyebilir veya sorunun çözümü için yön gösterebilir.
 
-{{% blocks/products/pf/feature-page-code h3="C# iXBRL Belgeyi Doğrulamak için Kod" %}}
+{{% blocks/products/pf/feature-page-code h3="iXBRL Belgesini Doğrulamak için C# Kodu" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-ixbrl-file.cs" >}}
 

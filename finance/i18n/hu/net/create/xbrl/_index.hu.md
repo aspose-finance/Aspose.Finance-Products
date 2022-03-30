@@ -1,6 +1,6 @@
 ﻿---
-title: XBRL fájl létrehozása C# segítségével
-description: Minta kód XBRL fájl létrehozásához. API példa kódot használjon a .NET alapú alkalmazásokon belül XBRL fájlok generálásához. 
+title: "XBRL fájl létrehozása a következőn keresztül: C#"
+description: Mintakód a(z) XBRL fájl létrehozásához. Használjon API példakódot a XBRL fájlok kötegelt generálásához a .NET alapú alkalmazásokban. 
 url: /hu/net/create/xbrl/
 family: finance
 platformtag: net
@@ -10,23 +10,23 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="XBRL fájlok létrehozása C# segítségével" h2="XBRL fájlok létrehozása anélkül, hogy microsoft office telepített vagy más szoftver." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Hozzon létre XBRL fájlt a következőn keresztül: C#" h2="XBRL fájlok létrehozása a Microsoft Office vagy bármilyen más szoftver telepítése nélkül." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="XBRL fájlok létrehozása" %}}
+{{% blocks/products/pf/agp/feature-section-col title="XBRL Fájlok létrehozása" %}}
 
-Kövesse a kódrészlet lépéseit, vagy fokozza az alkalmazása igényeinek megfelelően a bővíthető üzleti jelentési nyelv XBRL fájlok generálásához. Győződjön meg róla, hogy létrehozási követelmények az alkalmazáson belül.
+Kövesse a kódrészlet lépéseit, vagy javítsa az alkalmazás igényei szerint bővíthető üzleti jelentési nyelvű XBRL fájlok létrehozásához. Ügyeljen arra, hogy az alkalmazáson belül legyenek létrehozási követelmények.
 
-1. Create [Xbrldocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Példány.1. Új XBRL példány dokumentum létrehozása [Xbrlinstancecollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) És [Xbrlinstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance)A "", a "" ", a" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "".1. Hozzáadása séma hivatkozás segítségével [Schemarefcollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Az alkalmazás jellegétől függően adjunk hozzá kontextust, egységet, elemet, lábjegyzetet és még többet.1. Call the [Mentési módszer](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) A célfájl elérési útjának megadásával.
+1. Teremt [XbrlDocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Példa.1. Új XBRL példány dokumentum létrehozása [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) és [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. Adjon hozzá sémahivatkozást a használatával [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Az alkalmazás jellegétől függően adjon hozzá kontextust, egységet, elemet, lábjegyzet hivatkozását és egyebeket.1. Hívja a [Mentés módja](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) a célfájl elérési út megadásával.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Létrehozási követelmény" %}}
-A XBRL dokumentumok generálásához a .NET Finance API a fő követelmény, amelyet be kell venni az alkalmazásba. 
-- Telepítse a parancssoron keresztül, mint "" nuget install Aspose.Finance "", vagy a visual studio csomagkezelő konzolján keresztül a "" install-package Aspose.Finance "".
-- Alternatív módon, kap az offline msi telepítő vagy dll egy zip fájlt a [Letöltések](https://downloads.aspose.com/finance/net)A "", a "" ", a" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "".{{% /blocks/products/pf/agp/feature-section-col %}}
+A(z) XBRL dokumentumok létrehozásának folytatásához a(z) .NET Finance API fő követelmény, hogy szerepeljen az alkalmazásban. 
+- Telepítse parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
+- Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kód XBRL fájlok létrehozásához" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kód XBRL fájl létrehozásához" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "cc4f7cfa11dd543bf2f1d6c2261ab87b" "create-xbrl-file-and-add-schema-reference.cs" >}}
 
@@ -38,9 +38,9 @@ A XBRL dokumentumok generálásához a .NET Finance API a fő követelmény, ame
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb létrehozási lehetőségek" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX kérelem" description="1.03 vagy 2.2 formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX Kérelem" description="1.03 vagy 2.2 formátum" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-response/" name="OFX válasz" description="1.03 vagy 2.2 formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-response/" name="OFX Válasz" description="1.03 vagy 2.2 formátum" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

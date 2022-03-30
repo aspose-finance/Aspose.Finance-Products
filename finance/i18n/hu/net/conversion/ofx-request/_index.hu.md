@@ -1,6 +1,6 @@
 ﻿---
-title: Konvertálja a OFX kérés fájlt 1.03-ról 2,2 formátumra C#-en keresztül
-description: A OFX kérés fájljának minta kódja az 1.03-tól a 2.2 C# konverzióra. API példa kódot használjon a .NET alapú alkalmazásokon belül OFX kérés konverzióhoz. 
+title: "A(z) OFX kérésfájl konvertálása 1.03-ról 2.2-es formátumra a következőn keresztül: C#"
+description: Mintakód a(z) OFX kérelemfájl 1.03-ról 2.2-re C# konvertálásához. Használjon API példakódot a kötegelt OFX kéréskonverzióhoz a .NET alapú alkalmazásokban. 
 url: /hu/net/conversion/ofx-request/
 family: finance
 platformtag: net
@@ -10,25 +10,25 @@ outformat: OFX Request 2.2
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertálja a OFX kérés fájlt 1.03-ról 2,2 formátumra C#-en keresztül" h2="OFX kérés fájl 1.03-tól 2.2 konverziós nélkül kell microsoft office telepítve." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="A(z) OFX kérésfájl konvertálása 1.03-ról 2.2-es formátumra a következőn keresztül: C#" h2="OFX Fájl 1.03-ról 2.2-re való konvertálása a Microsoft Office telepítése nélkül." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) Egy API XBRL, iXBRL formátumok feldolgozására és a fejlesztők könnyen építhetnek üzleti folyamatok kezelése, pénzügyi elemzés és jelentés szoftveralkalmazások átalakítására, létrehozására, olvasására, XBRL, iXBRL és OFX pénzügyekkel kapcsolatos fájlok megtekintése és érvényesítése. 
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) egy API a XBRL, iXBRL formátumok feldolgozására, a fejlesztők pedig könnyedén építhetnek üzleti folyamatkezelő, pénzügyi elemző és jelentéskészítő szoftveralkalmazásokat a XBRL, iXBRL és OFX konvertálására, létrehozására, olvasására, megtekintésére és ellenőrzésére. } pénzügyekkel kapcsolatos fájlokat. 
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Hogyan lehet konvertálni a OFX kérés fájlt 1.03-ból 2.2 formátumba" %}}
-1. Bemeneti fájl betöltése segítségével [Ofxrequestdocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument)A "", a "" ", a" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "".1. Használja az ofxversion v2x a [Ofxversionenum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) A mentési módszer paramétereként.1. Call the [Mentési módszer](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) A célfájl és az ofxversion megadásával.
+{{% blocks/products/pf/agp/feature-section-col title="OFX Kérelemfájl konvertálása 1.03-ról 2.2-es formátumra" %}}
+1. Bemeneti fájl betöltése a segítségével [OfxRequestDocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument).1. Használja az ofxVersion V2x fájlt [OffxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) paraméterként a Mentés metódusban.1. Hívja a [Mentés módja](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) a célfájl és az ofxVersion megadásával.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmény" %}}
-A OFX kérés fájlhoz az 1.03-tól a 2.2-ig történő átalakításhoz a .NET Finance API a fő követelmény. 
-- Telepítse a parancssoron keresztül, mint "" nuget install Aspose.Finance "", vagy a visual studio csomagkezelő konzolján keresztül a "" install-package Aspose.Finance "".
-- Alternatív módon, kap az offline msi telepítő vagy dll egy zip fájlt a [Letöltések](https://downloads.aspose.com/finance/net)A "", a "" ", a" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "".{{% /blocks/products/pf/agp/feature-section-col %}}
+A OFX Kérelem fájl 1.03-ról 2.2-re való konvertálásához a .NET Finance API a fő követelmény. 
+- Telepítse parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
+- Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C# kód a OFX kérés fájlhoz az 1.03-tól a 2.2 formátumba történő konverzióra" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kód a OFX kérésfájlhoz 1.03-ról 2.2-re" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-ofx-request-from-1.03-to-2.2.cs" >}}
 
@@ -40,11 +40,11 @@ A OFX kérés fájlhoz az 1.03-tól a 2.2-ig történő átalakításhoz a .NET 
 
 {{< blocks/products/pf/agp/other-supported-section title="Egyéb konverziós lehetőségek" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX válasz" description="1.03-tól 2.2-ig formátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/ofx-response/" name="OFX Válasz" description="1.03-tól 2.2-ig Formátum" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL to xlsx" description="A microsoft excel megnyitja az xml táblázatot" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL XLSX-re" description="Microsoft Excel Nyissa meg az XML-táblázatot" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL to iXBRL" description="Inline kiterjeszthető üzleti jelentési nyelv" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL - iXBRL" description="Beépített bővíthető üzleti jelentési nyelv" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
