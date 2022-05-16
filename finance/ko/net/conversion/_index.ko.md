@@ -1,7 +1,7 @@
 ﻿---
 title: .NET을(를) 통해 재무 보고서 변환
 url: /ko/net/conversion/
-description:  C# 코드는 .NET 라이브러리를 통해 XBRL, iXBRL 및 OFX 파일 형식의 재무 보고서를 변환합니다.
+description:  C# 코드는 .NET 라이브러리를 통해 XBRL, iXBRL(인라인 xbrl) 및 OFX 파일 형식의 재무 보고서를 변환합니다.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="C#을(를) 통해 재무 보고서 파일 변환" h2="재무 보고서 형식 변환은 XBRL, iXBRL 및 OFX 파일을 .NET 기반 애플리케이션 내에서 1.03에서 2.2 형식으로 변환합니다." >}}

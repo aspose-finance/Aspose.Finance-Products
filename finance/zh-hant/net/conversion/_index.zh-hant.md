@@ -1,7 +1,7 @@
 ﻿---
 title: 通過 .NET 轉換財務報告
 url: /zh-hant/net/conversion/
-description:  C# 代碼通過 .NET 庫將財務報告轉換為 XBRL、iXBRL 和 OFX 文件格式。
+description:  C# 代碼通過 .NET 庫轉換 XBRL、iXBRL（內聯 xbrl）和 OFX 文件格式的財務報告。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="通過 C# 轉換財務報告文件" h2="在基於 .NET 的應用程序中，財務報告格式轉換包括從 1.03 到 2.2 格式的 XBRL、iXBRL 和 OFX 文件。" >}}

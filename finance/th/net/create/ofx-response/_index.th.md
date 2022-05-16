@@ -23,7 +23,7 @@ otherformats: OFX Response
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดในการสร้าง" %}}
 หากต้องการดำเนินการต่อสำหรับ OFX การสร้างไฟล์ตอบกลับ .NET Finance API เป็นข้อกำหนดหลักที่จะรวมไว้ในแอปพลิเคชันการสร้างรายงาน 
-- ติดตั้งผ่านบรรทัดคำสั่งเป็น ``` ติดตั้ง nuget Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
+- ติดตั้งผ่านบรรทัดคำสั่งเป็น ```nuget install Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
 - หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="โค้ด C# สำหรับ OFX การสร้างไฟล์ตอบกลับ" offSpacer="" %}}

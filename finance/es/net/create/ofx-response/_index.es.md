@@ -23,7 +23,7 @@ Siga los pasos en el fragmento de código o mejórelo según las necesidades de 
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito de creación" %}}
 Para continuar con la creación del archivo de respuesta OFX, .NET Finance API es el requisito principal que debe incluirse en la aplicación de generación de informes. 
-- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
+- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
 - Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# código para la creación de OFX archivos de respuesta" offSpacer="" %}}

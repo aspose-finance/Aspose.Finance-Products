@@ -26,7 +26,7 @@ otherformats: OFX Response
 {{% blocks/products/pf/agp/feature-section-col title="Conversievereiste:" %}}
 
 Om door te gaan voor OFX Response File van 1.03 naar 2.2 conversie, is .NET Finance API de belangrijkste vereiste.
-- Installeer het via de opdrachtregel als ```nuget install Aspose.Finance``` of via de Package Manager Console van Visual Studio met ```Install-Package Aspose.Finance```.
+- Installeer het via de opdrachtregel als ```nuget install Aspose.Finance``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.Finance```.
 - U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van: [downloads](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# code voor OFX reactiebestand van 1.03 naar 2.2 formaat conversie" offSpacer="" %}}

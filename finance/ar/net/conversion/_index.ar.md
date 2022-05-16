@@ -1,7 +1,7 @@
 ﻿---
 title: تحويل التقارير المالية عبر .NET
 url: /ar/net/conversion/
-description:  C# رمز لتحويل التقارير المالية في تنسيقات الملفات XBRL و iXBRL و OFX عبر مكتبة .NET.
+description:  C# رمز لتحويل التقارير المالية بتنسيق XBRL و iXBRL (inline xbrl) و OFX fomats عبر مكتبة .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="تحويل ملفات التقارير المالية عبر C#" h2="تنسيقات التقارير المالية التحويل بما في ذلك تنسيق XBRL و iXBRL و OFX من 1.03 إلى 2.2 داخل التطبيقات المستندة إلى .NET." >}}

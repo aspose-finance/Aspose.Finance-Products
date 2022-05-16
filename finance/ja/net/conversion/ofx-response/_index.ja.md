@@ -26,7 +26,7 @@ otherformats: OFX Response
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
 
 OFX応答ファイルを1.03から2.2に変換するには、.NETFinanceAPIが主な要件です。
-- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
+- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Finance```を使用してインストールします。
 - または、オフラインのMSIインストーラーまたはDLLをZIPファイルで取得します。 [ダウンロード](https://downloads.aspose.com/finance/net)。{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="1.03から2.2形式への変換からのOFX応答ファイルのC#コード" offSpacer="" %}}

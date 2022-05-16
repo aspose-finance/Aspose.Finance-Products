@@ -26,7 +26,7 @@ otherformats: OFX Response
 {{% blocks/products/pf/agp/feature-section-col title="रूपांतरण आवश्यकता" %}}
 
 OFX प्रतिसाद फ़ाइल 1.03 से 2.2 रूपांतरण के लिए आगे बढ़ने के लिए, .NET Finance API मुख्य आवश्यकता है।
-- इसे कमांड लाइन के माध्यम से ``nuget install Aspose.Finance``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से ```इंस्टॉल-पैकेज Aspose.Finance``` के साथ इंस्टॉल करें।
+- इसे कमांड लाइन के माध्यम से ```nuget install Aspose.Finance``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से `` `इंस्टॉल-पैकेज Aspose.Finance``` के साथ स्थापित करें।
 - वैकल्पिक रूप से, एक ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें [डाउनलोड](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="1.03 से 2.2 प्रारूप रूपांतरण के लिए OFX प्रतिक्रिया फ़ाइल के लिए C# कोड" offSpacer="" %}}

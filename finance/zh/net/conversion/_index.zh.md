@@ -1,7 +1,7 @@
 ﻿---
 title: 通过 .NET 转换财务报告
 url: /zh/net/conversion/
-description:  C# 代码通过 .NET 库将财务报告转换为 XBRL、iXBRL 和 OFX 文件格式。
+description:  C# 代码通过 .NET 库转换 XBRL、iXBRL（内联 xbrl）和 OFX 文件格式的财务报告。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="通过 C# 转换财务报告文件" h2="在基于 .NET 的应用程序中，财务报告格式转换包括从 1.03 到 2.2 格式的 XBRL、iXBRL 和 OFX 文件。" >}}

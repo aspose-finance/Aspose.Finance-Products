@@ -1,7 +1,7 @@
 ﻿---
 title: Konversi Laporan Keuangan melalui .NET
 url: /id/net/conversion/
-description:  C# kode untuk mengonversi Laporan Keuangan dalam format file XBRL, iXBRL, dan OFX melalui pustaka .NET.
+description:  C# kode untuk mengonversi Laporan Keuangan dalam format file XBRL, iXBRL(xbrl sebaris) dan OFX melalui pustaka .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Konversi File Laporan Keuangan melalui C#" h2="Konversi format laporan keuangan termasuk file XBRL, iXBRL dan OFX dari format 1,03 menjadi 2.2 dalam aplikasi berbasis .NET." >}}

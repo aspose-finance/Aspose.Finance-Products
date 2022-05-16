@@ -1,7 +1,7 @@
 ﻿---
 title: แปลงรายงานทางการเงินผ่าน .NET
 url: /th/net/conversion/
-description:  C# รหัสเพื่อแปลงรายงานทางการเงินในรูปแบบไฟล์ XBRL, iXBRL และ OFX ผ่านไลบรารี .NET
+description:  C# รหัสเพื่อแปลงรายงานทางการเงินในรูปแบบไฟล์ XBRL, iXBRL(inline xbrl) และ OFX ผ่านไลบรารี .NET
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="แปลงไฟล์รายงานทางการเงินผ่าน C#" h2="การแปลงรูปแบบรายงานทางการเงิน รวมถึงไฟล์ XBRL, iXBRL และ OFX จากรูปแบบ 1.03 เป็น 2.2 ภายในแอปพลิเคชันที่ใช้ .NET" >}}

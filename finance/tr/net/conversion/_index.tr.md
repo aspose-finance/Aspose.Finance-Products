@@ -1,7 +1,7 @@
 ﻿---
 title: Mali Raporları .NET aracılığıyla dönüştürün
 url: /tr/net/conversion/
-description:  .NET kitaplığı aracılığıyla XBRL, iXBRL ve OFX dosya biçimlerindeki Mali Raporları dönüştürmek için C# kodu.
+description:  .NET kitaplığı aracılığıyla XBRL, iXBRL(inline xbrl) ve OFX dosya biçimlerindeki Mali Raporları dönüştürmek için C# kodu.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Mali Rapor Dosyalarını C# aracılığıyla dönüştürün" h2="Mali rapor biçimleri, .NET tabanlı uygulamalarda XBRL, iXBRL ve OFX dosyası dahil olmak üzere 1.03\'ten 2.2 biçimine dönüştürülür." >}}

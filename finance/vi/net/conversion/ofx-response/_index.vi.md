@@ -26,7 +26,7 @@ otherformats: OFX Response
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu chuyển đổi" %}}
 
 Để tiến hành chuyển đổi OFX Tệp phản hồi từ 1.03 sang 2.2, .NET Finance API là yêu cầu chính.
-- Cài đặt nó thông qua dòng lệnh là `` nuget install Aspose.Finance '' hoặc thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Finance ''.
+- Cài đặt nó qua dòng lệnh là `` nuget install Aspose.Finance `` '' hoặc qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt-Gói Aspose.Finance ''.
 - Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# mã cho OFX tệp phản hồi từ chuyển đổi định dạng 1,03 sang 2,2" offSpacer="" %}}

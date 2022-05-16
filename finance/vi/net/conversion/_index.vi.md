@@ -1,7 +1,7 @@
 ﻿---
 title: Chuyển đổi Báo cáo Tài chính qua .NET
 url: /vi/net/conversion/
-description:  C# mã để chuyển đổi Báo cáo Tài chính trong tệp XBRL, iXBRL và OFX fomats qua thư viện .NET.
+description:  C# mã để chuyển đổi Báo cáo Tài chính trong XBRL, iXBRL (xbrl nội tuyến) và OFX tệp fomats qua thư viện .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Chuyển đổi Tệp Báo cáo Tài chính qua C#" h2="Chuyển đổi định dạng báo cáo tài chính bao gồm tệp XBRL, iXBRL và OFX từ định dạng 1.03 sang 2.2 trong các ứng dụng dựa trên .NET." >}}

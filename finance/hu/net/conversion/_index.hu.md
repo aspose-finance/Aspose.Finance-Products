@@ -1,7 +1,7 @@
 ﻿---
 title: "Pénzügyi jelentések konvertálása a következőn keresztül: .NET"
 url: /hu/net/conversion/
-description:  C# kód a pénzügyi jelentések konvertálásához XBRL, iXBRL és OFX fájlformátumban a .NET könyvtáron keresztül.
+description:  C# kód a pénzügyi jelentések konvertálásához XBRL, iXBRL(inline xbrl) és OFX fájlformátumban a .NET könyvtáron keresztül.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Pénzügyi jelentésfájlok konvertálása a következőn keresztül: C#" h2="Pénzügyi jelentések formátumának átalakítása, beleértve a XBRL, iXBRL és OFX fájlt 1.03-ról 2.2-re a .NET alapú alkalmazásokon belül." >}}

@@ -23,7 +23,7 @@ Kod parçacığındaki adımları izleyin veya oluşturma gereksinimlerini uygul
 
 {{% blocks/products/pf/agp/feature-section-col title="Oluşturma Gereksinimi" %}}
 OFX Yanıt dosyası oluşturmaya devam etmek için .NET Finance API, rapor oluşturma uygulamasına dahil edilmesi gereken ana gereksinimdir. 
-- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` olarak veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
 - Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="OFX yanıt dosyalarının oluşturulması için C# kodu" offSpacer="" %}}

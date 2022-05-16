@@ -23,7 +23,7 @@ Siga los pasos del fragmento de código o mejórelo según las necesidades de su
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito de creación" %}}
 Para proceder a la generación de XBRL documentos, .NET Finance API es el requisito principal que debe incluirse en la aplicación. 
-- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
+- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
 - Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# código para la creación de XBRL archivos" offSpacer="" %}}

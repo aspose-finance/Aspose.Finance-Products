@@ -1,7 +1,7 @@
 ﻿---
 title: Financiële rapporten converteren via .NET
 url: /nl/net/conversion/
-description:  C# code om financiële rapporten te converteren in XBRL, iXBRL en OFX bestandsformaten via .NET bibliotheek.
+description:  C# code om financiële rapporten om te zetten in XBRL, iXBRL(inline xbrl) en OFX bestandsformaten via de .NET bibliotheek.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="Converteer financiële rapportbestanden via C#" h2="Conversie van financiële rapportformaten inclusief XBRL, iXBRL en OFX bestanden van 1.03 naar 2.2 formaat binnen .NET gebaseerde applicaties." >}}

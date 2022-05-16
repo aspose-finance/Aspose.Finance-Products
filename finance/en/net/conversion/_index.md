@@ -1,7 +1,7 @@
 ---
 title: Convert Financial Reports via .NET
 url: /net/conversion/
-description:  C# code to convert Financial Reports in XBRL, iXBRL and OFX file fomats via .NET library.
+description:  C# code to convert Financial Reports in XBRL, iXBRL(inline xbrl) and OFX file fomats via .NET library.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/feature-page-header h1="Convert Financial Report Files via C#" h2="Financial report formats conversion including XBRL, iXBRL and OFX file from 1.03 to 2.2 format within .NET based applications." >}}

@@ -26,7 +26,7 @@ otherformats: XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحويل" %}}
-للمتابعة من XBRL إلى iXBRL التحويل ، فإن .NET Finance API هو المطلب الرئيسي. قم بتثبيته عبر سطر الأوامر باسم `` nuget install Aspose.Finance '' أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
+للمتابعة من XBRL إلى iXBRL التحويل ، فإن .NET Finance API هو المطلب الرئيسي. قم بتثبيته عبر سطر الأوامر باسم "nuget install Aspose.Finance" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
 
 بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

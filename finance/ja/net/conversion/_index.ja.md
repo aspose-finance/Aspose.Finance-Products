@@ -1,7 +1,7 @@
 ﻿---
 title: .NETを介して財務レポートを変換する
 url: /ja/net/conversion/
-description:  .NETライブラリを介してXBRL、iXBRL、およびOFXファイル形式の財務レポートを変換するためのC#コード。
+description:  .NETライブラリを介してXBRL、iXBRL（インラインxbrl）、およびOFXファイル形式の財務レポートを変換するためのC#コード。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
 {{< blocks/products/pf/i18n/feature-page-header h1="C#を介して財務レポートファイルを変換する" h2="財務報告書は、.NETベースのアプリケーション内で、XBRL、iXBRL、およびOFXファイルを含む1.03から2.2形式への変換をフォーマットします。" >}}

@@ -1,0 +1,49 @@
+﻿---
+title: Просмотр файла iXBRL через C#
+description: Пример кода для просмотра файла iXBRL. Используйте пример кода API для просмотра пакетных файлов iXBRL в приложениях на основе .NET. 
+url: /ru/net/view/ixbrl/
+family: finance
+platformtag: net
+feature: view
+informat: iXBRL
+outformat: 
+otherformats: 
+---
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Просмотр файлов iXBRL через C#" h2="Просмотр финансовых отчетов в формате iXBRL без установки Microsoft Office или любого другого программного обеспечения." >}}
+
+{{< blocks/products/pf/agp/feature-section >}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Как просмотреть файлы iXBRL" %}}
+
+Следуйте инструкциям во фрагменте кода или улучшите его в соответствии с потребностями вашего приложения для просмотра документов iXBRL на расширяемом языке бизнес-отчетности. Убедитесь, что в вашем приложении есть требования к чтению.
+
+1. Создавать [Класс InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Пример.2. Передайте имя допустимого файла iXBRL в качестве параметра.
+3. Чтобы получить внутреннюю информацию о файле, используйте соответствующие классы, такие как [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Контекст](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Единица измерения](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+4. Показать эту информацию
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Требования к чтению" %}}
+Чтобы перейти к просмотру iXBRL документов, .NET Finance API является основным требованием, которое должно быть включено в приложение. 
+- Установите его через командную строку как ```nuget install Aspose.Finance``` или через консоль диспетчера пакетов Visual Studio с помощью ```Install-Package Aspose.Finance```.
+- Кроме того, получите автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/code-block title="C# код для чтения iXBRL файлов" offSpacer="" %}}
+
+{{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "read-ixbrl-file.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
+{{< blocks/products/pf/agp/other-supported-section title="Другие параметры просмотра" subTitle="" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/view/xbrl/" name="XBRL" description="Расширяемый язык бизнес-отчетности" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
