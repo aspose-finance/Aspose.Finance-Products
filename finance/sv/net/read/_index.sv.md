@@ -13,7 +13,7 @@ description:  C#-kod för att läsa finansiella rapporter i XBRL- och iXBRL-file
 
 {{% blocks/products/pf/feature-page-section h2="Läs XBRL dokument" %}}
 
-Läsning av filen XBRL krävs för att ladda den befintliga filen för visning och analys. För att läsa XBLR-dokument tillhandahåller API XbrlDocument-klassen som nämnts i stycket ovan med giltig XBRL-fil som indataparametrar. Använd andra API-klasser, utvecklare kan enkelt analysera dess struktur och data. Få av klasserna är det [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Sammanhang](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enhet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
+Läsning av filen XBRL krävs för att ladda den befintliga filen för visning och analys. För att läsa XBLR-dokument tillhandahåller API XbrlDocument-klassen som nämnts i stycket ovan med en giltig XBRL-fil som indataparametrar. Använd andra API-klasser, utvecklare kan enkelt analysera dess struktur och data. Få av klasserna är det [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Sammanhang](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enhet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod för att läsa XBRL fil" %}}
 

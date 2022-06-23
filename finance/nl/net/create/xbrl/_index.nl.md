@@ -1,6 +1,6 @@
 ﻿---
 title: Maak XBRL Bestand via C#
-description: Voorbeeldcode voor het maken van XBRL-bestanden. Gebruik API voorbeeldcode voor het genereren van batch-XBRLbestanden binnen op .NET gebaseerde applicaties. 
+description: Voorbeeldcode voor het maken van XBRL-bestanden. Gebruik API voorbeeldcode voor het genereren van batchbestanden XBRL binnen op .NET gebaseerde applicaties. 
 url: /nl/net/create/xbrl/
 family: finance
 platformtag: net
@@ -23,7 +23,7 @@ Volg de stappen in het codefragment of verbeter het naar gelang uw toepassingsbe
 
 {{% blocks/products/pf/agp/feature-section-col title="Aanmaakvereiste:" %}}
 Om door te gaan met het genereren van XBRL documenten, is .NET Finance API de belangrijkste vereiste die moet worden opgenomen in de toepassing. 
-- Installeer het via de opdrachtregel als ```nuget install Aspose.Finance``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.Finance```.
+- Installeer het via de opdrachtregel als ```nuget install Aspose.Finance``` of via de Package Manager Console van Visual Studio met ```Install-Package Aspose.Finance```.
 - U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van: [downloads](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# code voor het maken van XBRL bestanden" offSpacer="" %}}

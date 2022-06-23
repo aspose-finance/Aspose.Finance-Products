@@ -13,7 +13,7 @@ description:  C# รหัสสำหรับอ่านรายงานท
 
 {{% blocks/products/pf/feature-page-section h2="อ่านXBRLเอกสาร" %}}
 
-จำเป็นต้องอ่านไฟล์ XBRL เพื่อโหลดไฟล์ที่มีอยู่สำหรับการดูและวิเคราะห์ ในการอ่านเอกสาร XBLR API ให้คลาส XbrlDocument ตามที่กล่าวไว้ในย่อหน้าด้านบนพร้อมไฟล์ XBRL ที่ถูกต้องเป็นพารามิเตอร์อินพุต ใช้คลาส API อื่นๆ นักพัฒนาสามารถวิเคราะห์โครงสร้างและข้อมูลได้อย่างง่ายดาย มีไม่กี่ชั้นเรียน [สคีมาRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [บริบท](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [หน่วย](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
+จำเป็นต้องอ่านไฟล์ XBRL เพื่อโหลดไฟล์ที่มีอยู่สำหรับการดูและวิเคราะห์ ในการอ่านเอกสาร XBLR API ให้คลาส XbrlDocument ตามที่กล่าวไว้ในย่อหน้าด้านบนพร้อมไฟล์ XBRL ที่ถูกต้องเป็นพารามิเตอร์อินพุต ใช้คลาส API อื่นๆ นักพัฒนาสามารถวิเคราะห์โครงสร้างและข้อมูลได้อย่างง่ายดาย ไม่กี่ชั้นเรียนคือ [สคีมาRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [บริบท](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [หน่วย](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
 {{% blocks/products/pf/feature-page-code h3="C# รหัสสำหรับอ่าน XBRL ไฟล์" %}}
 

@@ -11,7 +11,7 @@ description: Biblioteka do manipulowania formatami związanymi z finansami używ
 {{< blocks/products/pf/product-card-row title="Aspose.Finance Interfejsy API wysokiego kodu obejmują" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Finance for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="/finance/net/" >}}
-Docelowe formularze Windows, ASP.NET lub dowolny typ aplikacji opartej na .NET Framework 2.0 lub nowszym.
+Celuj w Windows Forms, ASP.NET lub dowolny typ aplikacji opartej na .NET Framework 2.0 lub nowszym.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}

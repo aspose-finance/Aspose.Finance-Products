@@ -23,7 +23,7 @@ Thực hiện theo các bước trong đoạn mã hoặc nâng cao đoạn mã k
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu đọc" %}}
 Để tiếp tục xem OFX tài liệu phản hồi, .NET Finance API là yêu cầu chính cần có trong ứng dụng. 
-- Cài đặt nó qua dòng lệnh là `` nuget install Aspose.Finance `` '' hoặc qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt-Gói Aspose.Finance ''.
+- Cài đặt nó thông qua dòng lệnh là `` nuget install Aspose.Finance '' hoặc thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Finance ''.
 - Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# mã để xem OFX tệp phản hồi" offSpacer="" %}}

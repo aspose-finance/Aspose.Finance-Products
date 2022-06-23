@@ -2,7 +2,7 @@
 title: C# .NET API untuk Sistem Pelaporan Digital Keuangan - Aspose 
 weight: 20
 url: /id/net/ 
-description: Pustaka C# ASP.NET VB.NET untuk konversi laporan keuangan ke Bahasa Pelaporan Bisnis eXtensible XBRL dan iXBRL untuk analisis guna menghasilkan XBRL taksonomi dan laporan
+description: Pustaka C# ASP.NET VB.NET untuk konversi laporan keuangan ke Bahasa Pelaporan Bisnis yang dapat diperluas XBRL dan iXBRL untuk analisis guna menghasilkan XBRL taksonomi dan laporan
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1=".NET Pustaka untuk Mengurai Finance Dokumen" h2="Buat, Baca, dan Validasi XBRL dan iXBRL Finance-Format Terkait dalam Perangkat Lunak Manajemen Proses Bisnis, Analisis Keuangan, dan Pelaporan." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}

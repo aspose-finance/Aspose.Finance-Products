@@ -18,12 +18,12 @@ otherformats:
 
 Thực hiện theo các bước trong đoạn mã hoặc nâng cao đoạn mã khi ứng dụng của bạn cần để đọc các tài liệu iXBRL ngôn ngữ báo cáo kinh doanh có thể mở rộng. Đảm bảo có các yêu cầu đọc trong ứng dụng của bạn.
 
-1. Tạo ra [Lớp InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Ví dụ.1. Chuyển tên của tệp iXBRL hợp lệ làm tham số.1. Để có được chi tiết bên trong của tệp, hãy sử dụng các lớp có liên quan như [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Bối cảnh](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Đơn vị](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+1. Tạo ra [Lớp InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Ví dụ.1. Chuyển tên của tệp iXBRL hợp lệ làm tham số.1. Để có được chi tiết bên trong của tệp, hãy sử dụng các lớp có liên quan như [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Định nghĩa bài văn](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Đơn vị](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Yêu cầu đọc" %}}
 Để tiếp tục đọc iXBRL tài liệu, .NET Finance API là yêu cầu chính cần có trong ứng dụng. 
-- Cài đặt nó qua dòng lệnh là `` nuget install Aspose.Finance `` '' hoặc qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt-Gói Aspose.Finance ''.
+- Cài đặt nó thông qua dòng lệnh là `` nuget install Aspose.Finance '' hoặc thông qua Bảng điều khiển Trình quản lý Gói của Visual Studio với `` Cài đặt Gói Aspose.Finance ''.
 - Ngoài ra, tải trình cài đặt MSI ngoại tuyến hoặc DLL trong tệp ZIP từ [tải xuống](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# mã để đọc iXBRL tệp" offSpacer="" %}}

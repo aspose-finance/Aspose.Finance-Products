@@ -1,6 +1,6 @@
 ﻿---
 title: "XBRL konvertálása iXBRL-re a következőn keresztül: C#"
-description: Mintakód a XBRL SEC html jelentés C# konverziójához. Használjon API példakódot kötegelt XBRL fájlok SEC html jelentés konvertálásához .NET alapú alkalmazásokon belül. 
+description: Mintakód a XBRL SEC html jelentés C# konverziójához. Használjon API példakódot kötegelt XBRL fájlok SEC html jelentés konvertálásához a .NET alapú alkalmazásokban. 
 url: /hu/net/conversion/xbrl-to-sec-html-report/
 family: finance
 platformtag: net
@@ -26,7 +26,7 @@ otherformats: XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konverziós követelmények" %}}
-A XBRL-ból SEC html-jelentések konvertálásához a fő követelmény a .NET Finance API. Telepítse parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paranccsal.
+A XBRL-ból SEC html-jelentések konvertálásához a fő követelmény a .NET Finance API. Telepítse parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
 
 Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

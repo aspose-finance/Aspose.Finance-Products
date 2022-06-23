@@ -18,7 +18,7 @@ otherformats:
 
 按照代碼片段中的步驟或根據您的應用程序需要對其進行增強，以驗證可擴展的業務報告語言 iXBRL 文檔。確保在您的應用程序中有驗證要求。
 
-1. 使用加載 iXBRL 文件 [InlineXbrlDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 實例。1. 檢查加載文件的有效性，使其必須與 [iXBRL 規範](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. 採用 [證實（）](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) 文件有效性的方法。
+1. 使用加載 iXBRL 文件 [InlineXbrlDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 實例。1. 檢查加載文件的有效性，使其必須與 [iXBRL 規範](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. 利用 [證實（）](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) 文件有效性的方法。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="驗證要求" %}}

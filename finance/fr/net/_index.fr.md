@@ -307,7 +307,7 @@ description: Bibliothèque C# ASP.NET VB.NET pour la conversion des états finan
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Créer XBRL instance - C#
+      Créer XBRL Instance - C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "create-xbrl-instance.cs" >}}
     </div>

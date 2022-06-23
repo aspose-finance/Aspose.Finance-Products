@@ -10,7 +10,7 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C#経由でOFXリクエストファイルを表示" h2="Microsoft Officeやその他のソフトウェアをインストールせずに、OFXリクエスト形式で財務レポートを表示する。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C#経由でOFXリクエストファイルを表示" h2="Microsoft Officeやその他のソフトウェアをインストールせずに、OFX要求形式で財務レポートを表示する。" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
@@ -23,7 +23,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="読書要件" %}}
 OFXリクエストドキュメントの表示に進むには、.NETFinanceAPIがアプリケーションに含まれる主な要件です。 
-- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Finance```を使用してインストールします。
+- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
 - または、オフラインのMSIインストーラーまたはDLLをZIPファイルで取得します。 [ダウンロード](https://downloads.aspose.com/finance/net)。{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="OFXリクエストファイルを表示するためのC#コード" offSpacer="" %}}

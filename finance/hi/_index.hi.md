@@ -14,6 +14,10 @@ description: समेकित वित्तीय विवरण तथा 
 .NET फ्रेमवर्क के साथ-साथ Mono में विंडोज फॉर्म, एएसपी.NET में XBRL और iXBRL फॉर्मेट प्रोसेसिंग के लिए हाई कोड एपीआई।
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python द्वारा .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+विकास को गति देने के लिए Python का उपयोग करें। Python स्क्रिप्ट के साथ दस्तावेज़ बनाना और उनमें हेरफेर करना। हमारा उत्पाद सुविधाओं का एक व्यापक सेट प्रदान करता है जिसकी आपको अपने सॉफ़्टवेयर समाधानों में आवश्यकता हो सकती है।
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="सभी हाई कोड API देखें" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

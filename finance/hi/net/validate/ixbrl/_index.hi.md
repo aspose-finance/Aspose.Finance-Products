@@ -18,12 +18,12 @@ otherformats:
 
 कोड स्निपेट में दिए गए चरणों का पालन करें या एक्स्टेंसिबल व्यावसायिक रिपोर्टिंग भाषा iXBRL दस्तावेज़ों को मान्य करने के लिए आपके आवेदन की आवश्यकता के अनुसार इसे बेहतर बनाएं। सुनिश्चित करें कि आपके आवेदन में मान्य आवश्यकताएं हैं।
 
-1. iXBRL फ़ाइल का उपयोग करके लोड करें [InlineXbrlDocument वर्ग](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) उदाहरण।1. लोड की गई फ़ाइल की वैधता की जांच करने के लिए, ताकि यह मेल खाना चाहिए [iXBRL विनिर्देश](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. उपयोग [मान्य करें ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) फ़ाइल वैधता के लिए विधि।
+1. iXBRL फ़ाइल का उपयोग करके लोड करें [InlineXbrlDocument वर्ग](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) उदाहरण।1. लोड की गई फ़ाइल की वैधता की जांच करने के लिए, ताकि यह मेल खाना चाहिए [iXBRL विनिर्देश](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. प्रयोग करना [मान्य करें ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) फ़ाइल वैधता के लिए विधि।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="सत्यापन आवश्यकता" %}}
 iXBRL दस्तावेज़ों के सत्यापन के लिए आगे बढ़ने के लिए, .NET Finance API आवेदन में शामिल करने की मुख्य आवश्यकता है। 
-- इसे कमांड लाइन के माध्यम से ```nuget install Aspose.Finance``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से `` `इंस्टॉल-पैकेज Aspose.Finance``` के साथ स्थापित करें।
+- इसे कमांड लाइन के माध्यम से ``nuget install Aspose.Finance``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से ```इंस्टॉल-पैकेज Aspose.Finance``` के साथ इंस्टॉल करें।
 - वैकल्पिक रूप से, एक ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें [डाउनलोड](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="iXBRL फाइलों को सत्यापित करने के लिए C# कोड" offSpacer="" %}}

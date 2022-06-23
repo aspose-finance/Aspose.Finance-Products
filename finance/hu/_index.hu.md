@@ -8,10 +8,14 @@ description: High Code API-k és ingyenes alkalmazások a kibővíthető üzleti
 {{< blocks/products/pf/i18n/upper-banner h1="Digitális pénzügyi megoldás" h2="Helyszíni API-k és ingyenes alkalmazások digitális pénzügyi jelentési megoldásokhoz, XBRL pénzügyi kimutatásokhoz és még sok máshoz anélkül, hogy bármilyen más szoftvertől függnének." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-brand.svg" imageAlt="Aspose.Finance Termékmegoldás" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Finance Magas kódú API-k:" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Finance Magas kódú API-k" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Finance for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="https://products.aspose.com/finance/net" >}}
 High Code API-k XBRL és iXBRL formátumfeldolgozáshoz a Windows Forms-ban, ASP-ben.NET a .NET Framework és a Mono használatával.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python ezen keresztül: .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Használja a Python-t a fejlesztés felgyorsításához. Dokumentumok létrehozása és kezelése Python szkriptekkel. Termékünk a szolgáltatások átfogó készletét kínálja, amelyekre szoftvermegoldásaiban szüksége lehet.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Az összes High Code API megtekintése" >}}

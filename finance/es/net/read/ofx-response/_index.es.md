@@ -18,12 +18,12 @@ otherformats:
 
 Siga los pasos del fragmento de código o mejórelo según las necesidades de su aplicación para leer los archivos de respuesta OFX del lenguaje extensible de informes comerciales. Asegúrese de tener requisitos de lectura dentro de su aplicación.
 
-1. Crear [Clase OfxResponseDocumentOfxResponseDocument class](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Ejemplo.1. Pase el nombre de un archivo de respuesta OFX válido como parámetro.1. Para obtener el detalle interno del archivo, use las clases relevantes como [Iniciar sesiónRespuesta](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)
+1. Crear [Clase OfxResponseDocumentOfxResponseDocument class](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Instancia.1. Pase el nombre de un archivo de respuesta OFX válido como parámetro.1. Para obtener el detalle interno del archivo, use las clases relevantes como [Iniciar sesiónRespuesta](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito de lectura" %}}
 Para proceder a la lectura de OFX documentos de respuesta, .NET Finance API es el requisito principal que debe incluirse en la solicitud. 
-- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
+- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
 - Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# código para leer OFX archivos de respuesta" offSpacer="" %}}

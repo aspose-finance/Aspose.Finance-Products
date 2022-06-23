@@ -4,7 +4,7 @@ url: /ja/net/conversion/
 description:  .NETライブラリを介してXBRL、iXBRL（インラインxbrl）、およびOFXファイル形式の財務レポートを変換するためのC#コード。
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C#を介して財務レポートファイルを変換する" h2="財務報告書は、.NETベースのアプリケーション内で、XBRL、iXBRL、およびOFXファイルを含む1.03から2.2形式への変換をフォーマットします。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C#を介して財務レポートファイルを変換する" h2=".NETベースのアプリケーション内で、XBRL、iXBRL、およびOFXファイルを含む1.03から2.2形式への財務レポート形式の変換。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -33,7 +33,7 @@ APIは、2つのクラスを提供することにより、OFX要求ファイル�
 
 {{% blocks/products/pf/feature-page-section h2="XBRL財務レポートの変換" %}}
 
-APIは、XBRLファイルのiXBRLおよびMicrosoft®ExcelXLSX形式への変換をサポートしています。変換プロセスは簡単です。最初にファイルをロードします。 [XbrlDocumentクラス](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument)。使用 [SaveOptionsクラス](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) ために [SaveFormat](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions/properties/saveformat)、XbrlDocumentクラスのSaveメソッドのパラメーターとして使用されます。 iXBLRファイルに保存するには、 [SaveFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat) が使用され、XLSX形式にエクスポートするには、SaveFormat.XLSXが使用されます。
+APIは、XBRLファイルのiXBRLおよびMicrosoft®ExcelXLSX形式への変換をサポートしています。変換プロセスは簡単です。最初にファイルをロードします。 [XbrlDocumentクラス](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument)。使用 [SaveOptionsクラス](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) 為に [SaveFormat](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions/properties/saveformat)、XbrlDocumentクラスのSaveメソッドのパラメーターとして使用されます。 iXBLRファイルに保存するには、 [SaveFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat) が使用され、XLSX形式にエクスポートするには、SaveFormat.XLSXが使用されます。
 
 {{% blocks/products/pf/feature-page-code h3="C#XBRLをiXBRLにエクスポートするコード" %}}
 

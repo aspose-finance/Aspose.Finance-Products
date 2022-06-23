@@ -13,7 +13,7 @@ description:  .NETライブラリを介してXBRLおよびiXBRLファイルの�
 
 {{% blocks/products/pf/feature-page-section h2="XBRLドキュメントを読む" %}}
 
-表示および分析のために既存のファイルをロードするには、XBRLファイルを読み取る必要があります。 XBLRドキュメントを読み取るために、APIは、上記の段落で説明したXbrlDocumentクラスに、有効なXBRLファイルを入力パラメーターとして提供します。他のAPIクラスを使用すると、開発者はその構造とデータを簡単に分析できます。いくつかのクラスは [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)、 [環境](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context)、 [単位](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit)。
+表示および分析のために既存のファイルをロードするには、XBRLファイルを読み取る必要があります。 XBLRドキュメントを読み取るために、APIは、上記の段落で説明したXbrlDocumentクラスに、入力パラメーターとして有効なXBRLファイルを提供します。他のAPIクラスを使用すると、開発者はその構造とデータを簡単に分析できます。いくつかのクラスは [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)、 [環境](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context)、 [単位](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit)。
 
 {{% blocks/products/pf/feature-page-code h3="C#読み取りコードXBRLファイル" %}}
 

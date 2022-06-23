@@ -67,7 +67,7 @@ description: مكتبة C# ASP .NET VB .NET لتحويل البيانات الم
   <footer>
    <small>
     <em>
-     بالنسبة
+     إلى عن على
     </em>
     .NET
    </small>
@@ -118,7 +118,7 @@ description: مكتبة C# ASP .NET VB .NET لتحويل البيانات الم
   <footer>
    <small>
     <em>
-     بالنسبة
+     إلى عن على
     </em>
     .NET
    </small>
@@ -174,7 +174,7 @@ description: مكتبة C# ASP .NET VB .NET لتحويل البيانات الم
   <footer>
    <small>
     <em>
-     بالنسبة
+     إلى عن على
     </em>
     .NET
    </small>

@@ -18,7 +18,7 @@ otherformats:
 
 按照代码片段中的步骤操作或根据您的应用程序需要对其进行增强，以读取可扩展的业务报告语言 XBRL 文件。确保在您的应用程序中有阅读要求。
 
-1. 创建 [XbrlDocument 类](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) 实例。1. 将有效 XBRL 文件的名称作为参数传递。1. 要获取文件的内部细节，请使用相关类，例如 [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [语境](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [单元](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+1. 创造 [XbrlDocument 类](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) 实例。1. 将有效 XBRL 文件的名称作为参数传递。1. 要获取文件的内部细节，请使用相关类，例如 [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [语境](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [单元](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="阅读要求" %}}

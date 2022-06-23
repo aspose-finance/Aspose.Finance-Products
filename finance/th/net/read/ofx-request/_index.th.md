@@ -23,7 +23,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดในการอ่าน" %}}
 หากต้องการอ่านเอกสารคำขอต่อ OFX .NET Finance API เป็นข้อกำหนดหลักที่จะรวมไว้ในใบสมัคร 
-- ติดตั้งผ่านบรรทัดคำสั่งเป็น ```nuget install Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
+- ติดตั้งผ่านบรรทัดคำสั่งเป็น ``` ติดตั้ง nuget Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
 - หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# รหัสสำหรับอ่าน OFX ไฟล์คำขอ" offSpacer="" %}}
@@ -38,7 +38,7 @@ otherformats:
 
 {{< blocks/products/pf/agp/other-supported-section title="ตัวเลือกการอ่านอื่นๆ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="ภาษาการรายงานธุรกิจที่ขยายได้แบบอินไลน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="Inline Extensible Business Reporting Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

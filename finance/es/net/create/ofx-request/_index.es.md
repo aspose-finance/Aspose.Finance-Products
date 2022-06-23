@@ -23,7 +23,7 @@ Después de tener los OFX requisitos de creación de archivos de solicitud dentr
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito de creación" %}}
 Para continuar con la creación del archivo de solicitud OFX, .NET Finance API es el requisito principal que debe incluirse en la aplicación de generación de informes. 
-- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
+- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
 - Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# código para la creación de OFX archivos de solicitud" offSpacer="" %}}
@@ -40,7 +40,7 @@ Para continuar con la creación del archivo de solicitud OFX, .NET Finance API e
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-response/" name="OFX archivo de respuesta" description="Formato 1.03 o 2.2" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL archivo" description="Lenguaje extensible de informes comerciales" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL Archivo" description="Lenguaje extensible de informes comerciales" >}}
 
 
 {{< /blocks/products/pf/agp/other-supported-section >}}

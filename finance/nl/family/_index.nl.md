@@ -5,7 +5,7 @@ url: /nl/family
 description: Bibliotheek om financiële gerelateerde formaten te manipuleren die worden gebruikt bij het indienen voor bedrijven en het genereren van rapporten voor fondsen en hefbomen op elk platform
 ---
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API\'s voor verwerking XBRL, iXBRL indelingen" h2="Native .NET API\'s om financiële formaten zoals XBRL, iXBRL te manipuleren zonder enige softwareafhankelijkheden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API\'s om XBRL, iXBRL-indelingen te verwerken" h2="Native .NET API\'s om financiële formaten zoals XBRL, iXBRL te manipuleren zonder enige softwareafhankelijkheden." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Finance Inclusief high-code API\'s" >}}

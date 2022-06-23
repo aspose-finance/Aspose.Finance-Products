@@ -345,7 +345,7 @@ description: C# ASP.NET VB.NET 庫，用於將財務報表轉換為可擴展業�
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/finance/net/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-finance/Aspose.Finance-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 參考文獻" href="https://apireference.aspose.com/finance/net" >}}
+{{< blocks/products/pf/slr-element name="API 參考資料" href="https://apireference.aspose.com/finance/net" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

@@ -16,7 +16,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="Comment créer des fichiers iXBRL(inline xbrl)" %}}
 
-Suivez les étapes de l'extrait de code ou améliorez-le en fonction des besoins de votre application pour générer des fichiers extensibles iXBRL(inline xbrl) en langage de création de rapports commerciaux. Assurez-vous d'avoir des exigences de création dans votre application.
+Suivez les étapes de l'extrait de code ou améliorez-le en fonction des besoins de votre application pour générer des fichiers iXBRL(inline xbrl) en langage extensible de création de rapports commerciaux. Assurez-vous d'avoir des exigences de création dans votre application.
 
 1. Créer [Classe InlineXbrlDocumentInlineXbrlDocument class](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Exemple.2. Construire l'arbre dom des éléments
 3. Appelez le [Enregistrer la méthode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline.inlinexbrldocument/save/methods/1) en fournissant le chemin du fichier cible.

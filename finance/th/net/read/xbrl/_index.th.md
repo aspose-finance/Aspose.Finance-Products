@@ -10,7 +10,7 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="อ่านไฟล์ XBRL ผ่าน C#" h2="การอ่านรายงานทางการเงินในรูปแบบ XBRL โดยไม่ต้องติดตั้ง Microsoft Office หรือซอฟต์แวร์อื่นๆ" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="อ่าน XBRL ไฟล์ผ่าน C#" h2="การอ่านรายงานทางการเงินในรูปแบบ XBRL โดยไม่ต้องติดตั้ง Microsoft Office หรือซอฟต์แวร์อื่นๆ" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
@@ -23,7 +23,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดในการอ่าน" %}}
 หากต้องการอ่านเอกสาร XBRL ต่อ .NET Finance API เป็นข้อกำหนดหลักที่จะรวมไว้ในใบสมัคร 
-- ติดตั้งผ่านบรรทัดคำสั่งเป็น ```nuget install Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
+- ติดตั้งผ่านบรรทัดคำสั่งเป็น ``` ติดตั้ง nuget Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
 - หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# รหัสสำหรับอ่าน XBRL ไฟล์" offSpacer="" %}}
@@ -38,7 +38,7 @@ otherformats:
 
 {{< blocks/products/pf/agp/other-supported-section title="ตัวเลือกการอ่านอื่นๆ" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="ภาษาการรายงานธุรกิจที่ขยายได้แบบอินไลน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/read/ixbrl/" name="iXBRL" description="Inline Extensible Business Reporting Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

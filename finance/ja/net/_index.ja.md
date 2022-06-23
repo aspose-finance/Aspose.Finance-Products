@@ -67,7 +67,7 @@ description: C# ASP .NET VB .NETライブラリを使用して、財務諸表を
   <footer>
    <small>
     <em>
-     ために
+     為に
     </em>
     .NET
    </small>
@@ -118,7 +118,7 @@ description: C# ASP .NET VB .NETライブラリを使用して、財務諸表を
   <footer>
    <small>
     <em>
-     ために
+     為に
     </em>
     .NET
    </small>
@@ -174,7 +174,7 @@ description: C# ASP .NET VB .NETライブラリを使用して、財務諸表を
   <footer>
    <small>
     <em>
-     ために
+     為に
     </em>
     .NET
    </small>
@@ -321,7 +321,7 @@ description: C# ASP .NET VB .NETライブラリを使用して、財務諸表を
     </p>
     <div class="codeblock" id="code">
      <h3>
-      iXBRLインスタンスドキュメントを読み取る-C#
+      iXBRLインスタンスドキュメントを読む-C#
      </h3>
 {{< gist "aspose-com-gists" "45ce5017ccbed6346157615aa7e5a36f" "read-iXBRL-instance-documents.cs" >}}
     </div>

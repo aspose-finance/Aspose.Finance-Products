@@ -35,7 +35,7 @@ description:  Κωδικός C# για μετατροπή οικονομικών
 
 Το API υποστηρίζει τη μετατροπή XBRL αρχείων σε μορφή iXBRL και Microsoft® Excel XLSX. Η διαδικασία μετατροπής είναι απλή, πρώτα φορτώστε το αρχείο μέσω [Τάξη εγγράφων Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument). Χρησιμοποιήστε το [Κλάση SaveOptions](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) Για [SaveFormat](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions/properties/saveformat), που θα χρησιμοποιηθεί ως παράμετρος στη μέθοδο Save της κλάσης XbrlDocument. Για αποθήκευση σε αρχείο iXBLR, [SaveFormat.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat) θα χρησιμοποιηθεί και για εξαγωγή σε μορφή XLSX, θα χρησιμοποιηθεί SaveFormat.XLSX.
 
-{{% blocks/products/pf/feature-page-code h3="C# Κώδικας για εξαγωγή XBRL σε iXBRL" %}}
+{{% blocks/products/pf/feature-page-code h3="C# Κωδικός για εξαγωγή XBRL σε iXBRL" %}}
 
 {{< gist "aspose-com-gists" "d5ad3a4d5457d9a433b6c66322f01957" "convert-xbrl-to-ixbrl.cs" >}} 
 

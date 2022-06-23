@@ -14,6 +14,10 @@ description: High Code API a bezplatné aplikace pro zpracování formátů eXte
 High Code API pro zpracování formátu XBRL a iXBRL ve Windows Forms, ASP.NET pomocí .NET Framework a také v Mono.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python prostřednictvím .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+K urychlení vývoje použijte Python. Generujte a manipulujte s dokumenty pomocí Python skriptů. Náš produkt poskytuje komplexní sadu funkcí, které můžete potřebovat ve svých softwarových řešeních.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Zobrazit všechna rozhraní API s vysokým kódem" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

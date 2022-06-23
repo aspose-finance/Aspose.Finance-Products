@@ -2,7 +2,7 @@
 title: グローバルデジタル財務報告API-Aspose 
 weight: 10
 url: /ja/family
-description: 企業への提出や、任意のプラットフォームでの資金とレバレッジのレポートの生成に使用される財務関連の形式を操作するためのライブラリ
+description: 企業への提出や、任意のプラットフォームでの資金やレバレッジのレポートの生成に使用される財務関連の形式を操作するためのライブラリ
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1="XBRL、iXBRLフォーマットを処理するためのAPI" h2="ソフトウェアに依存せずにXBRL、iXBRLなどの財務関連の形式を操作するためのネイティブ.NETAPI。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}

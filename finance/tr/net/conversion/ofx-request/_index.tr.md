@@ -25,7 +25,7 @@ otherformats: OFX Response
 
 {{% blocks/products/pf/agp/feature-section-col title="Dönüşüm Gereksinimi" %}}
 OFX İstek Dosyası'nı 1.03'ten 2.2'ye dönüştürmeye devam etmek için .NET Finance API ana gereksinimdir. 
-- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` olarak veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
 - Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="OFX istek dosyası için 1.03\'ten 2.2\'ye biçim dönüştürme C# kodu" offSpacer="" %}}

@@ -18,12 +18,12 @@ otherformats:
 
 اتبع الخطوات الموجودة في مقتطف الشفرة أو قم بتحسينه وفقًا لاحتياجات تطبيقك للتحقق من مستندات لغة إعداد التقارير التجارية الموسعة iXBRL. تأكد من وجود متطلبات التحقق من صحة في التطبيق الخاص بك.
 
-1. تحميل ملف iXBRL باستخدام [فئة InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) نموذج.1. للتحقق من صلاحية الملف الذي تم تحميله ، بحيث يتطابق مع [مواصفات iXBRL](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. يستخدم [التحقق من صحة ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) طريقة لصلاحية الملف.
+1. تحميل ملف iXBRL باستخدام [فئة InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) مثال.1. للتحقق من صلاحية الملف الذي تم تحميله ، بحيث يتطابق مع [مواصفات iXBRL](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. يستخدم [التحقق من صحة ()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) طريقة لصلاحية الملف.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات التحقق من الصحة" %}}
 لمتابعة التحقق من صحة مستندات iXBRL ، فإن .NET Finance API هو المطلب الرئيسي الذي يجب تضمينه في التطبيق. 
-- قم بتثبيته عبر سطر الأوامر باسم "nuget install Aspose.Finance" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
+- قم بتثبيته عبر سطر الأوامر كـ `` nuget install Aspose.Finance "" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
 - بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# للتحقق من صحة ملفات iXBRL" offSpacer="" %}}

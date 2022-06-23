@@ -18,7 +18,7 @@ otherformats: OFX Response
 
 在您的應用程序中滿足 OFX 請求文件創建要求後，按照代碼片段中的步驟操作或根據您的要求對其進行增強。
 
-1. 創建 [OfxRequestDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 目的。1. 使用 API 提供的不同類分配相關屬性，例如 [登錄請求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [金融機構](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution), [聲明交易請求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest)1. 對 xml 和 sgml 文件分別使用 ofxVersion V2x 或 V1x [Ofx版本枚舉](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) 作為 Save 方法中的參數。1. 調用 [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) 通過提供目標文件和 ofxVersion。
+1. 創造 [OfxRequestDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 目的。1. 使用 API 提供的不同類分配相關屬性，例如 [登錄請求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [金融機構](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution), [聲明交易請求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest)1. 對 xml 和 sgml 文件分別使用 ofxVersion V2x 或 V1x [Ofx版本枚舉](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) 作為 Save 方法中的參數。1. 調用 [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) 通過提供目標文件和 ofxVersion。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="創作要求" %}}

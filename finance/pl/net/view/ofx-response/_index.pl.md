@@ -16,7 +16,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="Jak wyświetlić OFX pliki odpowiedzi" %}}
 
-Wykonaj czynności opisane we fragmencie kodu lub ulepsz go zgodnie z potrzebami aplikacji, aby wyświetlić pliki odpowiedzi z rozszerzalnym językiem raportowania biznesowego OFX. Upewnij się, że aplikacja zawiera wymagania dotyczące czytania.
+Wykonaj czynności opisane we fragmencie kodu lub ulepsz go zgodnie z potrzebami aplikacji, aby wyświetlić pliki odpowiedzi w języku OFX. Upewnij się, że aplikacja zawiera wymagania dotyczące czytania.
 
 1. Tworzyć [Klasa OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Instancja.1. Przekaż nazwę poprawnego pliku odpowiedzi OFX jako parametr.1. Aby uzyskać wewnętrzne szczegóły pliku, użyj odpowiednich klas, takich jak [Zaloguj sięOdpowiedź](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)1. Pokaż te informacje
 {{% /blocks/products/pf/agp/feature-section-col %}}

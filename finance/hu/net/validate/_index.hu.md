@@ -15,7 +15,7 @@ description:  C# kód a pénzügyi jelentések érvényesítéséhez a(z) XBRL �
 
 A(z) XBRL fájl érvényesítése számos esetben szükséges, például az adatok megfelelő szerkezetű és formátumú ellenőrzéséhez. Az XBLR dokumentumok érvényesítéséhez először használja az XbrlDocument osztályt a XBRL fájl betöltéséhez. Használatához a [érvényesít()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) a metódusa [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) osztályba, először inicializálja a [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) XbrlDocument objektummal, XbrlInstances. Ismételje meg mindegyiket [XbrlInstance.ValidationErrors](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/properties/validationerrors) hogy megkapja a megfelelő hibakódot, és ennek megfelelően járjon el úgy, hogy kinyomtatja a testreszabott hibaüzeneteket a konzolon vagy beírja egy fájlba.
 
-{{% blocks/products/pf/feature-page-code h3="C# Kód a XBRL fájl érvényesítéséhez" %}}
+{{% blocks/products/pf/feature-page-code h3="C# kód a XBRL fájl érvényesítéséhez" %}}
 
 {{< gist "aspose-com-gists" "57b485cb0e34c61c54f5e13e0de84fcb" "validate-xbrl-file.cs" >}} 
 

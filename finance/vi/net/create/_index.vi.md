@@ -9,7 +9,7 @@ description:  C# mã để tạo Báo cáo Tài chính trong XBRL và OFX tệp 
 {{% blocks/products/pf/feature-page-summary %}}
 
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net/) là một tính năng phong phú, có thể mở rộng và dễ sử dụng để tạo và xử lý báo cáo tài chính API. Các nhà phát triển có thể dễ dàng tạo phiên bản XBRL từ đầu cũng như có thể thêm tham chiếu giản đồ, ngữ cảnh, đơn vị, mục, liên kết chú thích cuối trang, tham chiếu vai trò và 
-tham chiếu vai trò vòng cung. API cung cấp lớp phù hợp cho từng tính năng, chẳng hạn như đối với ngữ cảnh, nhà phát triển có thể sử dụng [ContextPeriod](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod), [ContextEntity](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) và [Bối cảnh](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
+tham chiếu vai trò vòng cung. API cung cấp lớp phù hợp cho từng tính năng, chẳng hạn như đối với ngữ cảnh, nhà phát triển có thể sử dụng [ContextPeriod](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod), [ContextEntity](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) và [Định nghĩa bài văn](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
 Hơn nữa, API cũng hỗ trợ tạo yêu cầu / phản hồi định dạng trao đổi tài chính mở (OFX) ở định dạng 1.03 hoặc 2.2.
 
 {{% /blocks/products/pf/feature-page-summary %}}

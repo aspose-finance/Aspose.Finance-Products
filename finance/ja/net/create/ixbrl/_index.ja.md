@@ -10,7 +10,7 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="C#を介してiXBRL（インラインxbrl）ファイルを作成します" h2="iXBRL（インラインxbrl）ファイルの作成。MicrosoftOfficeやその他のソフトウェアをインストールする必要はありません。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C#を介してiXBRL（インラインxbrl）ファイルを作成します" h2="iXBRL（インラインxbrl）ファイルは、MicrosoftOfficeやその他のソフトウェアをインストールせずに作成できます。" >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
@@ -18,14 +18,14 @@ otherformats:
 
 コードスニペットの手順に従うか、拡張可能なビジネスレポート言語iXBRL（インラインxbrl）ファイルを生成するためのアプリケーションのニーズに応じてコードスニペットを拡張します。アプリケーション内に作成要件があることを確認してください。
 
-1. 作成 [InlineXbrlDocumentクラス](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 実例。2.要素domツリーを構築します
+1. 作成 [InlineXbrlDocumentクラス](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 実例。2.要素のDOMツリーを構築します
 3.に電話します [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline.inlinexbrldocument/save/methods/1) ターゲットファイルのパスを指定します。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="作成要件" %}}
 iXBRL（インラインxbrl）ドキュメントの生成を続行するには、.NETFinanceAPIがアプリケーションに含まれる主な要件です。 
-- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Finance```を使用してインストールします。
+- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
 - または、オフラインのMSIインストーラーまたはDLLをZIPファイルで取得します。 [ダウンロード](https://downloads.aspose.com/finance/net)。{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="XBRLファイル作成用のC#コード" offSpacer="" %}}

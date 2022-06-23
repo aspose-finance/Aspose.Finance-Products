@@ -13,7 +13,7 @@ description:  C# kode untuk membaca laporan keuangan dalam file XBRL dan iXBRL m
 
 {{% blocks/products/pf/feature-page-section h2="Baca XBRL Dokumen" %}}
 
-Membaca file XBRL diperlukan untuk memuat file yang ada untuk dilihat dan dianalisis. Untuk membaca dokumen XBLR, API menyediakan kelas XbrlDocument seperti yang disebutkan dalam paragraf di atas dengan file XBRL yang valid sebagai parameter masukan. Gunakan kelas API lainnya, pengembang dapat dengan mudah menganalisis struktur dan datanya. Beberapa kelas adalah [SkemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Konteks](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Satuan](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
+Membaca file XBRL diperlukan untuk memuat file yang ada untuk dilihat dan dianalisis. Untuk membaca dokumen XBLR, API menyediakan kelas XbrlDocument seperti yang disebutkan dalam paragraf di atas dengan file XBRL yang valid sebagai parameter input. Gunakan kelas API lainnya, pengembang dapat dengan mudah menganalisis struktur dan datanya. Beberapa kelas adalah [SkemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Konteks](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Satuan](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Membaca XBRL Berkas" %}}
 

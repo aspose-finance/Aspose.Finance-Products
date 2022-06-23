@@ -16,7 +16,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="Så här läser du XBRL-filer" %}}
 
-Följ stegen i kodavsnittet eller förbättra det i enlighet med ditt programs behov för att läsa utökningsbara filer för affärsrapporteringsspråket XBRL. Se till att ha läskrav i din ansökan.
+Följ stegen i kodavsnittet eller förbättra det efter dina programbehov för att läsa utökningsbara filer för affärsrapporteringsspråket XBRL. Se till att ha läskrav i din ansökan.
 
 1. Skapa [XbrlDocument-klass](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Exempel.1. Skicka namnet på en giltig XBRL-fil som en parameter.1. För att få den inre detaljen i filen, använd de relevanta klasserna som t.ex [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Sammanhang](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enhet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}

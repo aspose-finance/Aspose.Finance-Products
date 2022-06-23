@@ -41,7 +41,7 @@ Pour procéder à la visualisation des documents iXBRL, .NET Finance API est la 
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres options d\'affichage" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/view/xbrl/" name="XBRL" description="Langage de reporting commercial extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/view/xbrl/" name="XBRL" description="Langage de reporting métier extensible" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

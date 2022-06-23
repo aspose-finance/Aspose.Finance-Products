@@ -1,6 +1,6 @@
 ﻿---
 title: Μετατροπή XBRL σε iXBRL μέσω C#
-description: Δείγμα κώδικα για τη μετατροπή XBRL σε αναφορά html SEC C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία XBRL σε μετατροπή αναφοράς SEC html εντός εφαρμογών που βασίζονται σε .NET. 
+description: Δείγμα κώδικα για τη μετατροπή XBRL σε αναφορά html SEC C#. Χρησιμοποιήστε API παράδειγμα κώδικα για ομαδικά αρχεία XBRL για μετατροπή αναφοράς SEC html εντός εφαρμογών που βασίζονται σε .NET. 
 url: /el/net/conversion/xbrl-to-sec-html-report/
 family: finance
 platformtag: net
@@ -10,7 +10,7 @@ outformat: HTML
 otherformats: XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή XBRL σε αναφορά html SEC μέσω C#" h2="Αναφορά μετατροπής XBRL σε SEC html χωρίς να χρειάζεται άλλο λογισμικό εντός εφαρμογών που βασίζονται σε .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Μετατροπή XBRL σε αναφορά html SEC μέσω C#" h2="Αναφορά μετατροπής XBRL σε SEC html χωρίς να απαιτείται άλλο λογισμικό εντός εφαρμογών που βασίζονται σε .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net/) είναι ένα API για την επεξεργασία XBRL, iXBRL μορφές και οι προγραμματιστές μπορούν εύκολα να δημιουργήσουν εφαρμογές λογισμικού διαχείρισης επιχειρηματικών διαδικασιών, οικονομικής ανάλυσης και αναφοράς για μετατροπή, δημιουργία, ανάγνωση, προβολή και επικύρωση XBRL και iXBRL που σχετίζονται με τα οικονομικά αρχεία. 

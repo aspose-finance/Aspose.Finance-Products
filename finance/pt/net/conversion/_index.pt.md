@@ -33,7 +33,7 @@ API oferece suporte à criação de OFX arquivos de solicitação e resposta for
 
 {{% blocks/products/pf/feature-page-section h2="XBRL Conversão de relatórios financeiros" %}}
 
-API suporta a conversão de arquivos XBRL para iXBRL e formato Microsoft® Excel XLSX. O processo de conversão é simples, primeiro carregue o arquivo via [Classe XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument). Use o [Classe SaveOptions](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) para [Salvar formato](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions/properties/saveformat), para ser usado como parâmetro no método Save da classe XbrlDocument. Para salvar no arquivo iXBLR, [Salvar formato.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat) será usado e para exportar para o formato XLSX, será usado SaveFormat.XLSX.
+API suporta a conversão de arquivos XBRL para iXBRL e formato Microsoft® Excel XLSX. O processo de conversão é simples, primeiro carregue o arquivo via [Classe XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument). Use o [Classe SaveOptions](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions) por [Salvar formato](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveoptions/properties/saveformat), para ser usado como parâmetro no método Save da classe XbrlDocument. Para salvar no arquivo iXBLR, [Salvar formato.IXBRL](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/saveformat) será usado e para exportar para o formato XLSX, será usado SaveFormat.XLSX.
 
 {{% blocks/products/pf/feature-page-code h3="C# Código para exportar XBRL para iXBRL" %}}
 

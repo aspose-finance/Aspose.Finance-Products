@@ -18,14 +18,14 @@ otherformats:
 
 Kövesse a kódrészlet lépéseit, vagy javítsa azt az alkalmazás igényei szerint bővíthető üzleti jelentési nyelvű iXBRL(inline xbrl) fájlok létrehozásához. Ügyeljen arra, hogy az alkalmazáson belül legyenek létrehozási követelmények.
 
-1. Teremt [InlineXbrlDocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Példa.2. Építsd meg a dom fa elemet
+1. Teremt [InlineXbrlDocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Példa.2. Építsd meg a domfa elemet
 3. Hívja a [Mentés módja](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline.inlinexbrldocument/save/methods/1) a célfájl elérési út megadásával.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Létrehozási követelmény" %}}
 A(z) iXBRL(inline xbrl) dokumentumok generálásához a(z) .NET Finance API fő követelmény, hogy szerepeljen az alkalmazásban. 
-- Telepítse a parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
+- Telepítse parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
 - Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# kód XBRL fájl létrehozásához" offSpacer="" %}}

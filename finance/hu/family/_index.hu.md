@@ -8,7 +8,7 @@ description: Könyvtár a pénzügyi vonatkozású formátumok manipulálására
 {{< blocks/products/pf/i18n/upper-banner h1="API-k a(z) XBRL feldolgozásához, iXBRL formátumok" h2="Natív .NET API-k a pénzügyekkel kapcsolatos formátumok, például a XBRL, iXBRL szoftverfüggőség nélküli manipulálására." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance.svg" pfName="Aspose.Finance" downloadUrl="https://downloads.aspose.com/finance" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Finance Magas kódú API-k:" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Finance Magas kódú API-k" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Finance for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="/finance/net/" >}}
 Célozzon Windows Forms-ot, ASP-t.NET vagy bármilyen típusú alkalmazást a .NET Framework 2.0 vagy újabb verzióján.

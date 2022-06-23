@@ -18,7 +18,7 @@ otherformats:
 
 遵循代码片段中的步骤或根据您的应用程序需要对其进行增强，以查看可扩展的业务报告语言 iXBRL 文档。确保在您的应用程序中有阅读要求。
 
-1. 创建 [InlineXbrlDocument 类](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 实例。2. 将有效 iXBRL 文件的名称作为参数传递。
+1. 创造 [InlineXbrlDocument 类](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 实例。2. 将有效 iXBRL 文件的名称作为参数传递。
 3. 要获取文件的内部详细信息，请使用相关类，例如 [内联事实](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [语境](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [单元](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 4. 显示这些信息
 

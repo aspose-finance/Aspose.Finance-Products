@@ -23,7 +23,7 @@ Volg de stappen in het codefragment of verbeter het naar gelang uw toepassingsbe
 
 {{% blocks/products/pf/agp/feature-section-col title="Leesvereiste:" %}}
 Om door te gaan met het lezen van XBRL documenten, is .NET Finance API de belangrijkste vereiste die moet worden opgenomen in de toepassing. 
-- Installeer het via de opdrachtregel als ```nuget install Aspose.Finance``` of via Package Manager Console van Visual Studio met ```Install-Package Aspose.Finance```.
+- Installeer het via de opdrachtregel als ```nuget install Aspose.Finance``` of via de Package Manager Console van Visual Studio met ```Install-Package Aspose.Finance```.
 - U kunt ook het offline MSI-installatieprogramma of DLL's in een ZIP-bestand downloaden van: [downloads](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# code om XBRL bestanden te lezen" offSpacer="" %}}

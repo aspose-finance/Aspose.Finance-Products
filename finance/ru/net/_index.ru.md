@@ -67,7 +67,7 @@ description: Библиотека C# ASP.NET VB.NET для преобразов�
   <footer>
    <small>
     <em>
-     для
+     за
     </em>
     .NET
    </small>
@@ -118,7 +118,7 @@ description: Библиотека C# ASP.NET VB.NET для преобразов�
   <footer>
    <small>
     <em>
-     для
+     за
     </em>
     .NET
    </small>
@@ -174,7 +174,7 @@ description: Библиотека C# ASP.NET VB.NET для преобразов�
   <footer>
    <small>
     <em>
-     для
+     за
     </em>
     .NET
    </small>

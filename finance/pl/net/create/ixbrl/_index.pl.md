@@ -1,5 +1,5 @@
 ﻿---
-title: Utwórz plik iXBRL(wbudowany xbrl) przez C#
+title: Utwórz plik iXBRL(inline xbrl) przez C#
 description: Przykładowy kod do tworzenia pliku iXBRL(inline xbrl). Użyj przykładowego kodu API do generowania plików wsadowych iXBRL(inline xbrl) w aplikacjach opartych na .NET. 
 url: /pl/net/create/ixbrl/
 family: finance

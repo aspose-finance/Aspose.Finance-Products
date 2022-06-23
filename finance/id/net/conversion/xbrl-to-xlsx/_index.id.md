@@ -26,7 +26,7 @@ otherformats: iXBRL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Persyaratan Konversi" %}}
-Untuk melanjutkan konversi XBRL ke XLSX, .NET Finance API adalah persyaratan utama. Instal melalui baris perintah sebagai ```nuget install Aspose.Finance``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Finance```.
+Untuk melanjutkan konversi XBRL ke XLSX, .NET Finance API adalah persyaratan utama. Instal melalui baris perintah sebagai ``` nuget install Aspose.Finance``` atau melalui Package Manager Console dari Visual Studio dengan ```Install-Package Aspose.Finance```.
 
 Atau, dapatkan penginstal MSI offline atau DLL dalam file ZIP dari [unduhan](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

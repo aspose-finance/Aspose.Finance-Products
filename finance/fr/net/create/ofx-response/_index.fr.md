@@ -40,7 +40,7 @@ Pour procéder à la création du fichier de réponse OFX, .NET Finance API est 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/ofx-request/" name="OFX fichier de demande" description="Format 1.03 ou 2.2" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL Fichier" description="Langage de reporting commercial extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/create/xbrl/" name="XBRL Fichier" description="Langage de reporting métier extensible" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

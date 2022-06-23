@@ -8,7 +8,7 @@ description:  C# kód a pénzügyi jelentések konvertálásához XBRL, iXBRL(in
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) egy funkciókban gazdag, bővíthető és könnyen használható API. A fejlesztők egyszerűen ellenőrizhetnek XBRL példányt, linkbázist és taxonómiai sémát a használatával [validate() metódus](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) amelyeknek meg kell felelniük a specifikációban előírt szintaktikai követelményeknek. Sőt, képesek olvasni XBRL, iXBRL formátumokat, valamint a semmiből létrehozni XBRL példányt. Ezenkívül képesek **konvertálni XBRL formátumot** iXBRL és Microsoft Excel XLSX fájlokká. A API támogatja a nyílt pénzügyi csere (OFX) formátumú kérés/válasz létrehozását is, és a OFX fájl kérés/válasz fájlt 1.03-ról 2.2 formátumra konvertálja.
+[Aspose.Finance for .NET](https://products.aspose.com/finance/net/) egy funkciókban gazdag, bővíthető és könnyen használható API. A fejlesztők egyszerűen ellenőrizhetnek XBRL példányt, linkbázist és taxonómiai sémát a használatával [validate() metódus](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) amelyeknek meg kell felelniük a specifikációban előírt szintaktikai követelményeknek. Sőt, képesek olvasni XBRL, iXBRL formátumokat, valamint a semmiből létrehozni XBRL példányt. Ezenkívül képesek **konvertálni XBRL formátumot** iXBRL és Microsoft Excel XLSX fájlokká. A API támogatja a nyílt pénzügyi csere (OFX) formátumú kérés/válasz létrehozását is, és konvertálja a OFX fájl kérés/válasz fájlt 1.03-ról 2.2 formátumra.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 

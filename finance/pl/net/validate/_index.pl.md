@@ -1,10 +1,10 @@
 ﻿---
-title: Weryfikuj raporty finansowe za pomocą .NET
+title: Weryfikuj raporty finansowe za pośrednictwem .NET
 url: /pl/net/validate/
 description:  C# kod do weryfikacji raportów finansowych w plikach XBRL i iXBRL za pośrednictwem biblioteki .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Sprawdź poprawność plików raportów finansowych za pomocą C#" h2="Sprawdzanie formatów raportów finansowych, w tym XBRL i iXBRL w aplikacjach opartych na .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Sprawdź poprawność plików raportów finansowych za pośrednictwem C#" h2="Sprawdzanie formatów raportów finansowych, w tym XBRL i iXBRL w aplikacjach opartych na .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -25,7 +25,7 @@ Walidacja pliku XBRL jest wymagana w wielu przypadkach, takich jak sprawdzenie, 
 
 {{% blocks/products/pf/feature-page-section h2="Sprawdź poprawność iXBRL dokumentu" %}}
 
-Aby uzyskać walidację iXLRB, załaduj go przez [Wbudowany dokument Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) klasy i użyj jej metody Validate(). w [Kod błędu weryfikacji](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) wyliczenia, kody błędów walidacji są zdefiniowane dla każdej reguły walidacji. Niewiele kodów to ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup itp. Deweloperzy mogą debugować i wyświetlać kody jako użytkownicy końcowi lub mogą wskazać kierunek rozwiązania problemu.
+Aby uzyskać walidację iXLRB, załaduj go przez [Wbudowany dokument Xbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) klasy i użyj jej metody Validate(). W [Kod błędu weryfikacji](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) wyliczenia, kody błędów walidacji są zdefiniowane dla każdej reguły walidacji. Niewiele kodów to ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup itp. Deweloperzy mogą debugować i wyświetlać kody jako użytkownicy końcowi lub mogą wskazać kierunek rozwiązania problemu.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kod do weryfikacji iXBRL dokumentu" %}}
 

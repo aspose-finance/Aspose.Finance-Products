@@ -23,7 +23,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="読書要件" %}}
 OFX応答ドキュメントの表示に進むには、.NETFinanceAPIがアプリケーションに含まれる主な要件です。 
-- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Finance```を使用してインストールします。
+- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
 - または、オフラインのMSIインストーラーまたはDLLをZIPファイルで取得します。 [ダウンロード](https://downloads.aspose.com/finance/net)。{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="OFX応答ファイルを表示するためのC#コード" offSpacer="" %}}

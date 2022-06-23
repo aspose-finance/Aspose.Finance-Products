@@ -20,7 +20,7 @@ otherformats: OFX Response
 {{< blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Πώς να μετατρέψετε το αρχείο απόκρισης OFX από μορφή 1.03 σε 2.2" %}}
-1. Φόρτωση αρχείου εισόδου χρησιμοποιώντας [Κλάση OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument).1. Χρησιμοποιήστε το ofxVersion V2x από [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) ως παράμετρος στη μέθοδο Save.1. Καλέστε το [Μέθοδος αποθήκευσης](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) παρέχοντας το αρχείο προορισμού και το ofxVersion.
+1. Φόρτωση αρχείου εισόδου χρησιμοποιώντας [Κλάση OfxResponseDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument).1. Χρησιμοποιήστε το ofxVersion V2x από [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) ως παράμετρος στη μέθοδο Save.1. Τηλεφώνησε στο [Μέθοδος αποθήκευσης](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) παρέχοντας το αρχείο προορισμού και το ofxVersion.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Απαίτηση μετατροπής" %}}

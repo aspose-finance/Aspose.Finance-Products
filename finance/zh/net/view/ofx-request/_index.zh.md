@@ -18,7 +18,7 @@ otherformats:
 
 按照代码段中的步骤或根据您的应用程序需要对其进行增强，以查看可扩展的业务报告语言 OFX 请求文件。确保在您的应用程序中有阅读要求。
 
-1. 创建 [OfxRequestDocument 类](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 实例。1. 将有效 OFX 请求文件的名称作为参数传递。1. 要获取文件的内部细节，请使用相关类，例如 [登录请求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)1. 显示这些信息
+1. 创造 [OfxRequestDocument 类](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 实例。1. 将有效 OFX 请求文件的名称作为参数传递。1. 要获取文件的内部细节，请使用相关类，例如 [登录请求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)1. 显示这些信息
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="阅读要求" %}}

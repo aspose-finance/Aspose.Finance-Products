@@ -9,14 +9,14 @@ description:  C# لإنشاء تقارير مالية في XBRL ، و OFX طلب
 {{% blocks/products/pf/feature-page-summary %}}
 
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net/) هي ميزة غنية وقابلة للتوسيع وسهلة الاستخدام لإنشاء التقارير المالية ومعالجتها API. يمكن للمطورين إنشاء مثيل XBRL من البداية بسهولة بالإضافة إلى إضافة مرجع مخطط وسياق ووحدة وعنصر وارتباط حاشية سفلية ومرجع دور و 
-مرجع دور القوس. يوفر API فئة ملائمة لكل ميزة مثل السياق ، يمكن للمطورين استخدامها [السياق](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod)و [السياق الكيان](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) و [سياق الكلام](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
+مرجع دور القوس. يوفر API فئة ملائمة لكل ميزة مثل السياق ، يمكن للمطورين استخدامها [السياق](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextperiod)و [السياق الكيان](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/contextentity) و [سياق](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context). 
 علاوة على ذلك ، يدعم API أيضًا إنشاء طلب / استجابة بتنسيق التبادل المالي المفتوح (OFX) بتنسيق 1.03 أو 2.2.
 
 {{% /blocks/products/pf/feature-page-summary %}}
 
 {{% blocks/products/pf/feature-page-section h2="قم بإنشاء ملف XBRL عن طريق إضافة عنصر" %}}
 
-لإنشاء ملف XBRL وإضافة عنصر إلى المستند ، تكون العملية هي إنشاء [فئة XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) نموذج. قم بإعداد الإعدادات ذات الصلة للعنصر باستخدام فئات API المناسبة مثل [فئة SchemaRef](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref)، فئات السياق ذات الصلة كما هو مذكور أعلاه و [فئة المفهوم](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). أخيرًا حدد وخصص [فئة البند](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) خصائص وكذلك استدعاء [طريقة الحفظ](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) ل [إنشاء XBRL](https://products.aspose.com/finance/net/create/xbrl/) ملف في القرص.
+لإنشاء ملف XBRL وإضافة عنصر إلى المستند ، تكون العملية هي إنشاء [فئة XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) نموذج. قم بإعداد الإعدادات ذات الصلة للعنصر باستخدام فئات API المناسبة مثل [فئة SchemaRef](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemaref)، فئات السياق ذات الصلة كما هو مذكور أعلاه و [فئة المفهوم](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/concept). أخيرًا حدد وخصص [فئة البند](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/item) خصائص وكذلك استدعاء [طريقة الحفظ](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) إلى [إنشاء XBRL](https://products.aspose.com/finance/net/create/xbrl/) ملف في القرص.
 
 {{% blocks/products/pf/feature-page-code h3="C# رمز لإنشاء XBRL ملف عن طريق إضافة عنصر" %}}
 

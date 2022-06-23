@@ -18,12 +18,12 @@ otherformats:
 
 Следуйте инструкциям во фрагменте кода или улучшите его в соответствии с требованиями вашего приложения для проверки документов XBRL на расширяемом языке бизнес-отчетности. Убедитесь, что в вашем приложении есть проверочные требования.
 
-1. Загрузите файл XBRL, используя [Класс XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Пример.1. Чтобы проверить правильность загруженного файла, чтобы он совпадал с [XBRL спецификация](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Чтобы проверить достоверность, используйте [Подтвердить()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) метод [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) сорт.
+1. Загрузите файл XBRL, используя [Класс XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Пример.1. Чтобы проверить правильность загруженного файла, чтобы он совпадал с [XBRL спецификация](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Чтобы проверить достоверность, используйте [Подтвердить()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) метод [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) учебный класс.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Требование проверки" %}}
 Чтобы приступить к проверке XBRL документов, .NET Finance API является основным требованием, которое должно быть включено в приложение. 
-- Установите его через командную строку как ```nuget install Aspose.Finance``` или через консоль диспетчера пакетов Visual Studio с помощью ```Install-Package Aspose.Finance```.
+- Установите его через командную строку как ```nuget install Aspose.Finance``` или через консоль диспетчера пакетов Visual Studio с ```Install-Package Aspose.Finance```.
 - Кроме того, получите автономный установщик MSI или библиотеки DLL в ZIP-файле из [загрузки](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# код для проверки XBRL файлов" offSpacer="" %}}

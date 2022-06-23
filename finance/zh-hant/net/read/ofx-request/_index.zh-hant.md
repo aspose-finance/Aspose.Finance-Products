@@ -18,7 +18,7 @@ otherformats:
 
 遵循代碼片段中的步驟或根據您的應用程序需要對其進行增強，以讀取可擴展的業務報告語言 OFX 請求文件。確保在您的應用程序中有閱讀要求。
 
-1. 創建 [OfxRequestDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 實例。1. 將有效 OFX 請求文件的名稱作為參數傳遞。1. 要獲取文件的內部細節，請使用相關類，例如 [登錄請求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)
+1. 創造 [OfxRequestDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 實例。1. 將有效 OFX 請求文件的名稱作為參數傳遞。1. 要獲取文件的內部細節，請使用相關類，例如 [登錄請求](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="閱讀要求" %}}

@@ -26,7 +26,7 @@ otherformats: HTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisitos de conversión" %}}
-Para proceder a la conversión de informes de XBRL a SEC xlsx, .NET Finance API es el requisito principal. Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
+Para proceder a la conversión de informes de XBRL a SEC xlsx, .NET Finance API es el requisito principal. Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
 
 Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

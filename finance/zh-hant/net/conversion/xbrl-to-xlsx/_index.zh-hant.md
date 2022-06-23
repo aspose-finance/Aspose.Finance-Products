@@ -26,7 +26,7 @@ otherformats: iXBRL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="轉換要求" %}}
-要進行 XBRL 到 XLSX 的轉換，.NET Finance API 是主要要求。通過命令行將其安裝為 ```nuget install Aspose.Finance``` 或通過 Visual Studio 的包管理器控制台使用 ```Install-Package Aspose.Finance``` 進行安裝。
+要進行 XBRL 到 XLSX 的轉換，.NET Finance API 是主要要求。通過命令行將其安裝為 ```nuget install Aspose.Finance``` 或通過 Visual Studio 的包管理器控制台使用 ``Install-Package Aspose.Finance``` 安裝。
 
 或者，從 ZIP 文件中獲取離線 MSI 安裝程序或 DLL [下載](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

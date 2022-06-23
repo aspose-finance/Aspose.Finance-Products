@@ -13,7 +13,7 @@ description:  C# رمز لقراءة التقارير المالية في ملف
 
 {{% blocks/products/pf/feature-page-section h2="اقرأ المستند XBRL" %}}
 
-قراءة ملف XBRL مطلوب لتحميل الملف الحالي للعرض والتحليل. لقراءة مستندات XBLR ، يوفر API فئة XbrlDocument كما هو مذكور في الفقرة أعلاه مع ملف XBRL صالح كمعلمات إدخال. باستخدام فئات API أخرى ، يمكن للمطورين تحليل هيكلها وبياناتها بسهولة. قليل من الفصول [مجموعة المخططات](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)و [سياق الكلام](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context)و [وحدة](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
+قراءة ملف XBRL مطلوب لتحميل الملف الحالي للعرض والتحليل. لقراءة مستندات XBLR ، يوفر API فئة XbrlDocument كما هو مذكور في الفقرة أعلاه مع ملف XBRL صالح كمعلمات إدخال. باستخدام فئات API أخرى ، يمكن للمطورين تحليل هيكلها وبياناتها بسهولة. قليل من الفصول [مجموعة المخططات](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)و [سياق](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context)و [وحدة](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
 {{% blocks/products/pf/feature-page-code h3="C# رمز للقراءة XBRL ملف" %}}
 
@@ -25,7 +25,7 @@ description:  C# رمز لقراءة التقارير المالية في ملف
 
 {{% blocks/products/pf/feature-page-section h2="اقرأ المستند iXBRL" %}}
 
-كما ذكرنا أعلاه ، عندما تكون هناك حاجة لعرض أو تحليل أو تعديل البيانات الموجودة ، فهناك حاجة لقراءة ملف iXBRL. لقراءتها ، يوفر API فئة InlineXbrlDocument بها ملف iXBRL صالح كمعامل. يمكن للمبرمجين الاستفادة من فصول مثل [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact)و [سياق الكلام](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context)و [وحدة](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) عرض بياناتها وهيكلها. 
+كما ذكرنا أعلاه ، عندما تكون هناك حاجة لعرض أو تحليل أو تعديل البيانات الموجودة ، فهناك حاجة لقراءة ملف iXBRL. لقراءتها ، يوفر API فئة InlineXbrlDocument بها ملف iXBRL صالح كمعامل. يمكن للمبرمجين الاستفادة من فصول مثل [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact)و [سياق](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context)و [وحدة](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) عرض بياناتها وهيكلها. 
 
 {{% blocks/products/pf/feature-page-code h3="مستند C# رمز للقراءة iXBRL" %}}
 

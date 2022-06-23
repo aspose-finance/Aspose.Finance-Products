@@ -25,7 +25,7 @@ La convalida del file XBRL è necessaria per una serie di casi, ad esempio per v
 
 {{% blocks/products/pf/feature-page-section h2="Convalida iXBRL documento" %}}
 
-Per la convalida iXLRB, caricalo tramite [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) class e usa il suo metodo Validate(). Nel [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) enumerazione, i codici di errore di convalida sono definiti per ciascuna regola di convalida. Alcuni codici sono ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup ecc. Gli sviluppatori possono eseguire il debug e visualizzare i codici degli utenti finali o possono mostrare la direzione per risolvere il problema.
+Per la convalida iXLRB, caricalo tramite [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) class e usa il suo metodo Validate(). In [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) enumerazione, i codici di errore di convalida sono definiti per ciascuna regola di convalida. Alcuni codici sono ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup ecc. Gli sviluppatori possono eseguire il debug e visualizzare i codici degli utenti finali o possono mostrare la direzione per risolvere il problema.
 
 {{% blocks/products/pf/feature-page-code h3="C# Codice per convalidare iXBRL documento" %}}
 

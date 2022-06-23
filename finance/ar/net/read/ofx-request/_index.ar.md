@@ -18,12 +18,12 @@ otherformats:
 
 اتبع الخطوات الواردة في مقتطف الشفرة أو قم بتحسينه وفقًا لاحتياجات التطبيق لقراءة ملفات طلب لغة إعداد التقارير التجارية الموسعة OFX. تأكد من وجود متطلبات القراءة في التطبيق الخاص بك.
 
-1. خلق [فئة OfxRequestDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) نموذج.1. قم بتمرير اسم ملف طلب OFX صالح كمعامل.1. للحصول على التفاصيل الداخلية للملف ، استخدم الفئات ذات الصلة مثل [طلب التوقيع](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)
+1. خلق [فئة OfxRequestDocument](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) مثال.1. قم بتمرير اسم ملف طلب OFX صالح كمعامل.1. للحصول على التفاصيل الداخلية للملف ، استخدم الفئات ذات الصلة مثل [طلب التوقيع](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات القراءة" %}}
 لمتابعة قراءة OFX طلب المستندات ، فإن .NET Finance API هو المطلب الرئيسي الذي يجب تضمينه في التطبيق. 
-- قم بتثبيته عبر سطر الأوامر باسم "nuget install Aspose.Finance" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
+- قم بتثبيته عبر سطر الأوامر كـ `` nuget install Aspose.Finance "" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
 - بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# رمز لقراءة OFX طلب الملفات" offSpacer="" %}}

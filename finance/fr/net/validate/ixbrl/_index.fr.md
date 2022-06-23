@@ -18,7 +18,7 @@ otherformats:
 
 Suivez les étapes de l'extrait de code ou améliorez-le en fonction des besoins de votre application pour valider les documents en langage extensible de création de rapports iXBRL. Assurez-vous d'avoir des exigences de validation dans votre application.
 
-1. Charger le fichier iXBRL en utilisant [Classe InlineXbrlDocumentInlineXbrlDocument class](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Exemple.1. Pour vérifier la validité du fichier chargé, afin qu'il corresponde avec [iXBRL spécification](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Utiliser [Valider()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) méthode de validité du fichier.
+1. Charger le fichier iXBRL en utilisant [Classe InlineXbrlDocumentInlineXbrlDocument class](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Exemple.1. Pour vérifier la validité du fichier chargé, afin qu'il corresponde avec [iXBRL spécification](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Utilisation [Valider()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) méthode de validité du fichier.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigence de validation" %}}
@@ -38,7 +38,7 @@ Pour procéder à la validation des documents iXBRL, .NET Finance API est la pri
 
 {{< blocks/products/pf/agp/other-supported-section title="Autres options de validation" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/xbrl/" name="XBRL" description="Langage de reporting commercial extensible" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/validate/xbrl/" name="XBRL" description="Langage de reporting métier extensible" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

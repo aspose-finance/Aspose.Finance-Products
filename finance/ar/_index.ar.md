@@ -14,6 +14,10 @@ description: واجهات برمجة التطبيقات ذات الأكواد ا
 High Code APIs لـ XBRL و iXBRL معالجة التنسيق في نماذج Windows ، ASP .NET باستخدام .NET Framework وكذلك في Mono.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python عبر .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+استخدم Python لتسريع التطوير. إنشاء المستندات ومعالجتها باستخدام نصوص Python. يوفر منتجنا مجموعة شاملة من الميزات التي قد تحتاجها في حلول البرامج الخاصة بك.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="عرض جميع واجهات برمجة التطبيقات عالية الكود" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

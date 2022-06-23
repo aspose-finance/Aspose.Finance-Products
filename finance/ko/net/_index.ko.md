@@ -12,7 +12,7 @@ description: C# ASP.NET VB.NET 재무제표를 eXtensible Business Reporting Lan
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Aspose.Finance for .NET은(는) 재무 관련 형식 처리를 위한 유연한 라이브러리입니다. API는 eXtensible Business Reporting Language XBRL 및 iXBRL 형식을 쉽게 만들고 읽고 검증할 수 있을 뿐만 아니라 OFX 다양한 형식의 요청 및 응답 파일을 만들 수 있습니다. 개발자는 XBRL 지원 소프트웨어를 쉽게 개발하거나 기존 디지털 재무 보고 시스템 내에서 사용하여 XBRL로 보고서를 작성할 수 있습니다. 확장 가능하고 사용하기 쉬우며 다른 소프트웨어와 독립적인 독립형 API입니다.</p>
+<p align="justify"> Aspose.Finance for .NET은(는) 재무 관련 형식 처리를 위한 유연한 라이브러리입니다. API는 eXtensible Business Reporting Language XBRL 및 iXBRL 형식을 쉽게 만들고, 읽고, 검증할 수 있을 뿐만 아니라 OFX 다양한 형식으로 요청 및 응답 파일을 만들 수 있습니다. 개발자는 XBRL 지원 소프트웨어를 쉽게 개발하거나 기존 디지털 재무 보고 시스템 내에서 사용하여 XBRL로 보고서를 작성할 수 있습니다. 확장 가능하고 사용하기 쉬우며 다른 소프트웨어와 독립적인 독립형 API입니다.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -67,7 +67,7 @@ description: C# ASP.NET VB.NET 재무제표를 eXtensible Business Reporting Lan
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     .NET
    </small>
@@ -118,7 +118,7 @@ description: C# ASP.NET VB.NET 재무제표를 eXtensible Business Reporting Lan
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     .NET
    </small>
@@ -174,7 +174,7 @@ description: C# ASP.NET VB.NET 재무제표를 eXtensible Business Reporting Lan
   <footer>
    <small>
     <em>
-     ~을위한
+     ~을 위한
     </em>
     .NET
    </small>

@@ -14,6 +14,10 @@ description: 用於處理可擴展業務報告語言 XBRL 和 iXBRL 格式的高
 使用 .NET 框架以及 Mono 的 Windows 窗體、ASP.NET 中用於 XBRL 和 iXBRL 格式處理的高級代碼 API。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python 通過 .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+使用 Python 加速開發。使用 Python 腳本生成和操作文檔。我們的產品提供了您在軟件解決方案中可能需要的一整套功能。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="查看所有高代碼 API" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

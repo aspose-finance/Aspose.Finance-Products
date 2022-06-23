@@ -14,6 +14,10 @@ description: API Kode Tinggi dan Aplikasi Gratis untuk memproses format bahasa p
 API Kode Tinggi untuk pemrosesan format XBRL dan iXBRL di Windows Forms, ASP.NET menggunakan .NET Framework serta di Mono.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python melalui .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Gunakan Python untuk mempercepat pengembangan. Buat dan manipulasi dokumen dengan skrip Python. Produk kami menyediakan serangkaian fitur lengkap yang mungkin Anda perlukan dalam solusi perangkat lunak Anda.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Lihat Semua API Kode Tinggi" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

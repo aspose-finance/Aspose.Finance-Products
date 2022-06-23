@@ -2,7 +2,7 @@
 title: C# .NET APIs für digitale Finanzberichtssysteme - Aspose 
 weight: 20
 url: /de/net/ 
-description: C# ASP.NET VB.NET-Bibliothek zur Konvertierung von Jahresabschlüssen in die eXtensible Business Reporting Language XBRL und iXBRL für Analysen zur Generierung von XBRL Taxonomien und Berichten
+description: C# ASP.NET VB.NET-Bibliothek zur Konvertierung von Jahresabschlüssen in die eXtensible Business Reporting Language XBRL und iXBRL zur Analyse zur Generierung von XBRL Taxonomien und Berichten
 ---
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/i18n/upper-banner h1=".NET Bibliothek zum Analysieren von Finance Dokumenten" h2="Erstellen, lesen und validieren Sie XBRL- und iXBRL Finance-bezogene Formate in jeder Software für Geschäftsprozessmanagement, Finanzanalyse und Berichterstattung." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/headers/aspose_finance-for-net.svg" pfName="Aspose.Finance " subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/finance/net" >}}

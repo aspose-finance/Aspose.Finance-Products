@@ -18,12 +18,12 @@ otherformats:
 
 Kod parçacığındaki adımları izleyin veya genişletilebilir iş raporlama dili XBRL dosyaları oluşturmak için uygulama gereksinimlerinize göre geliştirin. Uygulamanızda oluşturma gereksinimleri olduğundan emin olun.
 
-1. Yaratmak [XbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Misal.1. Yeni bir XBRL örnek belgesi oluşturmak için [XbrlÖrnek Koleksiyonu](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) ve [XbrlÖrneği](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. kullanarak şema referansı ekleyin [ŞemaRefKoleksiyon](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Uygulamanın doğasına bağlı olarak bağlam, birim, öğe, dipnot bağlantısı ve daha fazlasını ekleyin.1. Ara [Yöntemi kaydet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) hedef dosya yolunu sağlayarak.
+1. Oluşturmak [XbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Misal.1. Yeni bir XBRL örnek belgesi oluşturmak için [XbrlÖrnek Koleksiyonu](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) ve [XbrlÖrneği](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. kullanarak şema referansı ekleyin [ŞemaRefKoleksiyon](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Uygulamanın doğasına bağlı olarak bağlam, birim, öğe, dipnot bağlantısı ve daha fazlasını ekleyin.1. Ara [Yöntemi kaydet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) hedef dosya yolunu sağlayarak.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Oluşturma Gereksinimi" %}}
 XBRL belge üretimine devam etmek için .NET Finance API, başvuruya dahil edilecek ana gereksinimdir. 
-- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` olarak veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
 - Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="XBRL dosya oluşturma için C# kodu" offSpacer="" %}}

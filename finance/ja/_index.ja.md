@@ -14,6 +14,10 @@ description: 連結財務諸表などを作成するための拡張可能なビ�
 Windowsフォーム、.NETフレームワークを使用したASP .NET、およびMonoでのXBRLおよびiXBRL形式の処理用のハイコードAPI。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python経由.NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Pythonを使用して開発を加速します。 Pythonスクリプトを使用してドキュメントを生成および操作します。当社の製品は、ソフトウェアソリューションに必要となる可能性のある包括的な機能セットを提供します。
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="すべてのハイコードAPIを表示" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

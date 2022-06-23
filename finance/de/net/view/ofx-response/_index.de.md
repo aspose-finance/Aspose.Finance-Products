@@ -10,13 +10,13 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Zeigen Sie OFX Antwortdateien über C# an" h2="Anzeigen von Finanzberichten im OFX-Antwortformat, ohne dass Microsoft Office oder andere Software installiert sein müssen." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Zeigen Sie OFX Antwortdateien über C# an" h2="Anzeigen von Finanzberichten im Antwortformat OFX, ohne dass Microsoft Office oder andere Software installiert sein müssen." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="So zeigen Sie OFX-Antwortdateien an" %}}
 
-Befolgen Sie die Schritte im Code-Snippet oder erweitern Sie es entsprechend Ihren Anwendungsanforderungen zum Anzeigen der Antwortdateien in der erweiterbaren Sprache für Geschäftsberichte OFX. Stellen Sie sicher, dass Sie in Ihrer Bewerbung Leseanforderungen haben.
+Befolgen Sie die Schritte im Code-Snippet oder erweitern Sie es je nach Bedarf Ihrer Anwendung, um die Antwortdateien für die erweiterbare Geschäftsberichtssprache OFX anzuzeigen. Stellen Sie sicher, dass Sie in Ihrer Bewerbung Leseanforderungen haben.
 
 1. Schaffen [OfxResponseDocument-Klasse](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) Beispiel.1. Übergeben Sie den Namen einer gültigen OFX-Antwortdatei als Parameter.1. Um die inneren Details der Datei zu erhalten, verwenden Sie die entsprechenden Klassen wie z [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)1. Zeigen Sie diese Informationen
 {{% /blocks/products/pf/agp/feature-section-col %}}

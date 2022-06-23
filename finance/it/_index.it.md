@@ -14,6 +14,10 @@ description: API High Code e app gratuite per elaborare formati di reportistica 
 API High Code per l'elaborazione dei formati XBRL e iXBRL in Windows Forms, ASP.NET utilizzando .NET Framework e in Mono.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python tramite .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Usa Python per accelerare lo sviluppo. Genera e manipola documenti con Python script. Il nostro prodotto fornisce una serie completa di funzionalità di cui potresti aver bisogno nelle tue soluzioni software.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Visualizza tutte le API High Code" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

@@ -14,6 +14,10 @@ description: "High Code API:er och gratisappar för att bearbeta eXtensible aff�
 Högkods-API:er för formatbearbetning av XBRL och iXBRL i Windows Forms, ASP.NET med .NET Framework såväl som i Mono.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python via .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Använd Python för att påskynda utvecklingen. Generera och manipulera dokument med Python skript. Vår produkt tillhandahåller en omfattande uppsättning funktioner som du kan behöva i dina mjukvarulösningar.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Visa alla High Code API:er" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

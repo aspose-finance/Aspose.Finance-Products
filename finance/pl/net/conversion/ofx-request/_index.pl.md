@@ -1,5 +1,5 @@
 ﻿---
-title: Konwertuj plik żądania OFX z formatu 1.03 na format 2.2 za pośrednictwem C#
+title: Konwertuj OFX plik żądania z formatu 1.03 na 2.2 przez C#
 description: Przykładowy kod dla OFX pliku żądania od 1,03 do 2,2 C# konwersji. Użyj API przykładowego kodu do zbiorczej OFX konwersji żądań w .NET aplikacjach. 
 url: /pl/net/conversion/ofx-request/
 family: finance
@@ -10,7 +10,7 @@ outformat: OFX Request 2.2
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj plik żądania OFX z formatu 1.03 na format 2.2 za pośrednictwem C#" h2="OFX Żądaj konwersji pliku z wersji 1.03 na 2.2 bez konieczności instalowania pakietu Microsoft Office." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konwertuj OFX plik żądania z formatu 1.03 na 2.2 przez C#" h2="OFX Żądaj konwersji pliku z wersji 1.03 na 2.2 bez konieczności instalowania pakietu Microsoft Office." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net/) to API do przetwarzania XBRL, iXBRL formatów, a programiści mogą łatwo tworzyć aplikacje do zarządzania procesami biznesowymi, analizy finansowej i raportowania do konwertowania, tworzenia, czytania, przeglądania i weryfikowania XBRL, iXBRL i {5 } pliki związane z finansami. 

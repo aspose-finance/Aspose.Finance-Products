@@ -18,15 +18,15 @@ otherformats:
 
 Kod parçacığındaki adımları izleyin veya genişletilebilir iş raporlama dili iXBRL belgelerini görüntülemek için uygulama gereksinimlerinize göre geliştirin. Uygulamanızda okuma gereksinimleri olduğundan emin olun.
 
-1. Yaratmak [InlineXbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Misal.2. Geçerli bir iXBRL dosyasının adını parametre olarak iletin.
+1. Oluşturmak [InlineXbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Misal.2. Geçerli bir iXBRL dosyasının adını parametre olarak iletin.
 3. Dosyanın iç detayını elde etmek için aşağıdaki gibi ilgili sınıfları kullanın. [satır içiGerçek](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Bağlam](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Birim](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 4. Bu bilgileri göster
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Okuma Gereksinimi" %}}
-iXBRL dokümanı görüntülemeye devam etmek için .NET Finance API, başvuruya dahil edilmesi gereken ana gereksinimdir. 
-- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` olarak veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+iXBRL dokümanı görüntülemeye devam etmek için .NET Finance API, başvuruya dahil edilecek ana gereksinimdir. 
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
 - Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="iXBRL dosyaları okumak için C# kodu" offSpacer="" %}}

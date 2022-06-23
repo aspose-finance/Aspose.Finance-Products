@@ -26,7 +26,7 @@ För att fortsätta läsa OFX svarsdokument är .NET Finance API huvudkravet fö
 - Installera den via kommandoraden som ```nuget install Aspose.Finance``` eller via Package Manager Console of Visual Studio med ```Install-Package Aspose.Finance```.
 - Alternativt kan du hämta offline MSI-installationsprogrammet eller DLL-filer i en ZIP-fil från [Nedladdningar](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="C#-kod för att läsa OFX svarsfiler" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="C# kod för att läsa OFX svarsfiler" offSpacer="" %}}
 
 {{< gist "aspose-finance-gists" "01125f8901f4fde8dfd5c9764b59ef2f" "read-ofx-response.cs" >}}
 

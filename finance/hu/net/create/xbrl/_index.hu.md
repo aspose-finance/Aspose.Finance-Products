@@ -23,7 +23,7 @@ Kövesse a kódrészlet lépéseit, vagy javítsa az alkalmazás igényei szerin
 
 {{% blocks/products/pf/agp/feature-section-col title="Létrehozási követelmény" %}}
 A(z) XBRL dokumentumok létrehozásának folytatásához a(z) .NET Finance API fő követelmény, hogy szerepeljen az alkalmazásban. 
-- Telepítse a parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
+- Telepítse parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
 - Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# kód XBRL fájl létrehozásához" offSpacer="" %}}

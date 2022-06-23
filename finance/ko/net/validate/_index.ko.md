@@ -25,7 +25,7 @@ description:  C# 코드를 사용하여 .NET 라이브러리를 통해 XBRL 및 
 
 {{% blocks/products/pf/feature-page-section h2="iXBRL 문서 확인" %}}
 
-iXLRB 유효성 검사의 경우 다음을 통해 로드합니다. [인라인Xbrl문서](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 클래스를 만들고 해당 Validate() 메서드를 사용합니다. 입력 [유효성 검사 오류 코드](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) 열거형, 유효성 검사 오류 코드는 각 유효성 검사 규칙에 대해 정의됩니다. 몇 가지 코드는 ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup 등입니다. 개발자는 최종 사용자의 코드를 디버그 및 표시하거나 문제 해결 방향을 표시할 수 있습니다.
+iXLRB 유효성 검사의 경우 다음을 통해 로드합니다. [인라인Xbrl문서](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 클래스를 만들고 해당 Validate() 메서드를 사용합니다. ~ 안에 [유효성 검사 오류 코드](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) 열거형, 유효성 검사 오류 코드는 각 유효성 검사 규칙에 대해 정의됩니다. 몇 가지 코드는 ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup 등입니다. 개발자는 최종 사용자의 코드를 디버그 및 표시하거나 문제 해결 방향을 표시할 수 있습니다.
 
 {{% blocks/products/pf/feature-page-code h3="C# iXBRL 문서를 검증하는 코드" %}}
 

@@ -18,7 +18,7 @@ otherformats:
 
 按照代碼片段中的步驟操作或根據您的應用程序需要對其進行增強，以生成可擴展的業務報告語言 iXBRL（內聯 xbrl）文件。確保在您的應用程序中有創建要求。
 
-1. 創建 [InlineXbrlDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 實例。2.構建元素dom樹
+1. 創造 [InlineXbrlDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) 實例。2.構建元素dom樹
 3. 調用 [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline.inlinexbrldocument/save/methods/1) 通過提供目標文件路徑。
 
 {{% /blocks/products/pf/agp/feature-section-col %}}

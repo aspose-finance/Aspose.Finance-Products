@@ -26,7 +26,7 @@ otherformats: XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}
-XBRL에서 iXBRL로의 변환을 진행하려면 .NET Finance API이(가) 주요 요구 사항입니다. 명령줄을 통해 ```nuget install Aspose.Finance```로 설치하거나 Visual Studio의 패키지 관리자 콘솔에서 ```Install-Package Aspose.Finance```로 설치합니다.
+XBRL에서 iXBRL로의 변환을 진행하려면 .NET Finance API이(가) 주요 요구 사항입니다. 명령줄을 통해 ```nuget install Aspose.Finance```로 설치하거나 Visual Studio의 패키지 관리자 콘솔을 통해 ```Install-Package Aspose.Finance```로 설치합니다.
 
 또는 ZIP 파일에서 오프라인 MSI 설치 프로그램 또는 DLL을 가져옵니다. [다운로드](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

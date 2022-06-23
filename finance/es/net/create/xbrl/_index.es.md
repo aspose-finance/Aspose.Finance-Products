@@ -18,12 +18,12 @@ otherformats:
 
 Siga los pasos del fragmento de código o mejórelo según las necesidades de su aplicación para generar archivos extensibles de lenguaje de informes empresariales XBRL. Asegúrese de tener requisitos de creación dentro de su aplicación.
 
-1. Crear [Clase XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Ejemplo.1. Para crear un nuevo documento de instancia XBRL [XbrlInstanceCollectionXbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) y [XbrlInstancia](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. Agregar referencia de esquema usando [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Dependiendo de la naturaleza de la aplicación, agregue contexto, unidad, elemento, enlace de nota al pie y más.1. Llama a [Guardar método](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) proporcionando la ruta del archivo de destino.
+1. Crear [Clase XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Instancia.1. Para crear un nuevo documento de instancia XBRL [XbrlInstanceCollectionXbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) y [XbrlInstancia](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. Agregar referencia de esquema usando [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. Dependiendo de la naturaleza de la aplicación, agregue contexto, unidad, elemento, enlace de nota al pie y más.1. Llama a [Guardar método](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) proporcionando la ruta del archivo de destino.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito de creación" %}}
-Para proceder a la generación de XBRL documentos, .NET Finance API es el requisito principal que debe incluirse en la aplicación. 
-- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
+Para proceder a la generación de XBRL documentos, .NET Finance API es el requisito principal que debe incluirse en la solicitud. 
+- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
 - Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# código para la creación de XBRL archivos" offSpacer="" %}}

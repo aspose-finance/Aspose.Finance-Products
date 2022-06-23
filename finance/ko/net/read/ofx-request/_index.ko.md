@@ -1,5 +1,5 @@
 ﻿---
-title: C#을(를) 통해 OFX 요청 파일 읽기
+title: C#를 통해 OFX 요청 파일 읽기
 description: OFX 요청 파일 읽기를 위한 샘플 코드입니다. API 예제 코드를 사용하여 .NET 기반 애플리케이션 내에서 일괄 OFX 요청 파일을 읽습니다. 
 url: /ko/net/read/ofx-request/
 family: finance

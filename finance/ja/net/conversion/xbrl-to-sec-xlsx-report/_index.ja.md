@@ -10,7 +10,7 @@ outformat: XLSX
 otherformats: HTML
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="XBRLをC#経由でSECxlsxレポートに変換します" h2="XBRLからSECxlsxは、.NETベースのアプリケーション内で他のソフトウェアを必要とせずに変換を報告します。" >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="C#を介してXBRLをSECxlsxレポートに変換します" h2="XBRLからSECxlsxは、.NETベースのアプリケーション内で他のソフトウェアを必要とせずに変換を報告します。" >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net/) はXBRL、iXBRL形式を処理するためのAPIであり、開発者はビジネスプロセス管理、財務分析、およびレポート作成ソフトウェアアプリケーションを簡単に構築して、XBRLおよびiXBRLの財務関連を変換、作成、読み取り、表示、および検証できます。ファイル。 
@@ -26,7 +26,7 @@ otherformats: HTML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="変換要件" %}}
-XBRLからSECxlsxレポートへの変換を続行するには、.NETFinanceAPIが主な要件です。コマンドラインから```nuget install Aspose.Finance ```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
+XBRLからSECxlsxレポートへの変換を続行するには、.NETFinanceAPIが主な要件です。コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
 
 または、オフラインのMSIインストーラーまたはDLLをZIPファイルで取得します。 [ダウンロード](https://downloads.aspose.com/finance/net)。
 {{% /blocks/products/pf/agp/feature-section-col %}}

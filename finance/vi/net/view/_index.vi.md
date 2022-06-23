@@ -13,7 +13,7 @@ description:  C# mã để đọc các báo cáo tài chính trong tệp XBRL v�
 
 {{% blocks/products/pf/feature-page-section h2="Đọc tài liệu XBRL" %}}
 
-Đọc tệp XBRL là cần thiết để tải tệp hiện có để xem và phân tích. Để đọc tài liệu XBLR, API cung cấp lớp XbrlDocument như đã đề cập trong đoạn trên với tệp XBRL hợp lệ làm tham số đầu vào. Sử dụng các lớp API khác, các nhà phát triển có thể dễ dàng phân tích cấu trúc và dữ liệu của nó. Một vài trong số các lớp học là [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Bối cảnh](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Đơn vị](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
+Đọc tệp XBRL là cần thiết để tải tệp hiện có để xem và phân tích. Để đọc tài liệu XBLR, API cung cấp lớp XbrlDocument như đã đề cập trong đoạn trên với tệp XBRL hợp lệ làm tham số đầu vào. Sử dụng các lớp API khác, các nhà phát triển có thể dễ dàng phân tích cấu trúc và dữ liệu của nó. Một vài trong số các lớp học là [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Định nghĩa bài văn](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Đơn vị](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit).
 
 {{% blocks/products/pf/feature-page-code h3="C# Mã để Đọc XBRL Tệp" %}}
 
@@ -25,7 +25,7 @@ description:  C# mã để đọc các báo cáo tài chính trong tệp XBRL v�
 
 {{% blocks/products/pf/feature-page-section h2="Đọc tài liệu iXBRL" %}}
 
-Như đã đề cập ở trên, khi có nhu cầu xem, phân tích hoặc chỉnh sửa dữ liệu hiện có thì cần đọc tệp iXBRL. Để đọc nó, API cung cấp cho lớp InlineXbrlDocument có tệp iXBRL hợp lệ làm tham số. Lập trình viên có thể sử dụng các lớp như [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Bối cảnh](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Đơn vị](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) xem dữ liệu và cấu trúc của nó. 
+Như đã đề cập ở trên, khi có nhu cầu xem, phân tích hoặc chỉnh sửa dữ liệu hiện có thì cần đọc tệp iXBRL. Để đọc nó, API cung cấp cho lớp InlineXbrlDocument có tệp iXBRL hợp lệ làm tham số. Lập trình viên có thể sử dụng các lớp như [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Định nghĩa bài văn](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Đơn vị](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) xem dữ liệu và cấu trúc của nó. 
 
 {{% blocks/products/pf/feature-page-code h3="Tài liệu C# Mã để Đọc iXBRL" %}}
 

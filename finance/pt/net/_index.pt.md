@@ -67,7 +67,7 @@ description: Biblioteca C# ASP.NET VB.NET para conversão de demonstrações fin
   <footer>
    <small>
     <em>
-     para
+     por
     </em>
     .NET
    </small>
@@ -118,7 +118,7 @@ description: Biblioteca C# ASP.NET VB.NET para conversão de demonstrações fin
   <footer>
    <small>
     <em>
-     para
+     por
     </em>
     .NET
    </small>
@@ -174,7 +174,7 @@ description: Biblioteca C# ASP.NET VB.NET para conversão de demonstrações fin
   <footer>
    <small>
     <em>
-     para
+     por
     </em>
     .NET
    </small>

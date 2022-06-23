@@ -18,14 +18,14 @@ otherformats:
 
 اتبع الخطوات الموجودة في مقتطف الشفرة أو قم بتحسينه وفقًا لاحتياجات تطبيقك لإنشاء ملفات لغة تقارير الأعمال الموسعة iXBRL (inline xbrl). تأكد من وجود متطلبات إنشاء داخل التطبيق الخاص بك.
 
-1. خلق [فئة InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) نموذج.2. بناء عنصر دوم شجرة
+1. خلق [فئة InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) مثال.2. بناء عنصر دوم شجرة
 3. استدعاء [طريقة الحفظ](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline.inlinexbrldocument/save/methods/1) من خلال توفير مسار الملف الهدف.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات الخلق" %}}
 لمتابعة إنشاء مستندات iXBRL (xbrl) ، فإن .NET Finance API هو المطلب الرئيسي الذي يجب تضمينه في التطبيق. 
-- قم بتثبيته عبر سطر الأوامر باسم "nuget install Aspose.Finance" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
+- قم بتثبيته عبر سطر الأوامر كـ `` nuget install Aspose.Finance "" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
 - بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# رمز لإنشاء ملفات XBRL" offSpacer="" %}}

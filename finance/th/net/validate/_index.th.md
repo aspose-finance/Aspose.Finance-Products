@@ -25,7 +25,7 @@ description:  C# รหัสสำหรับตรวจสอบรายง
 
 {{% blocks/products/pf/feature-page-section h2="ตรวจสอบความถูกต้อง iXBRL Document" %}}
 
-สำหรับการตรวจสอบ iXLRB ให้โหลดผ่าน [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) คลาสและใช้วิธี Validate() ใน [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) การแจงนับ รหัสข้อผิดพลาดในการตรวจสอบถูกกำหนดไว้สำหรับกฎการตรวจสอบแต่ละข้อ รหัสบางส่วน ได้แก่ ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup เป็นต้น นักพัฒนาสามารถดีบักและแสดงรหัสในฐานะผู้ใช้ปลายทาง หรือสามารถแสดงทิศทางในการแก้ไขปัญหาได้
+สำหรับการตรวจสอบ iXLRB ให้โหลดผ่าน [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) คลาสและใช้วิธี Validate() ใน [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) การแจงนับ รหัสข้อผิดพลาดในการตรวจสอบถูกกำหนดไว้สำหรับกฎการตรวจสอบแต่ละข้อ โค้ดบางส่วน ได้แก่ ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup เป็นต้น นักพัฒนาสามารถดีบักและแสดงรหัสในฐานะผู้ใช้ปลายทาง หรือสามารถแสดงทิศทางในการแก้ไขปัญหาได้
 
 {{% blocks/products/pf/feature-page-code h3="C# รหัสสำหรับตรวจสอบ iXBRL เอกสาร" %}}
 

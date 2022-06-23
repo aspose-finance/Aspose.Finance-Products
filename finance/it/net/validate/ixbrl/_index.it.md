@@ -18,7 +18,7 @@ otherformats:
 
 Segui i passaggi nello snippet di codice o miglioralo in base alle esigenze della tua applicazione per la convalida di documenti del linguaggio di reporting aziendale estensibile iXBRL. Assicurati di avere requisiti di convalida all'interno della tua applicazione.
 
-1. Carica iXBRL file utilizzando [Classe InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Esempio.1. Per verificare la validità del file caricato, in modo che debba corrispondere a [iXBRL specifica](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Utilizzo [Convalidare()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) metodo per la validità del file.
+1. Carica iXBRL file utilizzando [Classe InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Esempio.1. Per verificare la validità del file caricato, in modo che debba corrispondere a [iXBRL specifica](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Uso [Convalidare()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) metodo per la validità del file.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito di convalida" %}}

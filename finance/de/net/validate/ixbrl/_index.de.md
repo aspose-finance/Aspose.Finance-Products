@@ -16,7 +16,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="So validieren Sie iXBRL-Dateien" %}}
 
-Befolgen Sie die Schritte im Code-Snippet oder erweitern Sie es gemäß Ihren Anwendungsanforderungen zum Validieren von Dokumenten in der erweiterbaren Sprache für Geschäftsberichte iXBRL. Stellen Sie sicher, dass Ihre Anwendung Validierungsanforderungen enthält.
+Befolgen Sie die Schritte im Code-Snippet oder erweitern Sie es entsprechend Ihren Anwendungsanforderungen zum Validieren von Dokumenten in der erweiterbaren Sprache für Geschäftsberichte iXBRL. Stellen Sie sicher, dass Ihre Anwendung Validierungsanforderungen enthält.
 
 1. Laden Sie die Datei iXBRL mit [InlineXbrlDocument-Klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Beispiel.1. Um die Gültigkeit der geladenen Datei zu überprüfen, damit sie mit übereinstimmen muss [iXBRL Spezifikation](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Verwenden [Bestätigen()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) Methode für die Dateivalidität.
 {{% /blocks/products/pf/agp/feature-section-col %}}

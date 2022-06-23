@@ -16,7 +16,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="Come creare XBRL file" %}}
 
-Segui i passaggi nello snippet di codice o miglioralo in base alle esigenze della tua applicazione per generare file XBRL del linguaggio di reporting aziendale estensibile. Assicurati di avere requisiti di creazione all'interno della tua applicazione.
+Segui i passaggi nello snippet di codice o miglioralo in base alle esigenze della tua applicazione per generare file XBRL estensibili del linguaggio di reporting aziendale. Assicurati di avere requisiti di creazione all'interno della tua applicazione.
 
 1. Creare [Classe XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Esempio.1. Per creare un nuovo documento di istanza XBRL [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) e [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. Aggiungi riferimento allo schema utilizzando [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. A seconda della natura dell'applicazione, aggiungi contesto, unità, elemento, collegamento a piè di pagina e altro ancora.1. Chiama il [Salva metodo](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) fornendo il percorso del file di destinazione.
 {{% /blocks/products/pf/agp/feature-section-col %}}

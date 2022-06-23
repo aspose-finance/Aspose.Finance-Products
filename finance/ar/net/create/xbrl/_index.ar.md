@@ -18,12 +18,12 @@ otherformats:
 
 اتبع الخطوات الموجودة في مقتطف الشفرة أو قم بتحسينه وفقًا لاحتياجات تطبيقك لإنشاء ملفات لغة تقارير الأعمال الموسعة XBRL. تأكد من وجود متطلبات إنشاء داخل التطبيق الخاص بك.
 
-1. خلق [فئة XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) نموذج.1. لإنشاء مستند مثيل XBRL جديد [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) و [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. أضف مرجع المخطط باستخدام [مجموعة المخططات](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. اعتمادًا على طبيعة التطبيق ، أضف السياق والوحدة والعنصر وارتباط الحاشية السفلية والمزيد.1. اتصل ب [طريقة الحفظ](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) من خلال توفير مسار الملف الهدف.
+1. خلق [فئة XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) مثال.1. لإنشاء مستند مثيل XBRL جديد [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) و [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. أضف مرجع المخطط باستخدام [مجموعة المخططات](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. اعتمادًا على طبيعة التطبيق ، أضف السياق والوحدة والعنصر وارتباط الحاشية السفلية والمزيد.1. اتصل ب [طريقة الحفظ](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) من خلال توفير مسار الملف الهدف.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="متطلبات الخلق" %}}
 للمتابعة من أجل XBRL إنشاء المستندات ، فإن .NET Finance API هو المطلب الرئيسي الذي يجب تضمينه في التطبيق. 
-- قم بتثبيته عبر سطر الأوامر باسم "nuget install Aspose.Finance" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
+- قم بتثبيته عبر سطر الأوامر كـ `` nuget install Aspose.Finance "" أو عبر Package Manager Console في Visual Studio مع `` Install-Package Aspose.Finance ''.
 - بدلاً من ذلك ، احصل على مثبّت MSI غير المتصل أو مكتبات DLL في ملف ZIP من [التحميلات](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# رمز لإنشاء ملفات XBRL" offSpacer="" %}}

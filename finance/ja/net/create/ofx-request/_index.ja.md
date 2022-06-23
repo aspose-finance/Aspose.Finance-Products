@@ -16,14 +16,14 @@ otherformats: OFX Response
 
 {{% blocks/products/pf/agp/feature-section-col title="OFXリクエストファイルを作成する方法" %}}
 
-アプリケーション内にOFXリクエストファイルの作成要件を設定したら、コードスニペットの手順に従うか、要件に応じて拡張します。
+アプリケーション内にOFXリクエストファイルの作成要件を設定したら、コードスニペットの手順に従うか、要件に応じてファイルを拡張します。
 
 1. 作成 [OfxRequestDocumentクラス](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 物体。1. APIによって提供されるさまざまなクラスを使用して関連するプロパティを割り当てます。 [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)、 [FinancialInstitution](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution)、 [StatementTransactionRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest)1. xmlファイルとsgmlファイルにはそれぞれofxVersionV2xまたはV1xを使用します。 [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Saveメソッドのパラメーターとして。1. 電話する [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) ターゲットファイルとofxVersionを提供します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="作成要件" %}}
 OFXリクエストファイルの作成に進むには、.NETFinanceAPIがレポート生成アプリケーションに含まれる主な要件です。 
-- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Finance```を使用してインストールします。
+- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
 - または、オフラインのMSIインストーラーまたはDLLをZIPファイルで取得します。 [ダウンロード](https://downloads.aspose.com/finance/net)。{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="OFXリクエストファイルを作成するためのC#コード" offSpacer="" %}}

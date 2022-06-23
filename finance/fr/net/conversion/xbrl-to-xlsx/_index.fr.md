@@ -1,6 +1,6 @@
 ﻿---
 title: Convertir XBRL en Excel XLSX via C#
-description: Exemple de code pour la conversion XBRL vers Excel XLSX C#. Utilisez l'exemple de code API pour la conversion par lot de fichiers XBRL vers XLSX dans les applications basées sur .NET. 
+description: Exemple de code pour la conversion XBRL vers Excel XLSX C#. Utilisez l'exemple de code API pour la conversion de fichiers par lots XBRL en XLSX dans les applications basées sur .NET. 
 url: /fr/net/conversion/xbrl-to-xlsx/
 family: finance
 platformtag: net

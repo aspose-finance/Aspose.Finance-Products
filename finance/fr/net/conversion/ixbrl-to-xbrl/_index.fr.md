@@ -25,7 +25,7 @@ otherformats: XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Exigences de conversion" %}}
-Pour procéder à la conversion de iXBRL à XBRL, .NET Finance API est la principale exigence. Installez-le via la ligne de commande en tant que ```nuget install Aspose.Finance``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Finance```.
+Pour procéder à la conversion de iXBRL en XBRL, .NET Finance API est la principale exigence. Installez-le via la ligne de commande en tant que ```nuget install Aspose.Finance``` ou via la console du gestionnaire de packages de Visual Studio avec ```Install-Package Aspose.Finance```.
 
 Vous pouvez également obtenir le programme d'installation MSI hors ligne ou les DLL dans un fichier ZIP à partir de [téléchargements](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

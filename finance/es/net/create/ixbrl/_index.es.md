@@ -16,16 +16,16 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="Cómo crear archivos iXBRL(xbrl en línea)" %}}
 
-Siga los pasos del fragmento de código o mejórelo según las necesidades de su aplicación para generar archivos extensibles de lenguaje de informes empresariales iXBRL(xbrl en línea). Asegúrese de tener requisitos de creación dentro de su aplicación.
+Siga los pasos del fragmento de código o mejórelo según las necesidades de su aplicación para generar archivos extensibles de lenguaje de informes comerciales iXBRL(xbrl en línea). Asegúrese de tener requisitos de creación dentro de su aplicación.
 
-1. Crear [Clase InlineXbrlDocumentInlineXbrlDocument class](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Ejemplo.2. Elemento de construcción dom tree
+1. Crear [Clase InlineXbrlDocumentInlineXbrlDocument class](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Instancia.2. Elemento de construcción dom tree
 3. Llame al [Guardar método](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline.inlinexbrldocument/save/methods/1) proporcionando la ruta del archivo de destino.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito de creación" %}}
 Para continuar con la generación de documentos iXBRL(inline xbrl), .NET Finance API es el requisito principal que debe incluirse en la aplicación. 
-- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
+- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
 - Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# código para la creación de XBRL archivos" offSpacer="" %}}

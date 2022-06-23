@@ -18,7 +18,7 @@ otherformats:
 
 遵循代碼片段中的步驟或根據您的應用程序需要對其進行增強，以生成可擴展的業務報告語言 XBRL 文件。確保在您的應用程序中有創建要求。
 
-1. 創建 [XbrlDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) 實例。1. 創建新的 XBRL 實例文檔 [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) 和 [Xbrl實例](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. 使用添加架構引用 [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. 根據應用程序性質添加上下文、單元、項目、腳註鏈接等。1. 調用 [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) 通過提供目標文件路徑。
+1. 創造 [XbrlDocument 類](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) 實例。1. 創建新的 XBRL 實例文檔 [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) 和 [Xbrl實例](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. 使用添加架構引用 [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. 根據應用程序性質添加上下文、單元、項目、腳註鏈接等。1. 調用 [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) 通過提供目標文件路徑。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="創作要求" %}}

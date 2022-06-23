@@ -10,7 +10,7 @@ outformat:
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Skapa OFX förfrågningsfiler via C#" h2="OFX begär att skapa filer utan att behöva installera Microsoft Office eller någon annan programvara." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Skapa OFX Begäran filer via C#" h2="OFX begär att skapa filer utan att behöva installera Microsoft Office eller någon annan programvara." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 

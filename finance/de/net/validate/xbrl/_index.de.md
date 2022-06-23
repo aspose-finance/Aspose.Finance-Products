@@ -16,7 +16,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="So validieren Sie XBRL-Dateien" %}}
 
-Befolgen Sie die Schritte im Code-Snippet oder erweitern Sie es gemäß Ihren Anwendungsanforderungen zum Validieren von Dokumenten in der erweiterbaren Sprache für Geschäftsberichte XBRL. Stellen Sie sicher, dass Ihre Anwendung Validierungsanforderungen enthält.
+Befolgen Sie die Schritte im Code-Snippet oder erweitern Sie es entsprechend Ihren Anwendungsanforderungen zum Validieren von Dokumenten in der erweiterbaren Sprache für Geschäftsberichte XBRL. Stellen Sie sicher, dass Ihre Anwendung Validierungsanforderungen enthält.
 
 1. Laden Sie die Datei XBRL mit [XbrlDocument-Klasse](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Beispiel.1. Um die Gültigkeit der geladenen Datei zu überprüfen, damit sie mit übereinstimmen muss [XBRL Spezifikation](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Um die Gültigkeit zu überprüfen, verwenden Sie [Bestätigen()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance/methods/validate) Methode von [XbrlInstance](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance) Klasse.
 {{% /blocks/products/pf/agp/feature-section-col %}}

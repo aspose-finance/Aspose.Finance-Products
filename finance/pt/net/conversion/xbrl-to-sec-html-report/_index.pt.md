@@ -10,7 +10,7 @@ outformat: HTML
 otherformats: XLSX
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Converter XBRL para relatório html SEC via C#" h2="Conversão de relatórios XBRL para SEC html sem a necessidade de qualquer outro software em aplicativos baseados em .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Converter XBRL para relatório html SEC via C#" h2="XBRL para conversão de relatório html SEC sem precisar de nenhum outro software em aplicativos baseados em .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net/) é um API para processar XBRL, iXBRL formatos e desenvolvedores podem facilmente criar aplicativos de software de gerenciamento de processos de negócios, análise financeira e relatórios para converter, criar, ler, visualizar e validar XBRL e iXBRL relacionados a finanças arquivos. 

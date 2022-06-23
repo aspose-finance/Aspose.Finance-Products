@@ -18,12 +18,12 @@ otherformats: OFX Response
 
 आपके आवेदन में OFX अनुरोध फ़ाइलें बनाने की आवश्यकताएं होने के बाद, कोड स्निपेट में दिए गए चरणों का पालन करें या अपनी आवश्यकता के अनुसार इसे बेहतर बनाएं।
 
-1. सृजन करना [OfxRequestDocument वर्ग](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) वस्तु।1. API like . द्वारा प्रदान किए गए विभिन्न वर्गों का उपयोग करके प्रासंगिक गुण असाइन करें [साइनऑनअनुरोध](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [वित्तीय संस्थान](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution), [स्टेटमेंट ट्रांजैक्शन रिक्वेस्ट](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest)1. से xVersion V2x या V1x का उपयोग क्रमशः xml और sgml फ़ाइलों के लिए करें [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) सहेजें विधि में पैरामीटर के रूप में।1. बुलाएं [विधि सहेजें](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) लक्ष्य फ़ाइल और ofxVersion प्रदान करके।
+1. सृजन करना [OfxRequestDocument वर्ग](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) वस्तु।1. API like . द्वारा प्रदान किए गए विभिन्न वर्गों का उपयोग करके प्रासंगिक गुण असाइन करें [साइनऑनअनुरोध](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [वित्तीय संस्था](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution), [स्टेटमेंट ट्रांजैक्शन रिक्वेस्ट](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest)1. से xVersion V2x या V1x का उपयोग क्रमशः xml और sgml फ़ाइलों के लिए करें [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) सहेजें विधि में पैरामीटर के रूप में।1. बुलाएं [विधि सहेजें](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) लक्ष्य फ़ाइल और ofxVersion प्रदान करके।
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="निर्माण आवश्यकता" %}}
 OFX फ़ाइल निर्माण का अनुरोध करने के लिए आगे बढ़ने के लिए, .NET Finance API रिपोर्ट जनरेशन एप्लिकेशन में शामिल करने की मुख्य आवश्यकता है। 
-- इसे कमांड लाइन के माध्यम से ```nuget install Aspose.Finance``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से `` `इंस्टॉल-पैकेज Aspose.Finance``` के साथ स्थापित करें।
+- इसे कमांड लाइन के माध्यम से ``nuget install Aspose.Finance``` के रूप में या विजुअल स्टूडियो के पैकेज मैनेजर कंसोल के माध्यम से ```इंस्टॉल-पैकेज Aspose.Finance``` के साथ इंस्टॉल करें।
 - वैकल्पिक रूप से, एक ज़िप फ़ाइल में ऑफ़लाइन MSI इंस्टॉलर या DLL प्राप्त करें [डाउनलोड](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="OFX फ़ाइल निर्माण का अनुरोध करने के लिए C# कोड" offSpacer="" %}}

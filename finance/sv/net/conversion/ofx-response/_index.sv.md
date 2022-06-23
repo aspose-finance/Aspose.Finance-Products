@@ -10,7 +10,7 @@ outformat: OFX Response 2.2
 otherformats: OFX Response
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera OFX svarsfil från 1.03 till 2.2-format via C#" h2="OFX Svarsfil från 1.03 till 2.2 konvertering utan att behöva installera Microsoft Office." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Konvertera OFX svarsfil från 1.03 till 2.2-format via C#" h2="OFX Svarsfil från 1.03 till 2.2 konvertering utan att Microsoft Office behöver installeras." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 [Aspose.Finance for .NET](https://products.aspose.com/finance/net/) är ett API att bearbeta XBRL, iXBRL-format och utvecklare kan enkelt bygga program för hantering av affärsprocesser, finansiell analys och rapportering för att konvertera, skapa, läsa, visa och validera XBRL, iXBRL och {5 } finansrelaterade filer. 

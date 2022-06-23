@@ -10,7 +10,7 @@ outformat:
 otherformats: 
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Visa OFX förfrågningsfiler via C#" h2="Visa finansiella rapporter i OFX-format utan att behöva installera Microsoft Office eller någon annan programvara." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Visa OFX begärandefiler via C#" h2="Visa finansiella rapporter i OFX-format utan att behöva installera Microsoft Office eller någon annan programvara." >}}
 
 {{< blocks/products/pf/agp/feature-section >}}
 

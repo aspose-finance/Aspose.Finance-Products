@@ -18,14 +18,14 @@ otherformats:
 
 Kod parçacığındaki adımları izleyin veya genişletilebilir iş raporlama dili iXBRL(inline xbrl) dosyaları oluşturmak için uygulama gereksinimlerinize göre geliştirin. Uygulamanızda oluşturma gereksinimleri olduğundan emin olun.
 
-1. Yaratmak [InlineXbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Misal.2. Öğe dom ağacı oluşturun
+1. Oluşturmak [InlineXbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Misal.2. Öğe dom ağacı oluşturun
 3. Arayın [Yöntemi kaydet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline.inlinexbrldocument/save/methods/1) hedef dosya yolunu sağlayarak.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Oluşturma Gereksinimi" %}}
 iXBRL(inline xbrl) doküman üretimine devam etmek için .NET Finance API, başvuruya dahil edilmesi gereken ana gereksinimdir. 
-- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` olarak veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
 - Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="XBRL dosya oluşturma için C# kodu" offSpacer="" %}}

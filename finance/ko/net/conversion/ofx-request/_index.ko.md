@@ -20,7 +20,7 @@ otherformats: OFX Response
 {{< blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="OFX 요청 파일을 1.03에서 2.2 형식으로 변환하는 방법" %}}
-1. 다음을 사용하여 입력 파일 로드 [OfxRequestDocument 클래스](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument).1. 다음에서 ofxVersion V2x 사용 [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Save 메소드의 매개변수로.1. 을 부르다 [저장 방법](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) 대상 파일과 ofxVersion을 제공함으로써.
+1. 다음을 사용하여 입력 파일 로드 [OfxRequestDocument 클래스](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument).1. 다음에서 ofxVersion V2x 사용 [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Save 메소드의 매개변수로.1. 를 불러 [저장 방법](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) 대상 파일과 ofxVersion을 제공함으로써.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="변환 요구 사항" %}}

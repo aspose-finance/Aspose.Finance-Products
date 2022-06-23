@@ -26,7 +26,7 @@ description: C# ASP.NET VB.NET-bibliotek för konvertering av bokslut till eXten
    <header>
     <i class="fa fa-cogs">
     </i>
-    Viktigaste egenskaper
+    Huvuddrag
    </header>
    <ul>
     <li>

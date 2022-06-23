@@ -18,12 +18,12 @@ otherformats:
 
 Kod parçacığındaki adımları izleyin veya genişletilebilir iş raporlama dili iXBRL belgelerini okumak için uygulama gereksinimlerinize göre geliştirin. Uygulamanızda okuma gereksinimleri olduğundan emin olun.
 
-1. Yaratmak [InlineXbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Misal.1. Geçerli bir iXBRL dosyasının adını parametre olarak iletin.1. Dosyanın iç detayını elde etmek için aşağıdaki gibi ilgili sınıfları kullanın. [satır içiGerçek](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Bağlam](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Birim](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
+1. Oluşturmak [InlineXbrlDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Misal.1. Geçerli bir iXBRL dosyasının adını parametre olarak iletin.1. Dosyanın iç detayını elde etmek için aşağıdaki gibi ilgili sınıfları kullanın. [satır içiGerçek](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Bağlam](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Birim](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Okuma Gereksinimi" %}}
 iXBRL dokümanı okumaya devam etmek için .NET Finance API, başvuruya dahil edilmesi gereken ana gereksinimdir. 
-- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` olarak veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
 - Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="iXBRL dosyaları okumak için C# kodu" offSpacer="" %}}

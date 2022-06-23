@@ -23,7 +23,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="検証要件" %}}
 iXBRLドキュメントの検証に進むには、.NETFinanceAPIがアプリケーションに含まれる主な要件です。 
-- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Finance```を使用してインストールします。
+- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
 - または、オフラインのMSIインストーラーまたはDLLをZIPファイルで取得します。 [ダウンロード](https://downloads.aspose.com/finance/net)。{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="iXBRLファイルを検証するためのC#コード" offSpacer="" %}}

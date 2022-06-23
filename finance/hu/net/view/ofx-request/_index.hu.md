@@ -18,12 +18,12 @@ otherformats:
 
 Kövesse a kódrészlet lépéseit, vagy javítsa azt az alkalmazás igényei szerint, hogy megtekinthesse a bővíthető üzleti jelentési nyelvű OFX kérésfájlokat. Győződjön meg arról, hogy az alkalmazásban olvasási követelmények vannak.
 
-1. Teremt [OfxRequestDocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) Példa.1. Paraméterként adja meg egy érvényes OFX kérésfájl nevét.1. A fájl belső részleteinek megtekintéséhez használja a megfelelő osztályokat, mint pl [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)1. Mutasd meg ezeket az információkat
+1. Teremt [OfxRequestDocument osztály](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) Példa.1. Paraméterként adja meg egy érvényes OFX kérésfájl nevét.1. A fájl belső részleteinek megtekintéséhez használja a megfelelő osztályokat, mint pl [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)1. Mutassa meg ezeket az információkat
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Olvasási követelmény" %}}
 A(z) OFX kérelem dokumentumainak megtekintéséhez a(z) .NET Finance API fő követelmény a kérelemben. 
-- Telepítse a parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
+- Telepítse parancssorból ```nuget install Aspose.Finance``` néven, vagy a Visual Studio Package Manager konzolján keresztül az ```Install-Package Aspose.Finance``` paraméterrel.
 - Alternatív megoldásként letöltheti az offline MSI telepítőt vagy a DLL-eket ZIP-fájlban innen [letöltések](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# kódot OFX kérelemfájl megtekintéséhez" offSpacer="" %}}

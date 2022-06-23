@@ -18,12 +18,12 @@ otherformats:
 
 Kod parçacığındaki adımları izleyin veya genişletilebilir iş raporlama dili OFX istek dosyalarını okumak için uygulama gereksinimlerinize göre geliştirin. Uygulamanızda okuma gereksinimleri olduğundan emin olun.
 
-1. Yaratmak [OfxRequestDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) Misal.1. Geçerli bir OFX istek dosyasının adını parametre olarak iletin.1. Dosyanın iç detayını elde etmek için aşağıdaki gibi ilgili sınıfları kullanın. [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)
+1. Oluşturmak [OfxRequestDocument sınıfı](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) Misal.1. Geçerli bir OFX istek dosyasının adını parametre olarak iletin.1. Dosyanın iç detayını elde etmek için aşağıdaki gibi ilgili sınıfları kullanın. [SignonRequest](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Okuma Gereksinimi" %}}
 OFX istek belgesini okumaya devam etmek için .NET Finance API, başvuruya dahil edilmesi gereken ana gereksinimdir. 
-- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` olarak veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
+- Komut satırı aracılığıyla ```nuget install Aspose.Finance``` veya Visual Studio'nun Paket Yönetici Konsolu aracılığıyla ```Install-Package Aspose.Finance``` ile kurun.
 - Alternatif olarak, çevrimdışı MSI yükleyicisini veya DLL'leri bir ZIP dosyasında şu adresten alın: [İndirilenler](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="OFX istek dosyalarını okumak için C# kodu" offSpacer="" %}}

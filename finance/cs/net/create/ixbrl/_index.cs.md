@@ -16,7 +16,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="Jak vytvořit iXBRL(inline xbrl) soubory" %}}
 
-Postupujte podle kroků ve úryvku kódu nebo jej vylepšete podle potřeb vaší aplikace pro generování rozšiřitelných souborů v jazyce obchodního reportingu iXBRL(inline xbrl). Ujistěte se, že máte ve své aplikaci požadavky na vytvoření.
+Postupujte podle kroků ve fragmentu kódu nebo jej vylepšete podle potřeb vaší aplikace pro generování rozšiřitelných souborů s jazykem pro obchodní výkaznictví iXBRL(inline xbrl). Ujistěte se, že máte ve své aplikaci požadavky na vytvoření.
 
 1. Vytvořit [Třída InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Instance.2. Vytvořte strom dom prvku
 3. Zavolejte na [Uložit metodu](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline.inlinexbrldocument/save/methods/1) zadáním cesty k cílovému souboru.

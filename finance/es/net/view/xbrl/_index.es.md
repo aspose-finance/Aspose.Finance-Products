@@ -18,7 +18,7 @@ otherformats:
 
 Siga los pasos del fragmento de código o mejórelo según las necesidades de su aplicación para leer archivos extensibles de lenguaje de informes comerciales XBRL. Asegúrese de tener requisitos de lectura dentro de su aplicación.
 
-1. Crear [Clase XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Ejemplo.2. Pase el nombre de un archivo XBRL válido como parámetro.
+1. Crear [Clase XbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) Instancia.2. Pase el nombre de un archivo XBRL válido como parámetro.
 3. Para obtener el detalle interno del archivo, use las clases relevantes como [SchemaRefCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection), [Contexto](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Unidad](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 4. Mostrar esta información
 
@@ -26,7 +26,7 @@ Siga los pasos del fragmento de código o mejórelo según las necesidades de su
 
 {{% blocks/products/pf/agp/feature-section-col title="Requisito de lectura" %}}
 Para continuar con la visualización de XBRL documentos, .NET Finance API es el requisito principal que debe incluirse en la solicitud. 
-- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la Consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
+- Instálelo a través de la línea de comandos como ```nuget install Aspose.Finance``` o a través de la consola del administrador de paquetes de Visual Studio con ```Install-Package Aspose.Finance```.
 - Alternativamente, obtenga el instalador MSI fuera de línea o las DLL en un archivo ZIP de [descargas](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# código para leer XBRL archivos" offSpacer="" %}}

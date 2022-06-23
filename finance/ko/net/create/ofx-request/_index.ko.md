@@ -18,7 +18,7 @@ otherformats: OFX Response
 
 애플리케이션 내에서 OFX 요청 파일 생성 요구사항을 확인한 후 코드 스니펫의 단계를 따르거나 요구사항에 따라 이를 개선합니다.
 
-1. 만들다 [OfxRequestDocument 클래스](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 물체.1. 다음과 같이 API에서 제공하는 다양한 클래스를 사용하여 관련 속성을 할당합니다. [로그인 요청](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [금융 기관](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution), [문트랜잭션요청](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest)1. xml 및 sgml 파일에 대해 각각 ofxVersion V2x 또는 V1x를 사용하십시오. [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Save 메소드의 매개변수로.1. 을 부르다 [저장 방법](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) 대상 파일과 ofxVersion을 제공함으로써.
+1. 만들다 [OfxRequestDocument 클래스](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument) 물체.1. 다음과 같이 API에서 제공하는 다양한 클래스를 사용하여 관련 속성을 할당합니다. [로그인 요청](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonrequest), [금융 기관](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/financialinstitution), [문트랜잭션요청](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionrequest)1. xml 및 sgml 파일에 대해 각각 ofxVersion V2x 또는 V1x를 사용하십시오. [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Save 메소드의 매개변수로.1. 를 불러 [저장 방법](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) 대상 파일과 ofxVersion을 제공함으로써.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="생성 요구 사항" %}}

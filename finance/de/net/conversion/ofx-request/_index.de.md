@@ -20,7 +20,7 @@ otherformats: OFX Response
 {{< blocks/products/pf/agp/feature-section >}}
 
 {{% blocks/products/pf/agp/feature-section-col title="So konvertieren Sie die Anforderungsdatei OFX vom 1.03- in das 2.2-Format" %}}
-1. Eingabedatei laden mit [OfxRequestDocument-Klasse](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument).1. Verwenden Sie die ofxVersion V2x ab [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) als Parameter in der Save-Methode.1. Ruf den ... an [Methode speichern](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) indem Sie die Zieldatei und ofxVersion angeben.
+1. Eingabedatei laden mit [OfxRequestDocument-Klasse](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument).1. Verwenden Sie die ofxVersion V2x ab [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) als Parameter in der Save-Methode.1. Ruf den [Methode speichern](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxrequestdocument/methods/save) indem Sie die Zieldatei und ofxVersion angeben.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Konvertierungsanforderung" %}}

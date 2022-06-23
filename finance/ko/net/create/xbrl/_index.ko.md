@@ -18,7 +18,7 @@ otherformats:
 
 코드 스니펫의 단계를 따르거나 확장 가능한 비즈니스 보고 언어 XBRL 파일을 생성하기 위해 애플리케이션 요구에 따라 코드를 향상시키십시오. 애플리케이션 내에 생성 요구 사항이 있는지 확인하십시오.
 
-1. 만들다 [XbrlDocument 클래스](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) 사례.1. 새 XBRL 인스턴스 문서를 만들려면 [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) 그리고 [Xbrl인스턴스](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. 다음을 사용하여 스키마 참조 추가 [스키마 참조 컬렉션](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. 응용 프로그램 특성에 따라 컨텍스트, 단위, 항목, 각주 링크 등을 추가합니다.1. 을 부르다 [저장 방법](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) 대상 파일 경로를 제공하여.
+1. 만들다 [XbrlDocument 클래스](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrldocument) 사례.1. 새 XBRL 인스턴스 문서를 만들려면 [XbrlInstanceCollection](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstancecollection) 그리고 [Xbrl인스턴스](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/xbrlinstance).1. 다음을 사용하여 스키마 참조 추가 [스키마 참조 컬렉션](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/schemarefcollection)1. 응용 프로그램 특성에 따라 컨텍스트, 단위, 항목, 각주 링크 등을 추가합니다.1. 를 불러 [저장 방법](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.xbrldocument/save/methods/1) 대상 파일 경로를 제공하여.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="생성 요구 사항" %}}

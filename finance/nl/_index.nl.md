@@ -14,6 +14,10 @@ description: High Code API's en gratis apps voor het verwerken van eXtensible be
 High Code API's voor XBRL- en iXBRL-indelingsverwerking in Windows Forms, ASP.NET met behulp van .NET Framework en in Mono.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python via .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Gebruik Python om de ontwikkeling te versnellen. Genereer en manipuleer documenten met Python scripts. Ons product biedt een uitgebreide reeks functies die u mogelijk nodig hebt in uw softwareoplossingen.
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Bekijk alle High Code API\'s" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

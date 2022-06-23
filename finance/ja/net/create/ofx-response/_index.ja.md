@@ -16,14 +16,14 @@ otherformats: OFX Response
 
 {{% blocks/products/pf/agp/feature-section-col title="OFX応答ファイルを作成する方法" %}}
 
-アプリケーション内で作成要件を満たした後、コードスニペットの手順に従うか、アプリケーションのニーズに応じて拡張します。
+コードスニペットの手順に従うか、アプリケーション内に作成要件を設定した後、アプリケーションのニーズに応じてコードスニペットを拡張します。
 
 1. 作成 [OfxResponseDocumentクラス](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) 物体。1. APIによって提供されるさまざまなクラスを使用して関連するプロパティを割り当てます。 [SignonResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)、  [StatementTransactionResponse](https://apireference.aspose.com/finance/net/aspose.finance.ofx.bank/statementtransactionresponse)、 [StatementTransaction](https://apireference.aspose.com/finance/net/aspose.finance.ofx/statementtransaction)1. xmlファイルとsgmlファイルにはそれぞれofxVersionV2xまたはV1xを使用します。 [OfxVersionEnum](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxversionenum) Saveメソッドのパラメーターとして。1. 電話する [保存方法](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument/methods/save) ターゲットファイルとofxVersionを提供します。
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="作成要件" %}}
 OFX応答ファイルの作成に進むには、.NETFinanceAPIがレポート生成アプリケーションに含まれる主な要件です。 
-- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから```Install-PackageAspose.Finance```を使用してインストールします。
+- コマンドラインから```nuget install Aspose.Finance```としてインストールするか、VisualStudioのパッケージマネージャーコンソールから`` `Install-PackageAspose.Finance```を使用してインストールします。
 - または、オフラインのMSIインストーラーまたはDLLをZIPファイルで取得します。 [ダウンロード](https://downloads.aspose.com/finance/net)。{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="OFX応答ファイルを作成するためのC#コード" offSpacer="" %}}

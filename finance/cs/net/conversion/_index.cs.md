@@ -4,7 +4,7 @@ url: /cs/net/conversion/
 description:  C# kód pro převod finančních zpráv ve formátech souborů XBRL, iXBRL(inline xbrl) a OFX prostřednictvím knihovny .NET.
 ---
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/i18n/feature-page-header h1="Převést soubory finančních výkazů prostřednictvím C#" h2="Konverze formátů finančních zpráv včetně souborů XBRL, iXBRL a OFX z formátu 1.03 na 2.2 v aplikacích založených na .NET." >}}
+{{< blocks/products/pf/i18n/feature-page-header h1="Převést soubory finančních výkazů prostřednictvím C#" h2="Finanční zpráva převádí formáty včetně souborů XBRL, iXBRL a OFX z formátu 1.03 na 2.2 v aplikacích založených na .NET." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 

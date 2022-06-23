@@ -25,7 +25,7 @@ otherformats: XLSX
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Požadavky na převod" %}}
-Chcete-li pokračovat pro konverzi iXBRL na XBRL, je hlavním požadavkem .NET Finance API. Nainstalujte jej pomocí příkazového řádku jako ```nuget install Aspose.Finance``` nebo prostřednictvím konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Finance```.
+Chcete-li pokračovat pro konverzi iXBRL na XBRL, je hlavním požadavkem .NET Finance API. Nainstalujte jej pomocí příkazového řádku jako ```nuget install Aspose.Finance``` nebo pomocí konzoly Správce balíčků sady Visual Studio s ```Install-Package Aspose.Finance```.
 
 Případně získejte offline instalační program MSI nebo knihovny DLL v souboru ZIP [stahování](https://downloads.aspose.com/finance/net).
 {{% /blocks/products/pf/agp/feature-section-col %}}

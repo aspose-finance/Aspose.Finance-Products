@@ -18,7 +18,7 @@ otherformats:
 
 Wykonaj czynności opisane we fragmencie kodu lub ulepsz go zgodnie z potrzebami aplikacji, aby sprawdzić poprawność dokumentów w języku iXBRL w języku raportowania biznesowego. Upewnij się, że aplikacja zawiera wymagania dotyczące walidacji.
 
-1. Załaduj plik iXBRL za pomocą [Klasa InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Instancja.1. Aby sprawdzić poprawność wczytanego pliku, tak aby był zgodny z [iXBRL specyfikacja](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Stosowanie [Uprawomocnić()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) metoda ważności pliku.
+1. Załaduj plik iXBRL za pomocą [Klasa InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Instancja.1. Aby sprawdzić poprawność wczytanego pliku, tak aby był zgodny z [iXBRL specyfikacja](http://www.xbrl.org/specification/inlinexbrl-part1/rec-2013-11-18/inlinexbrl-part1-rec-2013-11-18.html)1. Posługiwać się [Uprawomocnić()](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument/methods/validate) metoda ważności pliku.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="Wymóg walidacji" %}}

@@ -25,7 +25,7 @@ Xác thực tệp XBRL là cần thiết cho một số trường hợp chẳng 
 
 {{% blocks/products/pf/feature-page-section h2="Xác thực iXBRL tài liệu" %}}
 
-Để xác thực iXLRB, hãy tải nó qua [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) và sử dụng phương thức Validate () của nó. Ở trong [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) liệt kê, mã lỗi xác thực được xác định cho mỗi quy tắc xác thực. Một số mã là ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup, v.v. Nhà phát triển có thể gỡ lỗi và hiển thị mã khi người dùng cuối hoặc có thể hiển thị hướng giải quyết vấn đề.
+Để xác thực iXLRB, hãy tải nó qua [InlineXbrlDocument](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) và sử dụng phương thức Validate () của nó. Trong [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) liệt kê, mã lỗi xác thực được xác định cho mỗi quy tắc xác thực. Một số mã là ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup, v.v. Nhà phát triển có thể gỡ lỗi và hiển thị mã khi người dùng cuối hoặc có thể hiển thị hướng giải quyết vấn đề.
 
 {{% blocks/products/pf/feature-page-code h3="C# Mã để Xác thực iXBRL Tài liệu" %}}
 

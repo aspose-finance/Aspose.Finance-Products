@@ -25,7 +25,7 @@ otherformats: OFX Response
 
 {{% blocks/products/pf/agp/feature-section-col title="ข้อกำหนดการแปลง" %}}
 หากต้องการดำเนินการแปลง OFX ไฟล์คำขอจาก 1.03 เป็น 2.2 นั้น .NET Finance API เป็นข้อกำหนดหลัก 
-- ติดตั้งผ่านบรรทัดคำสั่งเป็น ```nuget install Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
+- ติดตั้งผ่านบรรทัดคำสั่งเป็น ``` ติดตั้ง nuget Aspose.Finance``` หรือผ่าน Package Manager Console ของ Visual Studio ด้วย ```Install-Package Aspose.Finance```
 - หรือรับตัวติดตั้ง MSI แบบออฟไลน์หรือ DLL ในไฟล์ ZIP จาก [ดาวน์โหลด](https://downloads.aspose.com/finance/net).{{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="C# รหัสสำหรับ OFX ไฟล์คำขอจาก 1.03 เป็น 2.2 การแปลงรูปแบบ" offSpacer="" %}}
@@ -44,7 +44,7 @@ otherformats: OFX Response
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-xlsx/" name="XBRL เป็น XLSX" description="สเปรดชีต Microsoft Excel Open XML" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL ถึง iXBRL" description="ภาษาการรายงานธุรกิจที่ขยายได้แบบอินไลน์" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/finance/net/conversion/xbrl-to-ixbrl/" name="XBRL ถึง iXBRL" description="Inline Extensible Business Reporting Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

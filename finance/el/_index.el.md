@@ -11,7 +11,11 @@ description: High Code API και δωρεάν εφαρμογές για την 
 {{< blocks/products/pf/product-card-row title="Aspose.Finance Περιλαμβάνονται τα API High Code" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Finance for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" productLink="https://products.aspose.com/finance/net" >}}
-High Code API για επεξεργασία μορφής XBRL και iXBRL σε φόρμες Windows, ASP.NET χρησιμοποιώντας .NET Framework καθώς και σε Mono.
+High Code API για επεξεργασία μορφής XBRL και iXBRL σε φόρμες Windows, ASP.NET με χρήση του .NET Framework καθώς και στο Mono.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python μέσω .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Χρησιμοποιήστε το Python για να επιταχύνετε την ανάπτυξη. Δημιουργήστε και χειριστείτε έγγραφα με Python σενάρια. Το προϊόν μας παρέχει ένα ολοκληρωμένο σύνολο λειτουργιών που μπορεί να χρειαστείτε στις λύσεις λογισμικού σας.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="Προβολή όλων των API High Code" >}}

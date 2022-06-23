@@ -18,7 +18,7 @@ otherformats:
 
 遵循代码片段中的步骤或根据您的应用程序需要对其进行增强，以读取可扩展的业务报告语言 OFX 响应文件。确保在您的应用程序中有阅读要求。
 
-1. 创建 [OfxResponseDocument 类](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) 实例。1. 将有效 OFX 响应文件的名称作为参数传递。1. 要获取文件的内部细节，请使用相关类，例如 [登录响应](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)
+1. 创造 [OfxResponseDocument 类](https://apireference.aspose.com/finance/net/aspose.finance.ofx/ofxresponsedocument) 实例。1. 将有效 OFX 响应文件的名称作为参数传递。1. 要获取文件的内部细节，请使用相关类，例如 [登录响应](https://apireference.aspose.com/finance/net/aspose.finance.ofx.signon/signonresponse)
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="阅读要求" %}}

@@ -14,6 +14,10 @@ description: High Code API และแอปฟรีเพื่อประ�
 High Code API สำหรับการประมวลผลรูปแบบ XBRL และ iXBRL ใน Windows Forms, ASP.NET โดยใช้ .NET Framework และใน Mono
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python ผ่าน .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+ใช้ Python เพื่อเร่งการพัฒนา สร้างและจัดการเอกสารด้วยสคริปต์ Python ผลิตภัณฑ์ของเรามีชุดคุณลักษณะที่ครอบคลุมที่คุณอาจต้องการในโซลูชันซอฟต์แวร์ของคุณ
+{{< /blocks/products/pf/product >}}
+
 {{< blocks/products/pf/center-button href="https://products.aspose.com/finance/family/" innerText="ดู High Code API ทั้งหมด" >}}
 
 {{< /blocks/products/pf/product-card-row >}}

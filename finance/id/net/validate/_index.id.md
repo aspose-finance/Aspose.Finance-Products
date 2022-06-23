@@ -25,7 +25,7 @@ Validasi file XBRL diperlukan untuk beberapa kasus seperti untuk memeriksa data 
 
 {{% blocks/products/pf/feature-page-section h2="Validasi iXBRL Dokumen" %}}
 
-Untuk validasi iXLRB, muat melalui [Dokumen InlineXbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) kelas dan menggunakan metode Validate()-nya. Di dalam [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) enumerasi, kode kesalahan validasi ditentukan untuk setiap aturan validasi. Beberapa kode adalah ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup dll. Pengembang dapat men-debug dan menampilkan kode sebagai pengguna akhir atau dapat menunjukkan arah untuk menyelesaikan masalah.
+Untuk validasi iXLRB, muat melalui [Dokumen InlineXbrl](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) kelas dan gunakan metode Validate()-nya. Di [ValidationErrorCode](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.validator/validationerrorcode) enumerasi, kode kesalahan validasi ditentukan untuk setiap aturan validasi. Beberapa kode adalah ContextPeriodNoStartTime, ContextPeriodNoEndTime, ContextPeriodStartAfterEnd, ContextInstantNoTime, ContextScenarioXbrlNamespace, ContextScenarioXbrlSubstitutionGroup dll. Pengembang dapat men-debug dan menampilkan kode sebagai pengguna akhir atau dapat menunjukkan arah untuk menyelesaikan masalah.
 
 {{% blocks/products/pf/feature-page-code h3="C# Kode untuk Memvalidasi iXBRL Dokumen" %}}
 

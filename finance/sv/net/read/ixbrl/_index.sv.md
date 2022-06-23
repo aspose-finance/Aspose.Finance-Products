@@ -16,7 +16,7 @@ otherformats:
 
 {{% blocks/products/pf/agp/feature-section-col title="Så här läser du iXBRL-filer" %}}
 
-Följ stegen i kodavsnittet eller förbättra det i enlighet med dina programbehov för att läsa utökningsbara dokument för affärsrapporteringsspråket iXBRL. Se till att ha läskrav i din ansökan.
+Följ stegen i kodavsnittet eller förbättra det utifrån dina programbehov för att läsa utökningsbara dokument för affärsrapporteringsspråket iXBRL. Se till att ha läskrav i din ansökan.
 
 1. Skapa [InlineXbrlDocument-klass](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinexbrldocument) Exempel.1. Skicka namnet på en giltig iXBRL-fil som en parameter.1. För att få den inre detaljen i filen, använd de relevanta klasserna som t.ex [InlineFact](https://apireference.aspose.com/finance/net/aspose.finance.xbrl.inline/inlinefact), [Sammanhang](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/context), [Enhet](https://apireference.aspose.com/finance/net/aspose.finance.xbrl/unit) 
 {{% /blocks/products/pf/agp/feature-section-col %}}

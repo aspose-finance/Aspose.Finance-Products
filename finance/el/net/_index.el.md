@@ -12,7 +12,7 @@ description: Βιβλιοθήκη C# ASP.NET VB.NET για μετατροπή ο
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/finance/aspose_finance-for-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/net/release-notes/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
-<p align="justify"> Το Aspose.Finance for .NET είναι μια ευέλικτη βιβλιοθήκη για επεξεργασία μορφών που σχετίζονται με τα οικονομικά. Ο χρήστης API μπορεί εύκολα να δημιουργήσει, να διαβάσει και να επικυρώσει μορφές εκτεταμένης γλώσσας αναφοράς επιχειρήσεων XBRL και iXBRL, καθώς και να δημιουργήσει αρχεία OFX αιτημάτων και απαντήσεων σε διαφορετικές μορφές. Οι προγραμματιστές μπορούν να αναπτύξουν εύκολα λογισμικό με δυνατότητα XBRL ή μπορούν να χρησιμοποιήσουν σε οποιοδήποτε υπάρχον σύστημα ψηφιακής χρηματοοικονομικής αναφοράς για να δημιουργήσουν αναφορές με το XBRL. Είναι ένα επεκτάσιμο, εύκολο στη χρήση και αυτόνομο API ανεξάρτητο από οποιοδήποτε άλλο λογισμικό.</p>
+<p align="justify"> Το Aspose.Finance for .NET είναι μια ευέλικτη βιβλιοθήκη για επεξεργασία μορφών που σχετίζονται με τα οικονομικά. Ο χρήστης API μπορεί εύκολα να δημιουργήσει, να διαβάσει και να επικυρώσει μορφές εκτεταμένης γλώσσας αναφοράς επιχειρήσεων XBRL και iXBRL καθώς και να δημιουργήσει αρχεία OFX αιτημάτων και απαντήσεων σε διαφορετικές μορφές. Οι προγραμματιστές μπορούν να αναπτύξουν εύκολα λογισμικό με δυνατότητα XBRL ή μπορούν να χρησιμοποιήσουν σε οποιοδήποτε υπάρχον σύστημα ψηφιακής χρηματοοικονομικής αναφοράς για να δημιουργήσουν αναφορές με το XBRL. Είναι ένα επεκτάσιμο, εύκολο στη χρήση και αυτόνομο API ανεξάρτητο από οποιοδήποτε άλλο λογισμικό.</p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
 
@@ -103,7 +103,7 @@ description: Βιβλιοθήκη C# ASP.NET VB.NET για μετατροπή ο
      Εφαρμογή Windows
     </li>
     <li>
-     Διαδικτυακές υπηρεσίες
+     Υπηρεσίες διαδικτύου
     </li>
    </ul>
   </div>
@@ -245,7 +245,7 @@ description: Βιβλιοθήκη C# ASP.NET VB.NET για μετατροπή ο
     <em class="fa fa-plus-square-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Δημιουργία αρχείου απόκρισης OFX
+     Δημιουργία αρχείου απάντησης OFX
     </p>
    </div>
 
