@@ -14,6 +14,10 @@ description: Bibliothèque pour manipuler les formats liés aux finances utilis�
 Ciblez Windows Forms, ASP.NET ou tout type d'application basé sur .NET Framework 2.0 ou version ultérieure.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python via .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Utilisez Python pour accélérer le développement. Générez et manipulez des documents avec des scripts Python. Notre produit fournit un ensemble complet de fonctionnalités dont vous pourriez avoir besoin dans vos solutions logicielles.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

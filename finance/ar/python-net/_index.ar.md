@@ -9,7 +9,7 @@ description: Python مكتبة لتحويل البيانات المالية إل
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/python-net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/python-net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/python-net/" installationsDocsLink="https://docs.aspose.com/finance/python-net/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/python-net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify"> Aspose.Finance لـ Python عبر .NET مكتبة مرنة لمعالجة التنسيقات المالية ذات الصلة. يمكن لـ API إنشاء وقراءة والتحقق من صحة تنسيقات تقارير الأعمال XBRL و iXBRL بسهولة بالإضافة إلى إنشاء OFX ملفات طلب واستجابة بتنسيقات مختلفة. يمكن للمطورين تطوير XBRL برامج ممكَّنة بسهولة أو يمكنهم استخدامها ضمن أي نظام تقارير مالية رقمي حالي لإنشاء تقارير باستخدام XBRL. إنه برنامج قابل للتوسعة وسهل الاستخدام ومستقل API عن أي برنامج آخر.</p>

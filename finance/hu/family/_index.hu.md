@@ -14,6 +14,11 @@ description: Könyvtár a pénzügyi vonatkozású formátumok manipulálására
 Célozzon Windows Forms-ot, ASP-t.NET vagy bármilyen típusú alkalmazást a .NET Framework 2.0 vagy újabb verzióján.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python ezen keresztül: .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Használja a Python-t a fejlesztés felgyorsításához. Dokumentumok létrehozása és kezelése Python szkriptekkel. Termékünk a szolgáltatások átfogó készletét kínálja, amelyekre szoftvermegoldásaiban szüksége lehet.
+{{< /blocks/products/pf/product >}}
+
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

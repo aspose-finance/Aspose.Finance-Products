@@ -14,6 +14,10 @@ description: 企業への提出や、任意のプラットフォームでの資�
 Windowsフォーム、ASP .NET、または.NETFramework2.0以降に基づく任意の種類のアプリケーションを対象とします。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python経由.NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Pythonを使用して開発を加速します。 Pythonスクリプトを使用してドキュメントを生成および操作します。当社の製品は、ソフトウェアソリューションに必要となる可能性のある包括的な機能セットを提供します。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

@@ -14,6 +14,10 @@ description: Thư viện để thao tác các định dạng liên quan đến t
 Nhắm mục tiêu Windows Forms, ASP .NET hoặc bất kỳ loại ứng dụng nào dựa trên .NET Framework 2.0 trở lên.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python qua .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Sử dụng Python để đẩy nhanh quá trình phát triển. Tạo và thao tác tài liệu với tập lệnh Python. Sản phẩm của chúng tôi cung cấp một bộ tính năng toàn diện mà bạn có thể cần trong các giải pháp phần mềm của mình.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

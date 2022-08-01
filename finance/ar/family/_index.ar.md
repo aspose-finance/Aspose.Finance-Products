@@ -14,6 +14,10 @@ description: مكتبة للتعامل مع التنسيقات المتعلقة 
 استهداف نماذج Windows أو ASP .NET أو أي نوع من التطبيقات يعتمد على .NET Framework 2.0 أو أحدث.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python عبر .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+استخدم Python لتسريع التطوير. إنشاء المستندات ومعالجتها باستخدام نصوص Python. يوفر منتجنا مجموعة شاملة من الميزات التي قد تحتاجها في حلول البرامج الخاصة بك.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

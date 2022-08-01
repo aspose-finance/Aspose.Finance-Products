@@ -14,6 +14,10 @@ description: Knihovna pro manipulaci s formáty souvisejícími s financemi pou�
 Zacilte na Windows Forms, ASP.NET nebo jakýkoli typ aplikace založený na .NET Framework 2.0 nebo novějším.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python prostřednictvím .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+K urychlení vývoje použijte Python. Generujte a manipulujte s dokumenty pomocí Python skriptů. Náš produkt poskytuje komplexní sadu funkcí, které můžete potřebovat ve svých softwarových řešeních.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

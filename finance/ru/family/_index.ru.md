@@ -14,6 +14,10 @@ description: Библиотека для управления форматами
 Ориентируйтесь на Windows Forms, ASP.NET или приложения любого типа на основе .NET Framework 2.0 или более поздней версии.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python через .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+Используйте Python для ускорения разработки. Создавайте документы и управляйте ими с помощью скриптов Python. Наш продукт предоставляет полный набор функций, которые могут вам понадобиться в ваших программных решениях.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

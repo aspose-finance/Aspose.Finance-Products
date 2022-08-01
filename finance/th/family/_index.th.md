@@ -14,6 +14,10 @@ description: ห้องสมุดเพื่อจัดการรูป�
 กำหนดเป้าหมาย Windows Forms, ASP.NET หรือแอปพลิเคชันประเภทใดก็ได้ตาม .NET Framework 2.0 หรือใหม่กว่า
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python ผ่าน .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+ใช้ Python เพื่อเร่งการพัฒนา สร้างและจัดการเอกสารด้วยสคริปต์ Python ผลิตภัณฑ์ของเรามีชุดคุณลักษณะที่ครอบคลุมที่คุณอาจต้องการในโซลูชันซอฟต์แวร์ของคุณ
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

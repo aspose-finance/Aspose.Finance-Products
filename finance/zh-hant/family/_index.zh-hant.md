@@ -14,6 +14,10 @@ description: 在任何平台上操作用於為公司歸檔和生成資金和槓�
 面向 Windows 窗體、ASP.NET 或基於 .NET Framework 2.0 或更高版本的任何類型的應用程序。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Finance for " title="Python 通過 .NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" productLink="/finance/python-net" >}}
+使用 Python 加速開發。使用 Python 腳本生成和操作文檔。我們的產品提供了您在軟件解決方案中可能需要的一整套功能。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

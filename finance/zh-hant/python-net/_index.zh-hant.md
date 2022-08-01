@@ -9,7 +9,7 @@ description: Python 將財務報表轉換為可擴展業務報告語言的庫 XB
 
 {{< blocks/products/pf/main-container pfName="Aspose.Finance " subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/python-net/" installationsDocsLink="" nugetLink="https://www.nuget.org/packages/Aspose.Finance/" nugetPackageName="Aspose.Finance" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/python-net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/finance/aspose_finance-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/finance/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/finance/python-net/" installationsDocsLink="https://docs.aspose.com/finance/python-net/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/finance/python-net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p align="justify"> Aspose.Finance for Python via .NET 是一個用於金融相關格式處理的靈活庫。 API 可以輕鬆創建、讀取和驗證可擴展業務報告語言 XBRL 和 iXBRL 格式以及創建不同格式的 OFX 請求和響應文件。開發人員可以輕鬆開發支持 XBRL 的軟件，也可以在任何現有的數字財務報告系統中使用 XBRL 創建報告。它是一個可擴展、易於使用且獨立於任何其他軟件的獨立 API。</p>
