@@ -44,3 +44,4 @@ Per la generazione di OFX file, API fornisce [Documento di richiesta Ofx](https:
 {{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

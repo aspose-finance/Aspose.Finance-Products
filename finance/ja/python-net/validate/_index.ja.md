@@ -36,3 +36,4 @@ iXLRB検証の場合は、InlineXbrlDocumentクラスを介してロードし、
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Validate" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

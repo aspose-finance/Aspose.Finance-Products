@@ -36,3 +36,4 @@ iXLRB doğrulaması için şununla yükleyin: [Satır içiXbrlBelge](https://api
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Validate" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

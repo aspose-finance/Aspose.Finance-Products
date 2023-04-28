@@ -50,3 +50,4 @@ API, XBRL dosyalarının iXBRL ve Microsoft® Excel XLSX biçimine dönüştür�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="xbrl-to-ixbrl xbrl-to-xlsx" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

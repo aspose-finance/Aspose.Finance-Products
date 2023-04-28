@@ -44,3 +44,4 @@ Aby wygenerować OFX plików, API udostępnia klasy OfxRequestDocument i OfxResp
 {{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

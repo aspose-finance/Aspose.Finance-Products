@@ -44,3 +44,4 @@ arc 角色參考。 API 為每個功能提供相關類，例如上下文，開�
 {{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

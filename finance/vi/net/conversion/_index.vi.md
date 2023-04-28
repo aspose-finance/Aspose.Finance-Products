@@ -50,3 +50,4 @@ API hỗ trợ chuyển đổi tệp XBRL sang iXBRL và định dạng Microsof
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="xbrl-to-ixbrl xbrl-to-xlsx" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -44,3 +44,4 @@ description:  รหัส Python เพื่อสร้างรายงา�
 {{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

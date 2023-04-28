@@ -36,3 +36,4 @@ Para la validación de iXLRB, cárguelo a través de la clase InlineXbrlDocument
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Validate" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

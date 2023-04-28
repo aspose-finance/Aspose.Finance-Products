@@ -50,3 +50,4 @@ API ondersteunt het converteren van XBRL bestanden naar iXBRL en Microsoft® Exc
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="xbrl-to-ixbrl xbrl-to-xlsx" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -36,3 +36,4 @@ description:  Pythonライブラリを介してXBRLおよびiXBRLファイルの
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Read" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

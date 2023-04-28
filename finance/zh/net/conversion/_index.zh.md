@@ -50,3 +50,4 @@ API 支持将 XBRL 文件转换为 iXBRL 和 Microsoft® Excel XLSX 格式。转
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="xbrl-to-ixbrl xbrl-to-xlsx" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

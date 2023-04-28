@@ -44,3 +44,4 @@ For generating OFX files, the API provides OfxRequestDocument and OfxResponseDoc
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

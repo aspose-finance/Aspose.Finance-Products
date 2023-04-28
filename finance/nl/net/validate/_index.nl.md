@@ -36,3 +36,4 @@ Voor iXLRB-validatie, laad het via [InlineXbrlDocument](https://apireference.asp
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Validate" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

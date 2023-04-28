@@ -36,3 +36,4 @@ Như đã đề cập ở trên, khi có nhu cầu xem, phân tích hoặc chỉ
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Read" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

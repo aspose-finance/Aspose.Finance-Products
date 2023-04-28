@@ -44,3 +44,4 @@ description:  รหัส C# เพื่อสร้างรายงาน�
 {{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

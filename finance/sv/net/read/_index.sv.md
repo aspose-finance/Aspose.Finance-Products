@@ -36,3 +36,4 @@ Som nämnts ovan, när det finns behov av att visa, analysera eller redigera bef
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Read" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

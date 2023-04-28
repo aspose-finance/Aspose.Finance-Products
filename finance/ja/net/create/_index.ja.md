@@ -44,3 +44,4 @@ OFXファイルを生成するために、APIは [OfxRequestDocument](https://ap
 {{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -36,3 +36,4 @@ description:  C# 代碼通過 .NET 庫驗證 XBRL 和 iXBRL 文件中的財務�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Validate" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

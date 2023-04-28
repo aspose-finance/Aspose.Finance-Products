@@ -36,3 +36,4 @@ Az iXLRB érvényesítéséhez töltse be a következőn keresztül [InlineXbrlD
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Validate" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

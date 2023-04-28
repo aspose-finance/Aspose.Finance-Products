@@ -36,3 +36,4 @@ Zoals hierboven vermeld, is het nodig om het iXBRL-bestand te lezen wanneer best
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Read" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

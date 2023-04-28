@@ -36,3 +36,4 @@ description:  C# 代码通过 .NET 库读取 XBRL 和 iXBRL 文件中的财务�
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Read" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

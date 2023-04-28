@@ -50,3 +50,4 @@ API XBRL फ़ाइलों को iXBRL और Microsoft® Excel XLSX प्
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options pairs="xbrl-to-ixbrl xbrl-to-xlsx" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

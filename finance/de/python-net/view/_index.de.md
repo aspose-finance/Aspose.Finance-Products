@@ -36,3 +36,4 @@ Wie oben erwähnt, muss die iXBRL-Datei gelesen werden, wenn vorhandene Daten an
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Read" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

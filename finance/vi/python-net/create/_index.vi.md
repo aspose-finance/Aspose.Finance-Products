@@ -44,3 +44,4 @@ Hơn nữa, API cũng hỗ trợ tạo yêu cầu / phản hồi định dạng 
 {{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

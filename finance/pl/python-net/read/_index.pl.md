@@ -36,3 +36,4 @@ Jak wspomniano powyżej, gdy istnieje potrzeba przeglądania, analizy lub edycji
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Read" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

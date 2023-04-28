@@ -44,3 +44,4 @@ description:  Python لإنشاء تقارير مالية في XBRL ، و OFX ط
 {{% /blocks/products/pf/feature-page-code %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
+{{< /blocks/products/pf/feature-page-wrap >}}

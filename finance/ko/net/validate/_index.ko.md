@@ -36,3 +36,4 @@ iXLRB 유효성 검사의 경우 다음을 통해 로드합니다. [인라인Xbr
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{< blocks/products/pf/feature-page-options formats="all" beforeslug="Validate" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
